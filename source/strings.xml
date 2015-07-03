@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="settings_login_def">Log in</string>
+    <string name="watch_tv">Live</string>
+    <string name="tv_guide">TV Guide</string>
+    <string name="replay_tv">Replay TV</string>
+    <string name="vod">Films &amp; Series</string>
+    <string name="avod">Videos</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="catchup_tv">TV on Demand</string>
+    <string name="recordings">Recordings</string>
+    <string name="settings">Settings</string>
+    <string name="messages">Messages</string>
+    <string name="now">Now</string>
+    <string name="next">Next</string>
+    <string name="tonight">Prime time</string>
+    <string name="all">All</string>
+    <string name="all_channels">All channels</string>
+    <string name="categories">Categories</string>
+    <string name="all_broadcasters">All broadcasters</string>
+    <string name="no_broadcasters">No broadcasters</string>
+    <string name="all_genres">All</string>
+    <string name="favorites">Favorites</string>
+    <string name="channels_in_offer">Available channels</string>
+    <string name="unfav">Remove favorite</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="no_data">No data</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="search">Search</string>
+    <string name="remote">Remote</string>
+    <string name="watch">Watch</string>
+    <string name="from">From</string>
+    <string name="available">Available till:</string>
+    <string name="delete">Delete</string>
+    <string name="send">Send</string>
+    <string name="select_all">Select all</string>
+    <string name="menu_reminder">Reminder</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_play">Play</string>
+    <string name="menu_rec">Record</string>
+    <string name="menu_restart">Restart</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_info">details</string>
+    <string name="menu_fav">Favorite</string>
+    <string name="menu_fav_remove">Dis-favorite</string>
+    <string name="menu_make_photo">Make a photo</string>
+    <string name="menu_imc_share">Send via IMC</string>
+    <string name="menu_replay">Replay</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_watch_on_tv">Watch on TV</string>
+    <string name="my_account_tv">Tv</string>
+    <string name="my_account_vod">onDemand</string>
+    <string name="my_account_section_favorite">Favorites</string>
+    <string name="my_account_section_continue_watching">Continue Watching</string>
+    <string name="items_selected_multi">%1d items selected</string>
+    <string name="items_selected">%1d item selected</string>
+    <string name="no_information">No information available</string>
+    <string name="newest_movies">Newest movies</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="paused">Paused</string>
+    <string name="vod_stop_marker">do you want to resume from</string>
+    <string name="vod_menu_movies">movies</string>
+    <string name="vod_menu_tv_on_demand">tv on demand</string>
+    <string name="vod_menu_account">account</string>
+    <string name="vod_details_price">€ %1s</string>
+    <string name="vod_details_minutes">%1s minutes</string>
+    <string name="vod_details_rental_period">rental period: %1s h</string>
+    <string name="vod_details_subtitles">subtitles: %1s</string>
+    <string name="vod_details_subtitles_no">no</string>
+    <string name="vod_details_language">Language: %1s</string>
+    <string name="vod_details_quality">Quality: %1s</string>
+    <string name="vod_movie_minutes">%1s min</string>
+    <string name="vod_movie_price">€ %1s</string>
+    <string name="vod_recommendation_price">%1s €</string>
+    <string name="vod_movie_confirmation">do you want to watch %1$s?</string>
+    <string name="vod_movie_cast_confirmation">do you want to cast %1$s?</string>
+    <string name="vod_movie_not_available">Movie is not available</string>
+    <string name="vod_show_subscribtion_error_dialog">Unable to connect to the subscirbtion website</string>
+    <string name="vod_account_menu_my_movies">my Mmvies (%1s)</string>
+    <string name="vod_account_menu_download_queue">download queue  (%1s)</string>
+    <string name="vod_account_menu_history">history (%1s)</string>
+    <string name="vod_account_menu_favourites">favorites (%1s)</string>
+    <string name="vod_available_for">available for</string>
+    <string name="vod_preload_status">preload status:</string>
+    <string name="vod_watch_trailer">watch trailer</string>
+    <string name="tv">TV</string>
+    <string name="live_tv">live TV</string>
+    <string name="update_decoder">Please update your TV Decoder.</string>
+    <string name="pairing_error_bad_code">Incorrect code entered</string>
+    <string name="login">Login</string>
+    <string name="login_edit_view">Login</string>
+    <string name="password">Password</string>
+    <string name="login_btn_label">Log in</string>
+
+    <string name="login_fail">Invalid ID or password. Please try again using your login details</string>
+    <string name="login_empty_login">Please enter your username</string>
+    <string name="login_empty_password">Please enter your password</string>
+
+    <string name="pass_forget">Password Forgotten</string>
+    <string name="create_account">Create Account</string>
+    <string name="pairing_error">Pairing error</string>
+    <string name="network_no_connection_title">No internet connection available</string>
+    <string name="wifi_no_connection_title">No wifi connection available</string>
+    <string name="exit_confirm">Press BACK again to exit</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_share">Share this app</string>
+    <string name="settings_tutorial">Tutorial</string>
+    <string name="settings_disconnect">Disconnect</string>
+    <string name="settings_login">Login</string>
+    <string name="settings_stb">Select TV decoder</string>
+    <string name="settings_messages">Messages</string>
+    <string name="settings_user_ID">User ID: %1$s @ %2$s</string>
+    <string name="inbox">Inbox</string>
+    <string name="settings_my_account">My Account</string>
+    <string name="settings_about">About</string>
+    <string name="settings_user">Logged in as: %1$s</string>
+    <string name="settings_user_id">User ID: %1$s @ %2$s</string>
+    <string name="settings_user_share">Share this info&#8230;</string>
+    <string name="settings_bookmarks">Bookmarks</string>
+    <string name="settings_reminders">Reminders</string>
+    <string name="settings_fav_channels">Favorite channels</string>
+    <string name="settings_rentals">Rentals</string>
+    <string name="settings_faq">FAQ</string>
+    <string name="language_fr">French</string>
+    <string name="language_fl">Dutch</string>
+    <string name="language_en">English</string>
+    <string name="actors">Actors</string>
+    <string name="search_hint">Search</string>
+    <string name="search_menu_all">All (%1s)</string>
+    <string name="search_menu_tv">TV (%1s)</string>
+    <string name="search_menu_vod">VOD (%1s)</string>
+    <string name="search_menu_recordings">Recordings (%1s)</string>
+    <string name="search_menu_tvdemand">TV on Demand (%1s)</string>
+    <string name="search_no_results">Search for Movies, TV shows, Actors, Channels and more</string>
+    <string name="quality_low">Low quality</string>
+    <string name="quality_normal">Normal quality</string>
+    <string name="quality_high">High quality</string>
+    <string name="quality_hd">High Definition</string>
+    <string name="quality_fhd">Full High Definition</string>
+    <string name="related_episodes">related movies</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="or">&#160;or&#160;</string>
+    <string name="days_left">%1s days left</string>
+    <string name="minutes">%1s minutes</string>
+    <string name="min">minutes</string>
+    <string name="hours_left">hours left</string>
+    <string name="other_episodes">Related shows</string>
+	<string name="other_episodes_catchup">Other episodes</string>
+    <string name="channels">Channels</string>
+    <string name="episode">Episode</string>
+    <string name="volume">Volume</string>
+    <string name="genres">Genres</string>
+    <string name="days">Days</string>
+    <string name="programs">Programs</string>
+    <string name="episodes">episodes</string>
+    <string name="catchup_no_feeds">No feed</string>
+    <string name="parental_advisory">Parental advisory</string>
+    <string name="radio">radio</string>
+    <string name="webcam">webcam</string>
+    <string name="free">free</string>
+    <string name="cancel">cancel</string>
+    <string name="recording">Recording</string>
+    <string name="rec_days_available">%1s days available</string>
+
+    <string name="menu">Menu</string>
+    <string name="season">season</string>
+    
+    <!-- Multimedia tab -->
+    <string name="media_photos">My photos</string>
+    <string name="media_bookmarks">My bookmarks</string>
+
+    <string name="my_recordings">My recordings</string>
+    <string name="my_rec_recordings">My recordings</string>
+    <string name="my_rec_scheduled">Scheduled</string>
+    <string name="my_rec_not_watched">Not watched</string>
+    <string name="my_photos">My photos</string>
+    <string name="slideshow_speed">Slideshow speed</string>
+    <string name="menu_stop_slideshow">Stop slideshow</string>
+    <string name="my_bookmarks">My bookmarks</string>
+    
+    <!-- Dashboard -->
+    <string name="by_user">by %1$s</string>
+    <string name="featured">featured</string>
+    <string name="dash_favorites">favorite channels</string>
+    <string name="dash_reminders">reminders</string>
+    <string name="dash_rentals">rentals</string>
+
+    <!-- Reminder notification -->
+    <string name="program_notification">%1$s is starting on %2$s at %3$s</string>
+
+    <!-- Content descriptions for image placeholders -->
+    <string name="content_description_channel_icon">channel icon</string>
+    <string name="content_description_play_pause">play/pause</string>
+
+    <!-- Error messages -->
+    <string name="channel_unavailable">This channel is not available on your current device.</string>
+    <string name="channel_unavailable_3g">This channel is available only on WiFi.</string>
+    <string name="channel_unavailable_wifi">This channel is available only on 3G.</string>
+    <string name="vod_unavailable">VOD is not available on your current environment.</string>
+    <string name="vod_comming_soon">VOD will be available soon...</string>
+    <!--Mirror-->
+    <string name="channel_not_allowed_to_cast">This channel is not allowed to be casted</string>
+    <string name="channel_no_mirror_stream">This channel cannot be casted to Chromecast</string>
+    <string name="vod_not_allowed_to_cast">This movie cannot be watched on Chromecast</string>
+
+    <!-- Tutorials -->
+    <string name="tutorial_page_1_title">Program your recordings remotely</string>
+    <string name="tutorial_page_1_content">Watch your favorite programs when you want, program your recordings remotely!</string>
+    <string name="tutorial_page_2_title">Catchup, view programs on the go</string>
+    <string name="tutorial_page_2_content">Never miss a episode of your favorite program with catchup! Watch your programs on the go!</string>
+    <string name="tutorial_page_3_title">Watch movies with Video On Demand</string>
+    <string name="tutorial_page_3_content">Enjoy the best and latest movies, now available at Video On Demand from Videoland!</string>
+    <string name="tutorial_page_4_title">Set a reminder</string>
+    <string name="tutorial_page_4_content">Set a reminder for your favorite television show and never miss it again!</string>
+    <string name="tutorial_page_5_title">Search for shows, movies &amp; more</string>
+    <string name="tutorial_page_5_content">Enter your keyword and the results will be divided in clear categories</string>
+    
+    
+    <!-- Homepage -->
+    <string name="prime_time">Prime time</string>
+    <string name="now_on_tv">Now on TV</string>
+    <string name="see_more">MORE</string>
+    <string name="full_tv_guide"><u>full TV Guide</u></string>
+    <string name="latest_movies">Latest movies</string>
+    <string name="most_watched">Most watched</string>
+    <string name="most_viewed_vids">most viewed videos</string>
+    <string name="hot_videos">what\'s hot?</string>
+
+    <string name="environment">Environment</string>
+    <string name="version">version: v%1$s (%2$s)</string>
+    <string name="address"> M7 Group S.A.-Rue Albert Borschette 2 Luxembourg 1246 N/A LU</string>
+    <string name="developer">Developer</string>
+    <string name="developer_name">Stream Group, The Netherlands</string>
+    <string name="sdp">Service Delivery Platform</string>
+    <string name="libraries">Libraries</string>
+    <string name="libs">android-query\nViewPagerIndicator\nGoogle Cloud Messaging</string>
+    
+    <!-- IMC -->
+    <string name="imc_def_msg">I invite you to watch</string>
+    <string name="message_format">%1$s on %2$s</string>
+    
+    <!-- Device limit -->
+    <string name="device_id">Device id:</string>
+    <string name="device_name">Device name:</string>
+    <string name="device_type">Device type:</string>
+    <string name="too_many_devices_title">Device limit exceeded</string>
+    <string name="too_many_devices">Before you can login on this device, you should logout one of your other devices:</string>
+    
+    <!-- Title for a dialog showing possible activities for sharing in ShareActionProvider [CHAR LIMIT=25] -->
+    <string name="shareactionprovider_share_with">Share with:</string>
+    
+    <string name="back">Back</string>
+    
+    <string name="network_no_connection_msg">Enable internet connection and try again</string>
+    <string name="ok">ok</string>
+    <string name="wifi_no_connected_msg">You are not allowed to watch this video with your current network connection</string>
+    
+    <!-- Ratings -->
+    <string name="rating">Rate the movie</string>
+    
+    <!-- Empty strings for Dashboard sections -->
+    <string name="empty_rentals">no rentals</string>
+    <string name="empty_favs">no favorite TV channels set</string>
+    <string name="empty_bookmarks">no bookmarks set</string>
+    <string name="empty_notifications">no active notifications</string>
+
+    <string name="no_channels_available">No channels available</string>
+    <string name="no_broadcasters_available">No broadcasters available</string>
+    
+    <string name="settings_self_care">FAQ</string>
+    <string name="more">more</string>
+    <string name="less">less</string>
+    
+    <!--  Login Dialog fragment-->
+    <string name="enter_code">enter the pairing code</string>
+    <string name="pair_btn">pair with your TV decoder</string>
+    <string name="pair_instruction_2">Menu > Settings > Mobile services</string>
+    <string name="pair_change_mode">login with username and password</string>
+    <string name="incorrect_pair_code">Incorrect code</string>
+    
+    <!-- Recordings menu -->
+    <string name="all_recordings">All recordings</string>
+    <string name="unwatched">Unwatched</string>
+    <string name="planned">Planned</string>
+    
+    <!-- Recordings context menu -->
+    <string name="menu_reminder_play">Play on device</string>
+    <string name="menu_reminder_play_tv">Play on Tv</string>
+    <string name="menu_reminder_delete">Delete</string>
+    
+    <!-- Recordings errors -->
+    <string name="recording_error_message_add">Can not add recording.</string>
+    <string name="recording_error_message_stop">Can not stop recording.</string>
+    <string name="recording_error_message_delete">Can not delete recording.</string>
+    <string name="recording_error_message_unknown">Channel unavailable for an unknown reason.</string>
+    <string name="reason_dont_have_right_offer_recordings">Before You can record this channel You need to upgrade Your product to %1$s. \n If you want to activate the %1$s, please call \n %2$s.</string>
+    <string name="reason_dont_have_right_offer_multiple">You can\'t record this channel, because you miss the needed product. \n  If you want more information about the available products, please call \n %1$s.</string>
+    <string name="reason_no_playback_offer">No playback on this device</string>
+    <string name="reason_dont_have_right_offer_to_playback">Before You can play back recordings on this device You need to upgrade Your product to %1$s.\n If you want to activate the %1$s, please call \n %2$s.</string>
+    <string name="reason_dont_have_right_offer_multiple_to_playback">You can\'t play back recordings on this device, because you miss the needed product. \n  If you want more information about the available products, please call \n %1$s.</string>
+    <string name="reason_duration_limit">You don\'t have enough space.</string>
+    <string name="reason_overlap_limit">Overlap limit is exceeded.</string>
+    <string name="reason_forbidden">can not be recorded.</string>
+    <string name="reason_already_modified">Data already modified.</string>
+    <string name="reason_not_found">Recording not found.</string>
+    <string name="reason_not_configured">Offers not found or not configured.</string>
+    <string name="reason_unkown">Unknown error.</string>
+    
+    <string name="no_recordings">No recordings available</string>
+    <string name="recording_need_login">Login to use this feature</string>
+    <string name="recording_available_time">%1$sh %2$sm available</string>
+    
+    <!-- Offer dialog -->
+    <string name="offer_channel_not_available"> is not part of your offer.</string>
+    
+    <!-- Devices list -->
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">Select a TV decoder</string>
+    <string name="no_devices">No TV Decoders found</string>
+    
+    <!-- Blackouts -->
+    <string name="blackout_message">This channel is blacked out until %1$s</string>
+    
+    <!-- Tv Decoder list -->
+    <string name="select_stb">Select TV decoder to control</string>
+
+    <!-- New version available dialog -->
+    <string name="new_version_available">There is a newer version of the app available.</string>
+    <string name="would_you_like_to_update">Would you like to update?</string>
+    <string name="force_update">You need to update before continuing</string>
+    
+    <!-- Remote -->
+    <string name="remote_guide">GUIDE</string>
+    <string name="remote_radio">RADIO</string>
+    <string name="remote_fav">FAV</string>
+    <string name="remote_text">TEXT</string>
+
+    <!-- Poximity -->
+    <string name="location_menu">Home location</string>
+    <string name="location_error_title">Location error</string>
+    <string name="location_error_text">You are currently not in Home. Please visit \'Settings > Home location\' for more information.</string>
+    <string name="location_unset_error_text">Your Home location hasn\'t been set. Please visit \'Settings > Home location\' for more information.</string>
+
+    <string name="location_set_header">Are you at home</string>
+    <string name="location_set_description">%1$s times in the period of %2$s dayes. support call %3$s</string>
+    <string name="location_set_yes">yes</string>
+    <string name="location_set_no">no</string>
+
+
+    <string name="location_stored_header">Location stored</string>
+    <string name="location_stored_description">STORED %1$s times in the period of %2$s dayes. support call %3$s</string>
+    <string name="location_stored_reset">reset</string>
+
+    <!-- Alerts -->
+    <string name="alertdialog_title">Can not be rented via Android</string>
+    <string name="alertdialog_not_in_offer_title">Movie is not rented</string>
+    <string name="alertdialog_vod_cant_be_watched">This content cannot be played back on this device</string>
+    <string name="alertdialog_please_upgrade_product_vod">You can\'t watch this video, because you miss the %1$s. \n Do you want to activate the %1$s, please call %2$s.</string>
+    <string name="alertdialog_please_upgrade_product_livetv">You can\'t watch this channel, because you miss the %1$s. \n Do you want to activate the %1$s, please call %2$s.</string>
+    <string name="alertdialog_please_upgrade_product_replay">You can\'t replay this channel, because you miss the needed product. \n Do you want more information about the available products, please call \n %1$s.</string>
+    <string name="alertdialog_please_upgrade_product_replay_multiple">You can\'t replay this channel, because you miss the %1$s. \n Do you want to activate the %1$s, please call %2$s.</string>
+    <!-- purchase TVOD -->
+    <string name="vod_rent_dialog_text">You will have access to the selected content for 30 days since its rental and 48 hours from the first watching.</string>
+    <string name="vod_rent_dialog_error_insufficient_funds">You don\'t have enough founds to rent %1$s.</string>
+    <string name="vod_rent_dialog_error_else_mess">“%1$s” could not be rented.\nFor details call Customer Service.</string>
+    <string name="vod_rent_toast_success">Movie rented till %1$s</string>
+    <string name="vod_rent_already_rented">Movie already rented</string>
+    <string name="rent">rent</string>
+
+    <!-- New Owners Series&Movies -->
+    <string name="vod_movies_section">Movies</string>
+    <string name="tvod_movies_section">Genres</string>
+    <string name="vod_series_section">Series</string>
+
+    <string name="vod_category_alphabetical">A-Z</string>
+    <string name="vod_category_most_recent">Most recent</string>
+    <string name="vod_category_category">category</string>
+    <string name="vod_category_series">series</string>
+    <string name="vod_category_groups">groups</string>
+
+    <string name="drawer_open">menu open</string>
+    <string name="drawer_close">menu close</string>
+    <string name="media_route_menu_title">Cast stream</string>
+    <string name="no_media_info">no media info</string>
+
+    <string name="transaction_movie_cover" translatable="false">transactionMovieCover</string>
+    <string name="home">Home</string>
+    <string name="title_activity_my_account">My Account</string>
+
+
+    <string name="casting_to_device">Casting to %1$s</string>
+    <string name="alertdialog_cant_be_casted">This content can\'t be casted</string>
+
+    <string name="player_settings_audio">Audio</string>
+    <string name="player_settings_subtitles">Sub-titles</string>
+    <string name="go_to_market">Go to Play Store</string>
+
+    <string name="child_protection">Child protection: </string>
+    <string name="child_protection_age">Minimal age: </string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_parental_control">Parental Control</string>
+    <string name="enable_pg">Enable Parental Guidence</string>
+    <string name="enter_paretnal_pin">To change level of Paretnal Guidence enter parental pincode</string>
+    <string name="dash_parental_guidence">Parental Guidence</string>
+    <string name="wrong_parental_pin">Wrong parental PIN</string>
+    <string name="to_enable_content_write_pin">Before You can watch this content You neet to enter parental pincode</string>
+    <string name="enable_pg_description">You can be asked to enter you parental pincode according to guidance information of the content</string>
+</resources>
