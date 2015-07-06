@@ -1,0 +1,27 @@
+﻿/* Class = "UILabel"; text = "PIN incorrect"; ObjectID = "97"; */
+"97.text" = "PIN incorrect";
+
+/* Class = "UITextField"; text = " "; ObjectID = "98"; */
+"98.text" = " ";
+
+/* Class = "UITextField"; text = " "; ObjectID = "99"; */
+"99.text" = " ";
+
+/* Class = "UILabel"; text = "enter the pairing code "; ObjectID = "100"; */
+"100.text" = "enter the pairing code ";
+
+/* Class = "UITextField"; text = " "; ObjectID = "101"; */
+"101.text" = " ";
+
+/* Class = "UITextField"; text = " "; ObjectID = "102"; */
+"102.text" = " ";
+
+/* Class = "UILabel"; text = "Menu > Settings > Mobile services"; ObjectID = "105"; */
+"105.text" = "Menu > Settings > Mobile services";
+
+/* Class = "UITextView"; text = "To pair with your Online TV decoder, you generate a pairing code on the TV decoder via:"; ObjectID = "106"; */
+"106.text" = "To pair with your Online TV decoder, you generate a pairing code on the TV decoder via:";
+
+/* Class = "UIButton"; normalTitle = "login with username and password"; ObjectID = "109"; */
+"109.normalTitle" = "login with username and password";
+

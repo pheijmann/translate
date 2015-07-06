@@ -1,0 +1,38 @@
+﻿Actions,Functies
+BACK,Terug
+CAST,Cast
+CATCH-UP,Gemist
+EPG,Alle programma's
+Enter your 4 digit purchase code here,Vul hier de 4 cijferige betaalcode in
+FAVORITE,Favorieten
+Favorites,Favoriete TV zenders
+GENRE,Thema
+GENRES,Thema's
+List,Lijst
+Mon,Ma
+More,Meer
+NOW ON TV,Nu op TV
+PROMO,promo
+PVR,Opnames
+Primetime,Primetime
+RATE THIS MOVIE,Beoordeel deze fim
+REGIONAL,Regionale kanalen
+RENT,Huren
+RENT MOVIE,Programma huren
+REPLAY,Gemist
+Recommendations,Aanbevelingen
+Renting failed,Fout tijdens het huren
+Today,Vandaag
+Tomorrow,Morgen
+WATCH MOVIE,Film bekijken
+channels,Alle TV zenders
+epg_grid_no_channels,Geen zenders beschikbaar
+epg_grid_no_fav_channels,Er zijn geen favoriete zenders beschikbaar
+epg_loading_failed_msg,"Failed to load EPG, try again later"
+genres,Thema's
+live_loading_failed_msg,"Live-programma's laden is mislukt , probeer het later opnieuw"
+live_no_channels,Geen zenders beschikbaar
+live_no_fav_channels,Er zijn geen favoriete zenders beschikbaar
+mosaic,Mozaïek
+supergenres_loading_failed_msg,"Failed to load programs, try again later"
+view_offline_message,Deze weergave is niet beschikbaar offline

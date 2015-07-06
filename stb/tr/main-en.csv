@@ -1,0 +1,265 @@
+﻿ADULTVOD,Adult VOD
+APPS,Apps
+All temporarily stored content for pause tv will be removed once you go back to live. Are you sure?,All temporarily stored content for pause tv will be removed once you go back to live. Are you sure?
+All temporarily stored content for pause tv will be removed once you zap. Are you sure you want to zap?,All temporarily stored content for pause tv will be removed once you zap. Are you sure you want to zap?
+April,April
+April_abbrev,Apr
+Are you sure you want to continue and delete all recordings?,Are you sure you want to continue and delete all recordings?
+August,August
+August_abbrev,Aug
+BACK,Back
+Back to details,back to details
+Backspace,BACKSPACE
+"Because you restart tv buffer is going to an end, we start your restarted program, so you are able to finish watching it.","Because you restart tv buffer is going to an end, we start your restarted program, so you are able to finish watching it."
+"Before you can play this video, you need to have the {product_name}.","Before you can play this video, you need to have the '{product_name}'."
+Before you can record this channel you need to have the {offer_name} offer,Before you can record this channel you need to have the {offer_name} offer
+Before you can restart this channel you need to have the {offer_name} offer,Before you can restart this channel you need to have the {offer_name} offer
+CAST,Cast
+CLOSE,Close
+Cannot play the recording,Cannot play the recording
+Cannot record this channel,Cannot record this channel
+Cannot restart this channel,Cannot restart this channel
+Cast,Cast
+Channel not found,Channel not found
+Clear_keyboard,CLEAR
+Close,Close
+Connection error,Connection error
+"Content is only available with offer, for more info call {callcenter_num}",Content is only available with an offer. For more information you can call {callcenter_num}.
+DISCOVERY,Discovery
+December,December
+December_abbrev,Dec
+Delete recording,Delete recording
+Director,Director
+Duration,Duration
+Enter PIN to open adult portal,Enter parental PIN to open adult portal
+Enter here your 14-digit voucher code,Enter here your 14-digit voucher code
+Enter parental PIN,Enter the parental pincode to watch {chan}
+Episode ended,The episode ended
+Error,Error occured
+Expand description,expand
+Expiration time exceeded,Expiration time exceeded
+External page,Opening external page
+FAVORITE,Favorite
+FST scan required,FST scan required
+FUTURE,Watch upfront
+Failed to play the recording,Failed to play the recording
+Favorites,Favorites
+February,February
+February_abbrev,Feb
+Friday,Friday
+Friday_abbrev,Fri
+GENRE,Genre
+Genre,Genre
+Going to standby in {0} sec,Going to standby in {0} seconds
+Instant recording failed,Instant recording failed
+Instant recording started,Instant recording started
+Instant recording stopped,Instant recording stopped
+Insufficient Funds,Your monthly limit has been reached
+Internal storage reached the limit.,Internal storage reached the limit.
+It is not possible to rewind further.,It is not possible to rewind any further.
+January,January
+January_abbrev,Jan
+July,July
+July_abbrev,Jul
+June,June
+June_abbrev,Jun
+Manual search,Manual search
+March,March
+March_abbrev,Mar
+May,May
+May_abbrev,May
+Monday,Monday
+Monday_abbrev,Mon
+More episodes of,More episodes of ...
+More movies of,More movies of ...
+Movie ended,The movie ended
+My Account,My Account
+New update available,New update available
+No I don't,No I don't
+No channels available,No channels available
+No program information,No program information
+No search results found,No search results found
+"No, keep watching Restart tv","No, keep watching Restart tv"
+"No, stay in Pause TV mode","No, stay in Pause TV mode"
+"No, stay on current channel","No, stay on current channel"
+Not allowed to record last 15 minutes,Not allowed to record last 15 minutes
+Not available,Not available
+November,November
+November_abbrev,Nov
+OSD_dialog_no,No
+OSD_dialog_yes,Yes
+OSD_remove_recordings_header,Remove recordings
+October,October
+October_abbrev,Oct
+Offer,Offer
+Offline,Offline
+On demand ended,On demand ended
+PAST,Missed
+PIN incorrect,Wrong pincode
+Parental content blocked,Enter parental control pincode
+Parental control,Parental control
+Pause TV buffer reached,Pause TV buffer reached
+PauseTV,Pause TV
+Play from beginning,Play from beginning
+Play recording,Play recording
+Play video,Play video
+Please check your cables and internet connection,Please check your cables and internet connection
+Please choose a movie deal,Please choose a movie deal
+Please choose payment option,Please choose payment option
+Preparing the recording,Preparing the recording
+Price,Price
+Price from,Price from
+Program ended,The program ended
+RADIO,Radio
+RATE,Rate
+RECORDINGS,Recordings
+REMIND,Remind
+RENT EPISODE,Rent episode
+RENT MOVIE,Rent movie
+RENT PROGRAM,Rent program
+RENTAL_Offers_AcceptBtn,Accept payment
+RENTAL_Offers_Desc_Deals,"This movie would be available for 30 days after renting. When you start watching this movie, it is possible to watch or restart the movie for {hours} hours before ending the rental period."
+RENTAL_Offers_Desc_DealsAndProducts,"Your choice is also part of a package. When you rent the single video its available for 30 days. When you start watching the video, its available for {hours} hours"
+RENTAL_Offers_Desc_Products,Your choice is part of a package. The package will give you unlimited access to the content for a certain period of time.
+RENTAL_Offers_Discount,Discount
+RENTAL_Offers_MovieLabel,Single Movie
+RENTAL_Offers_Original_Price,Original Price
+RENTAL_Offers_PayMsg1,The following costs will be charged:
+RENTAL_Offers_ProductLabel,Package
+RENTAL_Offers_Title,Payment options
+RENTAL_Payment_Chosen,Chosen:
+RENTAL_Payment_SubTitle,Please enter rental PIN
+RENTAL_Payment_Success,Success
+RENTAL_Payment_Title,Payment verification
+RENTAL_Policy_AcceptButton,Accept
+RENTAL_Policy_BackButtton,Back
+RENTAL_Policy_CheckBoxDescription,I have read the general terms and fully agree.
+RENTAL_Policy_Description1,Read on our website the general terms before you continue.
+RENTAL_Policy_Description2,These general terms are valid according the referencemodel for General Terms for Internet access.This referencemodel has been created by the Consumentenbond and Sociaal- Economische Raad.
+RENTAL_Policy_Title,General terms
+RENTAL_Voucher_Cancel,Cancel
+RENTAL_Voucher_Proceed,Proceed
+Record AlreadyModified,AlreadyModified
+Record Complete,Record Complete
+Record DurationLimit,DurationLimit
+Record Forbidden,Forbidden
+Record NotFound,Recording not found
+Record OffersNotConfigured,OffersNotConfigured
+Record OverlapLimit,OverlapLimit
+Record Succes,Success
+Recording ended,Recording ended
+Recording error,Recording error
+Recording failed,Recording failed
+Recording removal failed,Recording removal failed
+Recording removed,Recording removed
+"Recording will soon not be possible, delete old recording to free up time","Recording will soon not be possible, delete old recording to free up time"
+Remove,Remove
+Rent failed! Invalid pin!,Incorrect pincode
+Rental period,Rental period
+Renting failed,Renting failed
+Restart TV,Restart TV
+Resume at {position},Resume at {position}
+Return by pressing the exit button,Return by pressing the exit button.
+Return to the live moment of this channel,Return to the live moment of this channel
+SCHEDULE RECORDING,Record
+SC_messaging_EXPIRED,"Your smart card rights are expired since {rightsexpirydate}. If the problem persists, please contact TV operator {brand}. More information available on {brandurl}."
+SC_messaging_INVALID_CARD,Invalid smart card detected
+SC_messaging_NEW_CARD,"Your smart card has not received any rights yet. If the problem persists, please contact the TV operator {brand}. More information available on {brandurl}."
+SC_messaging_NO_CARD,No smart card detected
+SC_messaging_close,Close
+SC_messaging_header,Smart Card information
+SEARCH,Search
+SETTINGS,Settings
+SHARE,Share
+SPORTS,Sports
+Saturday,Saturday
+Saturday_abbrev,Sat
+Scanning for satellite channels has not been performed yet. It should be done in Settings.,Scanning for satellite channels has not been performed yet. It should be done in Settings.
+Scheduled recording failed,Scheduled recording failed
+Scheduled recording set,Scheduled recording set
+Search_keyboard,SEARCH
+Season,Season
+September,September
+September_abbrev,Sep
+Space,SPACE
+Stop,Stop
+Stop recording,Stop recording
+Sunday,Sunday
+Sunday_abbrev,Sun
+TV GUIDE,TV Guide
+TV ON DEMAND,TV On Demand
+Teletext,Teletext
+The program is now starting on {channelname}. Would you like to zap to the channel?,The program is now starting on {channelname}. Would you like to zap to the channel?
+The recording is being prepared for playback,The recording is being prepared for playback
+The recording just ended,The recording just ended
+"The recording limit of {cur_hours} hours has been recorded. By cleaning up old recordings, you can schedule new ones","The recording limit of {cur_hours} hours has been recorded. By cleaning up old recordings, you can schedule new ones"
+"The restarted {title} is about to end, what do you want do:","The restarted {title} is about to end, what do you want do:"
+The stb has been inactive too long and will go into standby,The device has been inactive too long and will go into standby. Press any key to keep watching.
+There is new update,There is new update
+There is no description available,There is no description available
+This channel is not part of your offer,This channel is not part of your offer
+This feature is currently not supported,This feature is currently not supported.
+Thursday,Thursday
+Thursday_abbrev,Thu
+Today,Today
+Tomorrow,Tomorrow
+Total Price,Total Price
+Total price for 48h rental period,Total price for 48h rental period
+Trickplay is only supported when you upgrade to {offer_name} offer,Trickplay is only supported when you upgrade to {offer_name} offer
+Tuesday,Tuesday
+Tuesday_abbrev,Tue
+Unable to play video,Unable to play the video at this time.
+Unable to playback Replay,Unable to playback Replay
+Unable to trickplay,Unable to trickplay
+Use Voucher,Use Voucher
+VIDEO ON DEMAND,Video On Demand
+Valid,Valid
+Volume control not supported for this channel,Volume control not supported for this channel. Please use your television remote.
+Voucher already activated,Voucher already activated
+WATCH EPISODE,Watch episode
+WATCH MOVIE,Watch movie
+WATCH PROGRAM,Watch
+WATCH REPLAY,Watch replay
+Watch,Watch
+Watch the next program in restart mode,Watch the next program in restart mode
+Watch trailer,Watch trailer
+Wednesday,Wednesday
+Wednesday_abbrev,Wed
+Would you like to delete recording?,Would you like to delete recording?
+Would you like to resume from {position} or start over?,Would you like to resume from {position} or start over?
+Would you like to stop recording?,Would you like to stop recording?
+Yes I want,Yes I want
+"Yes, go back to live TV","Yes, go back to live TV"
+"Yes, jump to live TV","Yes, jump to live TV"
+"Yes, remove all my recordings","Yes, remove all my recordings"
+"Yes, zap to other channel","Yes, zap to other channel"
+Yesterday,Yesterday
+You are about to leave the restart modus. Are you sure you want to continue TV on the live moment?,You are about to leave the restart modus. Are you sure you want to continue TV on the live moment?
+You are leaving Pause TV,You are leaving Pause TV
+You are not allowed to record in Pause TV,You are not allowed to record in Pause TV
+"You can only record a limited amount of tv channels and programs (up to {cur_hours} hours) in your current offer. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","You can only record a limited amount of tv channels and programs (up to {cur_hours} hours) in your current offer. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}"
+"You can only record {days} days ahead. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","You can only record {days} days ahead. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}"
+You can only record {days} days ahead. Unfortunatly you already reached this limit,You can only record {days} days ahead. Unfortunatly you already reached this limit
+You can use this voucher for a {deals} movie from {owner},You can use this voucher for a {deals} movie from {owner}
+You have reached the beginning of Pause TV,You have reached the beginning of Pause TV
+You may now rent this movie with {amount}% discount,You may now rent this movie with {amount}% discount
+You may now rent this movie with {amount}% discount for {deals} quality,You may now rent this movie with {amount}% discount for {deals} quality
+You may now upsell {product} with {amount}% discount,You may now upsell {product} with {amount}% discount
+Your voucher code is incorrect,Your voucher code is incorrect
+Your voucher code was accepted,Your voucher code was accepted
+back,back
+cancel,cancel
+channels,channels
+free,Free
+hours,hours
+minutes,minutes
+movie,Movie
+next,next
+player_no_channels_error_header,Channels List
+player_no_channels_error_message,Your channels list is empty
+press,press
+program,Program
+single movie,single movie
+{dd} days remaining,{dd} days remaining
+{hours} hours remaining,{hours} hours remaining
+{mins} minutes remaining,{mins} minutes remaining

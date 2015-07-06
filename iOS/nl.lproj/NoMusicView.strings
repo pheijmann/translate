@@ -1,0 +1,6 @@
+﻿/* Class = "IBUILabel"; text = "No Music available."; ObjectID = "4"; */
+"4.text" = "Geen muziek beschikbaar";
+
+/* Class = "IBUILabel"; text = "You can import songs with iTunes."; ObjectID = "5"; */
+"5.text" = "Importeer muziek met iTunes.";
+

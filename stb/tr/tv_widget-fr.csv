@@ -1,0 +1,38 @@
+﻿Actions,Actions
+BACK,Précédent
+CAST,Distribution
+CATCH-UP,Catch-up
+EPG,Guide TV
+Enter your 4 digit purchase code here,Introduisez ici votre code d'achat à 4 chiffres
+FAVORITE,Favori
+Favorites,Favoris
+GENRE,Genre
+GENRES,genres
+List,Liste
+Mon,Lun
+More,Plus
+NOW ON TV,Maintenant à la TV
+PROMO,Promo
+PVR,Enregistrements
+Primetime,Prime time
+RATE THIS MOVIE,Notez ce film
+REGIONAL,Chaînes régionales
+RENT,Louer
+RENT MOVIE,Louer Film
+REPLAY,Replay
+Recommendations,Suggestions
+Renting failed,Échec de la location
+Today,Aujourd'hui
+Tomorrow,Demain
+WATCH MOVIE,Regarder Film
+channels,Chaînes
+epg_grid_no_channels,Pas de chaînes disponibles
+epg_grid_no_fav_channels,Vos chaînes favorites ne sont pas disponibles
+epg_loading_failed_msg,"Impossible de charger le guide TV, réessayez plus tard"
+genres,Genres
+live_loading_failed_msg,"Impossible de charger les programmes en direct, réessayez plus tard"
+live_no_channels,Pas de chaînes disponibles
+live_no_fav_channels,Vos chaînes favorites ne sont pas disponibles
+mosaic,Mosaïque
+supergenres_loading_failed_msg,"Impossible de charger des programmes, réessayez plus tard"
+view_offline_message,Ce contenu n'est pas disponible en mode déconnecté

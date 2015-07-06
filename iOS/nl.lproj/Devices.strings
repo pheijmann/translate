@@ -1,0 +1,6 @@
+﻿/* Class = "UILabel"; text = "device limit exceeded"; ObjectID = "4"; */
+"4.text" = "Maximale aantal apparaten bereikt";
+
+/* Class = "UILabel"; text = "Before you can login on this device, you should logout on one of your other devices."; ObjectID = "5"; */
+"5.text" = "Voordat je dit apparaat kunt koppelen, moet je één van de volgende apparaten loskoppelen.";
+

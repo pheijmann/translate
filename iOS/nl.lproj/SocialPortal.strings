@@ -1,0 +1,9 @@
+﻿/* Class = "IBUITextView"; text = "Your Facebook message"; ObjectID = "4"; */
+"4.text" = "Ik maak gebruik van de Online app om mijn TV te bedienen!";
+
+/* Class = "IBUILabel"; text = "What's on your mind?"; ObjectID = "5"; */
+"5.text" = "Wat ben je aan het doen?";
+
+/* Class = "IBUIButton"; normalTitle = "Checking"; ObjectID = "9"; */
+"9.normalTitle" = "Controleren";
+

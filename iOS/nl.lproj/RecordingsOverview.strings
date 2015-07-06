@@ -1,0 +1,6 @@
+﻿/* Class = "UINavigationItem"; title = "Recordings"; ObjectID = "7"; */
+"7.title" = "Opnames";
+
+/* Class = "UILabel"; text = "No recordings available"; ObjectID = "39"; */
+"39.text" = "Geen opnames beschikbaar";
+

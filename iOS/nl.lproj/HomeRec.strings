@@ -1,0 +1,12 @@
+﻿/* Class = "UILabel"; text = "new VOD releases"; ObjectID = "12"; */
+"12.text" = "Laatste kans";
+
+/* Class = "UILabel"; text = "live TV"; ObjectID = "14"; */
+"14.text" = "Live tv";
+
+/* Class = "UILabel"; text = "see all"; ObjectID = "20"; */
+"20.text" = "Alles bekijken";
+
+/* Class = "UILabel"; text = "see TV guide"; ObjectID = "21"; */
+"21.text" = "TV Gids bekijken";
+

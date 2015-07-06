@@ -1,0 +1,33 @@
+﻿All channels,Alle Kanäle
+"All recordings will be deleted, and will be gone forever.",Alle Aufzeichnungen werden gelöscht und können danach nicht mehr wiederhergestellt werden.
+Cannot play the recording,Die Aufnahme kann nicht wiedergegeben werden
+Days,Tage
+Delete,Löschen
+Enter a pin code,PIN-Code eingeben
+Genres,Genres
+Hide Adult,Hide Adult
+Hide adult,Erwachsenen-Bereich ausblenden
+My account,Mein Konto
+New,Neu
+No recordings available,Keine Aufnahmen verfügbar
+Planned,Geplant
+Remove recordings,Aufnahmen entfernen
+Select channel,Kanal wählen
+Settings,Einstellungen
+Show Adult,Show Adult
+Show adult,Erwachsenen-Bereich zeigen
+Today,Heute
+Tomorrow,Morgen
+Yesterday,Gestern
+You can record {amount_hours} hours and store them for {amount_days} days.,Sie können {amount_hours} Stunden aufnehmen und diese Aufnahmen {amount_days} Tage speichern.
+You have the {product_name}.,Sie haben {product_name}.
+rec_len_mins,Min
+rec_len_secs,Sek
+recordings_all,Alle Aufnahmen
+recordings_new,Neue Aufnahmen
+recordings_planned,Geplante Aufnahmen
+{dd} days remaining,{dd} Tage verbleibend
+{hours} hours remaining,{hours} Stunden verbleibend
+{hours} hours {minutes} minutes available,{hours} Stunden {minutes} Minuten verfügbar
+{mins} minutes remaining,{mins} Minuten verbleibend
+{minutes} minutes available,{minutes} Minuten verfügbar

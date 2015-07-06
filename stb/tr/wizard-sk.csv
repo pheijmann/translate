@@ -1,0 +1,127 @@
+﻿Are you sure you want the box to auto detect DiSEqC configuration?,Are you sure you want the box to auto detect DiSEqC configuration?
+At this moment you reached the minimum speed to be able to enjoy the interactive features,V tomto momente ste dosiahli minimálnu rýchlosť na využívanie interaktívnych funkcií
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,"V tomto momente bolo Vaše internetové pripojenie príliš nízke na to, aby ste mohli využívať naše interaktívne služby. Skontrolujte, či v pozadí nie sú spustené iné služby, ktoré by mohli ovplyvňovať internetové pripojenie."
+Auto DiSEqC configuration applied,Auto DiSEqC configuration applied
+Auto configuration,Auto configuration
+Auto detect DiSEqC configuration,Auto detect DiSEqC configuration
+Back,Späť
+"Before you can continue, you need to install this update","Aby ste mohli pokračovať, musíte si nainštalovať túto aktualizáciu"
+Cancel auto detection,Cancel auto detection
+Cancel downloading,Cancel downloading
+Cancel installing,Cancel installing
+Cancel scanning,Cancel scanning
+Cancel searching,Cancel searching
+Canceling...,Canceling...
+Cancelling search,Canceling search
+Cannot check for updates now. Try again later.,Cannot check for updates now. Try again later.
+Channels scanning has been aborted,Channels scanning has been aborted
+Checking for updates ...,Checking for updates ...
+Choose your language,Choose your language
+Completed,Completed
+Current configuration:,Current configuration:
+Custom configuration applied,Custom configuration applied
+Default configuration applied,Default configuration applied
+Default settings,Default settings
+DiSEqC OK,DiSEqC OK
+DiSEqC auto scan cancelled,DiSEqC auto scan cancelled
+DiSEqC configuration,DiSEqC configuration
+DiSEqC configuration alert header,DiSEqC configuration
+DiSEqC not OK,DiSEqC not OK
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,Cancel
+DiSEqC_MANUAL_CUSTOM,Custom
+DiSEqC_MANUAL_DEFAULT,Default
+DiSEqC_MANUAL_OFF,off
+DiSEqC_MANUAL_ON,on
+DiSEqC_Save,Save
+DiSEqC_UNDEFINED,Undefined
+DiSEqC_port_unused,unused
+Diagnostics check,Diagnostická kontrola
+Do you want to apply the auto detected configuration?,Do you want to apply the auto detected configuration?
+Do you want to apply the custom configuration?,Do you want to apply the custom configuration?
+Do you want to apply the default configuration?,Do you want to apply the default configuration?
+Downloading,Downloading
+Enjoy TV,Vychutnajte si sledovanie TV
+Enjoy simply watching TV Online,Jednoducho sledujte TV online
+Enjoy various interactive features through network,Využívajte rôzne interaktívne funkcie prostredníctvom siete
+Enter current PIN,Zadajte aktuálny PIN
+Enter new billing PIN,Zadajte nový PIN pre fakturáciu
+Enter new parental control PIN,Zadajte nový PIN rodičovskej kontroly
+FST OK,FST OK
+FST configuration,FST configuration
+FST not OK,FST not OK
+FST version:,FST version:
+FST:,FST:
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+General terms and conditions,Všeobecné obchodné podmienky
+Install new update,Install new update
+Installation wizard,Sprievodca inštaláciou
+Installing,Installing
+Language not selected,Language not selected
+Language selected,Language selected
+Language selection,Language selection
+Last scan:,Last scan:
+Make sure that your smart card is not ejected,Make sure that your smart card is not ejected
+Manual configuration,Manual configuration
+Most recent firmware,Najnovší firmware
+Network OK,Sieť OK
+Network connection,Sieťové pripojenie
+Network not OK,Sieť nie je OK
+New update available,Sú dostupné nové aktualizácie
+Next,Ďalej
+No old PIN,Žiadny starý PIN
+No updates available,Nie sú dostupné nové aktualizácie
+No upgrade available,No upgrade available
+"No, keep my current configuration","No, keep my current configuration"
+OTA checking upgrade availability error,OTA checking upgrade availability error
+OTA upgrade,OTA upgrade
+OTA upgrade error,OTA upgrade error
+Parental code,Kód rodičovskej kontroly
+Port {port},Port {port}
+Previous,Predchádzajúce
+Purchase code,Zakúpiť kód
+Purchase pin code,Nákupný PIN kód
+Radio channels number:,Radio channels number:
+STB Upgrade,STB Upgrade
+Scan again,Znovu skenovať
+Scan for DVB-s channels,Scan for DVB-s channels
+Search OTA upgrade,Search OTA upgrade
+Searching OTA upgrade,Searching OTA upgrade
+Setting DiSEqC configuration failed,Setting DiSEqC configuration failed
+Skip,Preskočiť
+Start,Začiatok
+Status:,Status:
+TV channels number:,TV channels number:
+TV operator:,TV operator:
+Testing connection speed,Testovacia rýchlosť pripojenia
+The interative services are reachable at the moment,The interative services are reachable at the moment
+The interative services are unreachable at the moment,The interative services are unreachable at the moment
+There is a newer version available: {version},There is a newer version available: {version}
+There is an update available,Je k dispozícii aktualizácia
+There is no update available,Nie je k dispozícii aktualizácia
+"To redo a step, you can select your option by pressing [OK]","Ak chcete zopakovať niektorý krok, vyberte svoju voľbu stlačením tlačidla [OK]"
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Unable to start auto DiSEqC scanning
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Update now
+Upgrade error,Upgrade error
+Upgrade scanning has been aborted,Upgrade scanning has been aborted
+We are checking the connection speed between you and our streaming servers,Zisťujeme rýchlosť spojenia medzi Vami a našimi streaming servermi
+We are checking the reachability of the interative services,We are checking the reachability of the interative services
+Welcome,Vitajte
+"Yes, apply the custom configuration","Yes, apply the custom configuration"
+"Yes, apply the default configuration","Yes, apply the default configuration"
+"Yes, apply the detected configuration","Yes, apply the detected configuration"
+"Yes, scan now","Yes, scan now"
+You can activate the Parental Controls to help manage how your children use  the Television,"Môžete aktivovať rodičovskú kontrolu, aby ste mohli regulovať sledovanie televízie Vašimi deťmi"
+You can activate the Purchase Pin Page,Môžete aktivovať stránku pre kód pre nákup
+You need an Internet connection to change your purchase pin code,You need an Internet connection to change your purchase pin code
+Your TV decoder is up to date,Your TV decoder is up to date
+Your parental code was not set succesfully,Kód rodičovskej kontroly nebol nastavený
+Your parental code was set succesfully,Kód rodičovskej kontroly bol nastavený
+Your purchase code was not set succesfully,Váš kód pre nákup nebol nastavený
+Your purchase code was set succesfully,Váš kód pre nákup bol nastavený
+Your version is up to date,Vaša verzia je aktualizovaná
+never scanned,never scanned
+old PIN incorrect,starý PIN nesprávny

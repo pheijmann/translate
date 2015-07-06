@@ -1,0 +1,221 @@
+﻿ACTIVATE,Activate
+Acties,Acties
+Actions,Actions
+Alternate DNS server,Alternate DNS server
+"An error occurred, please try again later","An error occurred, please try again later"
+Apply factory settings to the decoder,Apply factory settings to the decoder
+Are you sure you want the box to auto detect DiSEqC configuration?,Are you sure you want the box to auto detect DiSEqC configuration?
+Are you sure you want the box to perform channels scanning?,Are you sure you want the box to perform channels scanning?
+Are you sure you want to apply factory settings?,Are you sure you want to apply factory settings?
+Are you sure you want to search new updates?,Are you sure you want to search new updates?
+At this moment you reached the minimum speed to be able to enjoy the interactive features,At this moment you reached the minimum speed to be able to enjoy the interactive features
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.
+Audio output,Audio output
+Auto DiSEqC configuration applied,Auto DiSEqC configuration applied
+Auto detect DiSEqC configuration,Auto detect DiSEqC configuration
+"Before you can create a pairing code, you need to have the {product_name}. To activate this, please call {callcenter_num}.","Before you can create a pairing code, you need to have the {product_name}. To activate this, please call {callcenter_num}."
+Branch version,Branch version
+Build version,Build version
+CHANGE PIN,Change pin
+Can't create the pairing code,Can't create the pairing code
+Can't send diagnostics,Can't send diagnostics
+Cancel auto detection,Cancel auto detection
+Cancel downloading,Cancel downloading
+Cancel installing,Cancel installing
+Cancel scanning,Cancel scanning
+Cancel searching,Cancel searching
+Canceling...,Canceling...
+Cancelling search,Cancelling search
+Cannot check for updates now. Try again later.,Cannot check for updates now. Try again later.
+Change FSK,Change FSK
+Change PIN,Change PIN
+Channels scanning has been aborted,Channels scanning has been aborted
+Check for updates,Check for updates
+Checking for updates ...,Checking for updates ...
+Classes,Classes
+Confirm new PIN,Confirm new PIN
+Confirm your new billing PIN code,Confirm your new billing PIN code
+Confirm your new parental control PIN code,Confirm your new parental control PIN
+Couldn't find default configuration.,Couldn't find default configuration.
+Create a pairing code,Create a pairing code
+Current configuration:,Current configuration:
+Custom configuration applied,Custom configuration applied
+DEACTIVATE,Deactivate
+DHCP is off,DHCP is off
+DHCP is on,DHCP is on
+Default configuration applied,Default configuration applied
+Default gateway,Default gateway
+Default settings,Default settings
+Device,Device
+DiSEqC auto scan cancelled,DiSEqC auto scan cancelled
+DiSEqC configuration,DiSEqC configuration
+DiSEqC configuration alert header,DiSEqC configuration
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,Cancel
+DiSEqC_MANUAL_CUSTOM,Custom
+DiSEqC_MANUAL_DEFAULT,Default
+DiSEqC_MANUAL_OFF,off
+DiSEqC_MANUAL_ON,on
+DiSEqC_Save,Save
+DiSEqC_UNDEFINED,Undefined
+DiSEqC_port_unused,unused
+Diagnostic was send successfully,Diagnostic was send successfully
+Diagnostics,Diagnostics
+Do you want to apply the auto detected configuration?,Do you want to apply the auto detected configuration?
+Do you want to apply the custom configuration?,Do you want to apply the custom configuration?
+Do you want to apply the default configuration?,Do you want to apply the default configuration?
+"Do you want to reboot your TV decoder, to set the language to {lang}?","Do you want to reboot your TV decoder, to set the language to {lang}?"
+Enter PIN to,Enter PIN to
+Enter current PIN:,Enter current PIN
+Enter current Parental PIN to change FSK level:,Enter current Parental PIN to change FSK level:
+Enter new billing PIN,Enter new billing PIN
+Enter new parental control PIN,Enter new parental control PIN
+Environment,Environment
+Explanation of parental control feature,"You have the possibility to activate / deactivate the parental control option. After deactivating the parental control, all content that is marked as adult can be accessed without entering the pin code."
+FST scanning alert header,FST scanning alert header
+FST version:,FST version:
+FST:,FST:
+Factory settings,Factory settings
+Factory_settings_popup_header,Factory_settings_popup_header
+Firmware type,Firmware type
+Firmware version,Firmware version
+Followind devices are currently connected. To unpair a device select it and press the OK button on your RCU,Following devices are currently connected. To unpair a device select it and press the OK button on your RCU
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+GENERAL,General
+Hardware version,Hardware version
+INFO,System info
+INSTALLATION,Installation
+IP address,IP address
+IP external,IP external
+IP internal,IP internal
+Install new update,Install new update
+Language,Language
+Language change,Language change
+Last scan:,Last scan:
+Legal information,Legal information
+Legal information content,Legal information content
+MAC address,MAC address
+MOBILE,Mobile
+Make sure that your smart card is not ejected,Make sure that your smart card is not ejected
+Manual configuration,Manual configuration
+Media test,Media test
+Media test ended,Media test ended
+Minimum Age,Minimum Age
+My offers,My offers
+My recordings,My recordings
+Network settings,Network settings
+New PIN inputs do not match,new PIN inputs do not match
+New PIN must be 4 digits,new PIN must be 4 digits
+New PIN must be different from old PIN,new PIN must be different from old PIN
+No,No
+No old PIN,No old PIN entered
+No rights available,No rights available
+No upgrade available,No upgrade available
+"No, don't scan","No, don't scan"
+"No, don't search","No, don't search"
+"No, keep my current configuration","No, keep my current configuration"
+"No, keep my current language","No, keep my current language"
+Old pin do not match,Old pin do not match
+OnDemandTestMovie,OnDemandTestMovie
+Online base,Online base
+Operator,Operator
+PIN incorrect,PIN incorrect
+Parental control,Parental control
+Perform factory reset,Perform factory reset
+Port {port},Port {port}
+Preferred DNS server,Preferred DNS server
+Problem with network,Problem with network
+Purchase PIN,Purchase PIN
+Radio channels number:,Radio channels number:
+Reboot TV decoder,Reboot TV decoder
+Reboot your TV decoder,Reboot your TV decoder
+Run diagnostics,Run diagnostics
+SC ID (UA),SC ID (UA)
+SC Label,SC Label
+SETTINGS,Settings
+STB Upgrade,STB Upgrade
+Scan for DVB-s channels,Scan for DVB-s channels
+Scan satellite channels,Scan satellite channels
+Screen ratio,Screen ratio
+Search OTA upgrade,Search OTA upgrade
+Searching OTA upgrade,Searching OTA upgrade
+Select audio output,Select audio output
+Select language,Select language
+Select screen ratio,Select screen ratio
+Select to check for updates,Select to check for updates
+Select to run bandwidth test,Select to run bandwidth test
+Select to run setup wizard,Select to run setup wizard
+Select to send diagnostics,Select to send diagnostics
+Select to test media playback,Select to test media playback
+Select video format,Select video format
+Serial,Serial
+Setting DiSEqC configuration failed,Setting DiSEqC configuration failed
+Settings,Settings
+Settopbox settings page,Following options will bring you to the settopbox local settings. Press home to return.
+Settopbox type,Settopbox type
+Setup Wizard,Setup Wizard
+Smart card details,Smart card details
+Smart card information,Smart card information
+Smart card is not available,Smart card is not available
+Smart card rights,Smart card rights
+Smart cards supported: Explanation of parental control feature,Smart cards supported: Explanation of parental control feature
+SmartCard,SmartCard
+Software version,Software version
+Speedcheck,Speed check
+Status:,Status:
+Subnet mask,Subnet mask
+Succesfully changed PIN,Successfully changed PIN
+System details,System details
+System information,System information
+System version,System version
+TV SETTINGS,TV Settings
+TV channels number:,TV channels number:
+TV operator:,TV operator:
+Test bandwidth,Test bandwidth
+Testing,Testing
+The pairing code will be valid for 5 minutes,The pairing code will be valid for 5 minutes
+There is a newer version available: {version},There is a newer version available: {version}
+This feature requires access to the internet connection.,This feature requires access to the internet connection.
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Unable to start auto DiSEqC scanning
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Update now
+Updater,Updater
+Upgrade scanning has been aborted,Upgrade scanning has been aborted
+VODTestMovie,VODTestMovie
+Valid,Valid
+Valid from,Valid from
+Valid to,Valid to
+Video format,Video format
+Would you like to perform factory reset?,Would you like to perform factory reset?
+Would you like to reboot TV decoder?,Would you like to reboot TV decoder?
+Yes,Yes
+"Yes, apply the custom configuration","Yes, apply the custom configuration"
+"Yes, apply the default configuration","Yes, apply the default configuration"
+"Yes, apply the detected configuration","Yes, apply the detected configuration"
+"Yes, reboot now","Yes, reboot now"
+"Yes, scan now","Yes, scan now"
+"Yes, search now","Yes, search now"
+You can pair your device by entering following pairing code inside your application.,You can pair your device by entering following pairing code inside your application.
+You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.,You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.
+You can test the stream only for {secs} secs,De stream kan maar voor {secs} seconden worden getest
+You need an Internet connection to change your purchase pin code,You need an Internet connection to change your purchase pin code
+Your FSK Level was successfully changed,Your FSK Level was successfully changed
+Your PG Level was successfully changed,Your PG Level was successfully changed
+Your TV decoder is up to date,Your TV decoder is up to date
+actions_header,ACTIONS
+activate,activate
+deactivate,deactivate
+enter new PIN twice,enter new PIN twice
+enter old PIN,enter old PIN
+failed,failed
+never scanned,never scanned
+old PIN incorrect,old PIN incorrect
+production,production
+ratio_16:9,16:9
+ratio_4:3,4:3
+ratio_DEFAULT,Default
+ratio_SQUARE,Square
+too many tries,too many tries
+unknown,unknown

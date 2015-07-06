@@ -1,0 +1,18 @@
+﻿/* Class = "UINavigationItem"; title = "remote"; ObjectID = "BrR-6C-o7D"; */
+"BrR-6C-o7D.title" = "remote";
+
+/* Class = "UILabel"; text = "FAV"; ObjectID = "Flb-XG-OYS"; */
+"Flb-XG-OYS.text" = "FAV";
+
+/* Class = "UILabel"; text = "RADIO"; ObjectID = "SYb-RA-Lgz"; */
+"SYb-RA-Lgz.text" = "RADIO";
+
+/* Class = "UILabel"; text = "TEXT"; ObjectID = "fIb-bx-nOX"; */
+"fIb-bx-nOX.text" = "TEXT";
+
+/* Class = "UIViewController"; title = "remote"; ObjectID = "hcz-jn-yRg"; */
+"hcz-jn-yRg.title" = "remote";
+
+/* Class = "UILabel"; text = "GUIDE"; ObjectID = "mLV-ul-lRh"; */
+"mLV-ul-lRh.text" = "GUIDE";
+

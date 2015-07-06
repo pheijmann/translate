@@ -1,0 +1,221 @@
+﻿ACTIVATE,Aktivovat
+Acties,Aktivity
+Actions,Akce
+Alternate DNS server,Alternativní DNS server
+"An error occurred, please try again later","Vyskytla se chyba, prosíme zkuste to znovu později"
+Apply factory settings to the decoder,Apply factory settings to the decoder
+Are you sure you want the box to auto detect DiSEqC configuration?,"Jste si jisti, že chcete automaticky rozpoznat konfiguraci DiSEqC?"
+Are you sure you want the box to perform channels scanning?,Are you sure you want the box to perform channels scanning?
+Are you sure you want to apply factory settings?,Are you sure you want to apply factory settings?
+Are you sure you want to search new updates?,Are you sure you want to search new updates?
+At this moment you reached the minimum speed to be able to enjoy the interactive features,"Právě jste dosáhli minimální rychlosti, při které si můžete užít interaktivní funkce"
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,"Vaše připojení k internetu bylo příliš nízké na to, abyste si užili interaktivní funkce. Prosím zkontrolujte, zdali není na pozadí spuštěna jiná služba, která ovlivňuje připojení k internetu."
+Audio output,Zvukový výstup
+Auto DiSEqC configuration applied,Použita automatická konfigurace DiSEqC
+Auto detect DiSEqC configuration,Automatické rozpoznání konfigurace DiSEqC
+"Before you can create a pairing code, you need to have the {product_name}. To activate this, please call {callcenter_num}.",Pro vytvoření párovacího kódu musíte mít {product_name}. Pro jeho aktivaci prosím zavolejte na {callcenter_num}.
+Branch version,Verze branche
+Build version,Verze buildu
+CHANGE PIN,Změnit PIN
+Can't create the pairing code,Nelze vytvořit párovací kód
+Can't send diagnostics,Diagnostiku nelze odeslat
+Cancel auto detection,Zrušit automatické rozpoznání
+Cancel downloading,Cancel downloading
+Cancel installing,Cancel installing
+Cancel scanning,Cancel scanning
+Cancel searching,Cancel searching
+Canceling...,Canceling...
+Cancelling search,Cancelling search
+Cannot check for updates now. Try again later.,Nyní nelze zkontrolovat dostupnost aktualizací. Zkuste to znovu později.
+Change FSK,
+Change PIN,Změnit PIN
+Channels scanning has been aborted,Channels scanning has been aborted
+Check for updates,Zkontrolovat dostupnost aktualizací
+Checking for updates ...,Kontrolování dostupnosti aktualizací...
+Classes,Classes
+Confirm new PIN,Potvrdit nový PIN
+Confirm your new billing PIN code,Potvrdit nový fakturační PIN kód
+Confirm your new parental control PIN code,Potvrdit nový PIN kód rodičovského zámku
+Couldn't find default configuration.,Couldn't find default configuration.
+Create a pairing code,Vytvořit párovací kód
+Current configuration:,Současná konfigurace:
+Custom configuration applied,Použita vlastní konfigurace
+DEACTIVATE,Deaktivovat
+DHCP is off,DHCP je vypnuto
+DHCP is on,DHCP je zapnuto
+Default configuration applied,Použita výchozí konfigurace
+Default gateway,Výchozí brána
+Default settings,Výchozí nastavení
+Device,Zařízení
+DiSEqC auto scan cancelled,Automatické skenování DiSEqC zrušeno
+DiSEqC configuration,Konfigurace DiSEqC
+DiSEqC configuration alert header,Upozornění na konfiguraci DiSEqC
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,Ukončit
+DiSEqC_MANUAL_CUSTOM,Vlastní nastavení
+DiSEqC_MANUAL_DEFAULT,Výchozí nastavení
+DiSEqC_MANUAL_OFF,vypnout
+DiSEqC_MANUAL_ON,zapnout
+DiSEqC_Save,Uložení nastavení
+DiSEqC_UNDEFINED,Nedefinovaný
+DiSEqC_port_unused,Nepoužívá
+Diagnostic was send successfully,Diagnostika byla úspěšně odeslána
+Diagnostics,Diagnostika
+Do you want to apply the auto detected configuration?,Chcete použít automaticky rozpoznanou konfiguraci?
+Do you want to apply the custom configuration?,Chcete použít vlastní konfiguraci?
+Do you want to apply the default configuration?,Chcete použít výchozí konfiguraci?
+"Do you want to reboot your TV decoder, to set the language to {lang}?",Chcete restartovat váš TV dekodér pro nastaveni jazyku na {lang}?
+Enter PIN to,Zadat PIN do
+Enter current PIN:,Zadat současný PIN:
+Enter current Parental PIN to change FSK level:,
+Enter new billing PIN,Zadat nový fakturační PIN
+Enter new parental control PIN,Zadat nový PIN rodičovského zámku
+Environment,Prostředí
+Explanation of parental control feature,"Máte možnost aktivovat / deaktivovat možnost rodičovské kontroly. Po vypnutí rodičovského zámku, veškerý obsah, který je označen jako dospělý se lze dostat bez zadání PIN kódu."
+FST scanning alert header,FST scanning alert header
+FST version:,FST version:
+FST:,FST:
+Factory settings,Tovární nastavení
+Factory_settings_popup_header,Factory_settings_popup_header
+Firmware type,Firmware type
+Firmware version,Verze firmware
+Followind devices are currently connected. To unpair a device select it and press the OK button on your RCU,Následující zařízení jsou v současné době připojena. Pro zrušení spárování se zařízením jej zvolte a stiskněte tlačítko OK na vašem RCU
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+GENERAL,Obecné
+Hardware version,Verze hardware
+INFO,System info
+INSTALLATION,Instalace
+IP address,Adresa IP
+IP external,Externí IP
+IP internal,Interní IP
+Install new update,Install new update
+Language,Jazyk
+Language change,Změna jazyka
+Last scan:,Last scan:
+Legal information,Legal information
+Legal information content,Legal information content
+MAC address,Adresa MAC
+MOBILE,Mobilní
+Make sure that your smart card is not ejected,Make sure that your smart card is not ejected
+Manual configuration,Ruční konfigurace
+Media test,Test médií
+Media test ended,Test médií ukončen
+Minimum Age,Minimum Age
+My offers,Moje nabídky
+My recordings,Moje nahrávky
+Network settings,Nastavení sítě
+New PIN inputs do not match,Nová zadání PIN se neshodují
+New PIN must be 4 digits,Nový PIN musí být 4místný
+New PIN must be different from old PIN,Nový PIN musí být jiný než starý PIN
+No,Ne
+No old PIN,Žádný starý PIN
+No rights available,No rights available
+No upgrade available,No upgrade available
+"No, don't scan","No, don't scan"
+"No, don't search","No, don't search"
+"No, keep my current configuration","Ne, zachovat moji současnou konfiguraci"
+"No, keep my current language","Ne, zachovat můj současný jazyk"
+Old pin do not match,Starý PIN se neshoduje
+OnDemandTestMovie,OnDemandTestMovie
+Online base,Online base
+Operator,Operator
+PIN incorrect,nesprávné PIN
+Parental control,Rodičovský zámek
+Perform factory reset,Obnovit tovární nastavení
+Port {port},Port {port}
+Preferred DNS server,Upřednostňovaný DNS server
+Problem with network,Problém v síti
+Purchase PIN,Nákupní PIN
+Radio channels number:,Radio channels number:
+Reboot TV decoder,Restartovat TV dekodér
+Reboot your TV decoder,Restartovat váš TV dekodér
+Run diagnostics,Spustit diagnostiku
+SC ID (UA),SC ID (UA)
+SC Label,SC Label
+SETTINGS,Nastavení
+STB Upgrade,STB Upgrade
+Scan for DVB-s channels,Scan for DVB-s channels
+Scan satellite channels,Scan satellite channels
+Screen ratio,Poměr stran obrazovky
+Search OTA upgrade,Search OTA upgrade
+Searching OTA upgrade,Searching OTA upgrade
+Select audio output,Zvolit zvukový výstup
+Select language,Zvolit jazyk
+Select screen ratio,Zvolit poměr stran obrazovky
+Select to check for updates,Zvolit kontrolu dostupnosti aktualizací
+Select to run bandwidth test,Zvolit spuštění testu šířky pásma
+Select to run setup wizard,Zvolit spuštění průvodce nastavením
+Select to send diagnostics,Zvolit odeslání diagnostiky
+Select to test media playback,Zvolit test přehrávání médií
+Select video format,Zvolit formát videa
+Serial,Serial
+Setting DiSEqC configuration failed,Nastavení konfigurace DiSEqC selhalo
+Settings,Nastavení
+Settopbox settings page,Následující možnosti se dostanete na set top boxem místní nastavení. Stisknutím tlačítka se vrátíte domů.
+Settopbox type,Settopbox type
+Setup Wizard,Průvodce nastavením
+Smart card details,Smart card details
+Smart card information,Smart card information
+Smart card is not available,Smart card is not available
+Smart card rights,Smart card rights
+Smart cards supported: Explanation of parental control feature,Smart cards supported: Explanation of parental control feature
+SmartCard,SmartCard
+Software version,Verze software
+Speedcheck,Kontrola rychlosti
+Status:,Status:
+Subnet mask,Maska podsítě
+Succesfully changed PIN,PIN úspěšně změněn
+System details,Podrobnosti systému
+System information,System information
+System version,Verze systému
+TV SETTINGS,Nastavení tv
+TV channels number:,TV channels number:
+TV operator:,TV operator:
+Test bandwidth,Test šířky pásma
+Testing,Testování
+The pairing code will be valid for 5 minutes,Párovací kód bude platný po dobu 5 minut
+There is a newer version available: {version},Je dostupná novější verze: {version}
+This feature requires access to the internet connection.,This feature requires access to the internet connection.
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Není možné spustit automatické skenování DiSEqC
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Update now
+Updater,Aktualizační program
+Upgrade scanning has been aborted,Upgrade scanning has been aborted
+VODTestMovie,VODTestMovie
+Valid,Valid
+Valid from,Valid from
+Valid to,Valid to
+Video format,Formát videa
+Would you like to perform factory reset?,Přejete si obnovit tovární nastavení?
+Would you like to reboot TV decoder?,Přejete si restartovat TV dekodér?
+Yes,Ano
+"Yes, apply the custom configuration","Ano, použít vlastní nastavení"
+"Yes, apply the default configuration","Ano, použít výchozí nastavení"
+"Yes, apply the detected configuration","Ano, použít automatické nastavení"
+"Yes, reboot now","Ano, nyní restartovat"
+"Yes, scan now","Ano, nyní skenovat"
+"Yes, search now","Yes, search now"
+You can pair your device by entering following pairing code inside your application.,Své zařízení můžete spárovat zadáním následujícího párovacího kódu do vaší aplikace.
+You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.,You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.
+You can test the stream only for {secs} secs,Streamování můžete testovat pouze po dobu {secs} sekund
+You need an Internet connection to change your purchase pin code,You need an Internet connection to change your purchase pin code
+Your FSK Level was successfully changed,
+Your PG Level was successfully changed,Your PG Level was successfully changed
+Your TV decoder is up to date,Váš TV dekodér je aktuální
+actions_header,Akce
+activate,aktivovat
+deactivate,deaktivovat
+enter new PIN twice,zadat nový PIN dvakrát
+enter old PIN,zadat starý PIN
+failed,selhalo
+never scanned,never scanned
+old PIN incorrect,nesprávný starý PIN
+production,výroba
+ratio_16:9,16:9
+ratio_4:3,4:3
+ratio_DEFAULT,Standardní
+ratio_SQUARE,Náměstí
+too many tries,příliš mnoho pokusů
+unknown,unknown

@@ -1,0 +1,18 @@
+﻿/* Class = "UILabel"; text = "watch"; ObjectID = "16"; */
+"16.text" = "Kijk";
+
+/* Class = "UIButton"; normalTitle = "more"; ObjectID = "51"; */
+"51.normalTitle" = "meer";
+
+/* Class = "UIButton"; normalTitle = "less"; ObjectID = "52"; */
+"52.normalTitle" = "Sluit";
+
+/* Class = "UILabel"; text = "more episodes"; ObjectID = "78"; */
+"78.text" = "Meer afleveringen";
+
+/* Class = "UILabel"; text = "watch on TV"; ObjectID = "WSw-bX-YRs"; */
+"WSw-bX-YRs.text" = "kijk op TV";
+
+/* Class = "UILabel"; text = "favorite"; ObjectID = "v9R-yx-VVP"; */
+"v9R-yx-VVP.text" = "favoriet";
+

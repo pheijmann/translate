@@ -1,0 +1,127 @@
+﻿Are you sure you want the box to auto detect DiSEqC configuration?,Voulez-vous vraiment que le décodeur détecte automatiquement la configuration DiSEqC ?
+At this moment you reached the minimum speed to be able to enjoy the interactive features,Vous avez actuellement atteint la vitesse minimale pour pouvoir profiter des fonctions interactives
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,"À ce moment-là, votre connexion Internet était trop faible pour profiter pleinement de nos services interactifs. Vérifiez si d'autres services s'exécutant en arrière-plan influencent la connexion Internet."
+Auto DiSEqC configuration applied,Configuration DiSEqC automatique appliquée
+Auto configuration,Configuration automatique
+Auto detect DiSEqC configuration,Configuration DiSEqC automatique
+Back,Précédent
+"Before you can continue, you need to install this update","Avant de pouvoir continuer, vous devez installer cette mise à jour"
+Cancel auto detection,Annuler la détection automatique
+Cancel downloading,Cancel downloading
+Cancel installing,Cancel installing
+Cancel scanning,Annuler balayage
+Cancel searching,Cancel searching
+Canceling...,Canceling...
+Cancelling search,Canceling search
+Cannot check for updates now. Try again later.,Cannot check for updates now. Try again later.
+Channels scanning has been aborted,Channels scanning has been aborted
+Checking for updates ...,Checking for updates ...
+Choose your language,Choisissez votre langue
+Completed,Completed
+Current configuration:,Configuration actuelle :
+Custom configuration applied,Configuration personnalisée appliquée
+Default configuration applied,Configuration par défaut appliquée
+Default settings,Paramètres par défaut
+DiSEqC OK,DiSEqC prêt
+DiSEqC auto scan cancelled,Balayage automatique DiSEqC annulé
+DiSEqC configuration,Configuration DiSEqC
+DiSEqC configuration alert header,Configuration DiSEqC
+DiSEqC not OK,DiSEqC pas prêt
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,Annuler
+DiSEqC_MANUAL_CUSTOM,Personnalisé
+DiSEqC_MANUAL_DEFAULT,Défaut
+DiSEqC_MANUAL_OFF,éteint
+DiSEqC_MANUAL_ON,allumé
+DiSEqC_Save,Sauvegarder
+DiSEqC_UNDEFINED,Indéfini
+DiSEqC_port_unused,Inutilisé
+Diagnostics check,Vérification diagnostiques
+Do you want to apply the auto detected configuration?,Voulez-vous appliquer la configuration détectée automatiquement ?
+Do you want to apply the custom configuration?,Voulez-vous appliquer la configuration personnalisée ?
+Do you want to apply the default configuration?,Voulez-vous appliquer la configuration par défaut?
+Downloading,Downloading
+Enjoy TV,Profitez de la télévision
+Enjoy simply watching TV Online,Profitez simplement de regarder la télévision en ligne
+Enjoy various interactive features through network,Profitez de différentes fonctions interactives par le biais du réseau
+Enter current PIN,Introduisez votre code PIN actuel
+Enter new billing PIN,Introduisez un nouveau code PIN de payement
+Enter new parental control PIN,Introduisez le nouveau code PIN de contrôle parental
+FST OK,FST prêt
+FST configuration,Configuration du FST
+FST not OK,FST pas prêt
+FST version:,FST version:
+FST:,FST:
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+General terms and conditions,Conditions générales
+Install new update,Install new update
+Installation wizard,Assistant d'installation
+Installing,Installing
+Language not selected,Langue non sélectionnée
+Language selected,Langue sélectionnée
+Language selection,Selection de la langue
+Last scan:,Dernier balayage:
+Make sure that your smart card is not ejected,Assurez-vous que votre Smartcard n'est pas ejectée
+Manual configuration,Configuration manuelle
+Most recent firmware,Logiciel le plus récent
+Network OK,Réseau OK
+Network connection,Connexion réseau
+Network not OK,Réseau pas prêt
+New update available,Nouvelle mise à jour disponible
+Next,Suivant
+No old PIN,Pas d'ancien code PIN
+No updates available,Pas de mises à jour disponibles
+No upgrade available,No upgrade available
+"No, keep my current configuration","Non, garder ma configuration actuelle"
+OTA checking upgrade availability error,OTA checking upgrade availability error
+OTA upgrade,OTA upgrade
+OTA upgrade error,OTA upgrade error
+Parental code,Code parental
+Port {port},Port {port}
+Previous,Précédent
+Purchase code,Code d'achat
+Purchase pin code,Code PIN d'achat
+Radio channels number:,Numéro chaîne radio:
+STB Upgrade,STB Upgrade
+Scan again,Balayer à nouveau
+Scan for DVB-s channels,Balayage des chaînes DVB-s
+Search OTA upgrade,Search OTA upgrade
+Searching OTA upgrade,Searching OTA upgrade
+Setting DiSEqC configuration failed,Échec définition configuration DiSEqC
+Skip,Passer
+Start,Start
+Status:,Statut:
+TV channels number:,Numéro chaîne TV:
+TV operator:,Fourniseur TV:
+Testing connection speed,Test de la vitesse de connexion
+The interative services are reachable at the moment,Les services interactifs sont disponibles pour le moment
+The interative services are unreachable at the moment,Les services interactifs sont indisponibles pour le moment
+There is a newer version available: {version},There is a newer version available: {version}
+There is an update available,Mise à jour disponible
+There is no update available,Pas de mise à jour disponible
+"To redo a step, you can select your option by pressing [OK]","Pour refaire une étape, vous pouvez sélectionner l'option en appuyant sur [OK]"
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Impossible de démarrer le balayage automatique du DiSEqC
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Update now
+Upgrade error,Upgrade error
+Upgrade scanning has been aborted,Upgrade scanning has been aborted
+We are checking the connection speed between you and our streaming servers,Nous vérifions la vitesse de connexion entre vous et nos serveurs de streaming
+We are checking the reachability of the interative services,Nous vérifions la disponibilité des services interactifs
+Welcome,Bienvenue
+"Yes, apply the custom configuration","Oui, appliquer la configuration personnalisée"
+"Yes, apply the default configuration","Oui, appliquer la configuration par défaut"
+"Yes, apply the detected configuration","Oui, appliquer la configuration détectée"
+"Yes, scan now","Oui, balayer maintenant"
+You can activate the Parental Controls to help manage how your children use  the Television,Vous pouvez activer le contrôle parental pour gérer la façon dont vos enfants regardent la télévision
+You can activate the Purchase Pin Page,Vous pouvez activer la page Code PIN d'achat
+You need an Internet connection to change your purchase pin code,Vous devez avoir une connexion internet pour pouvoir changer votre code PIN de payment
+Your TV decoder is up to date,Your TV decoder is up to date
+Your parental code was not set succesfully,Votre code parental n'a pas été défini
+Your parental code was set succesfully,Votre code parental a bien été défini
+Your purchase code was not set succesfully,Votre code d'achat n'a pas été défini
+Your purchase code was set succesfully,Votre code d'achat a bien été défini
+Your version is up to date,Votre version est à jour
+never scanned,Jamais balayé
+old PIN incorrect,ancien code PIN incorrect

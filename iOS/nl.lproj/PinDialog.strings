@@ -1,0 +1,6 @@
+﻿/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "7"; */
+"7.title" = "Annuleren";
+
+/* Class = "IBUILabel"; text = "Enter parental PIN"; ObjectID = "13"; */
+"13.text" = "Voer uw code voor ouderlijk toezicht in";
+

@@ -1,0 +1,38 @@
+﻿Actions,﻿Műveletek
+BACK,Vissza
+CAST,Szereposztás
+CATCH-UP,Online tévéadás
+EPG,TV-műsorújság
+Enter your 4 digit purchase code here,Adja meg itt négyjegyű vásárlási kódját
+FAVORITE,Kedvenc
+Favorites,Kedvencek
+GENRE,Műfaj
+GENRES,Műfajok
+List,Lista
+Mon,Hét
+More,Több
+NOW ON TV,Most a TV
+PROMO,Előzetes
+PVR,Felvételek
+Primetime,Főműsoridő
+RATE THIS MOVIE,Értékelje a filmet
+REGIONAL,Regionális csatornák
+RENT,Kölcsönzés
+RENT MOVIE,Film kölcsönzése
+REPLAY,Visszajátszás
+Recommendations,Ajánlások
+Renting failed,Sikertelen kölcsönzés
+Today,Ma
+Tomorrow,Holnap
+WATCH MOVIE,Film megtekintése
+channels,csatornák
+epg_grid_no_channels,Nincs rendelkezésre álló csatorna
+epg_grid_no_fav_channels,Nincs kedvenc csatorna áll rendelkezésre
+epg_loading_failed_msg,epg_loading_failed_msg
+genres,műfajok
+live_loading_failed_msg,live_loading_failed_msg
+live_no_channels,Nincs rendelkezésre álló csatorna
+live_no_fav_channels,Nincs kedvenc csatorna áll rendelkezésre
+mosaic,mozaik
+supergenres_loading_failed_msg,supergenres_loading_failed_msg
+view_offline_message,view_offline_message

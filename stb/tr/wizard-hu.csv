@@ -1,0 +1,127 @@
+﻿Are you sure you want the box to auto detect DiSEqC configuration?,"Biztosan azt szeretné, hogy a készülék automatikusan érzékelje a DiSEqC-konfigurációt?"
+At this moment you reached the minimum speed to be able to enjoy the interactive features,"Elérte a minimális sebességet, amelynél élvezhetővé válnak az interaktív funkciók"
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,"Az internetkapcsolata túl lassú volt az interaktív szolgáltatások teljes kihasználásához. Ellenőrizze, hogy nem futnak-e olyan egyéb szolgáltatások a háttérben, amelyek befolyásolják az internetkapcsolatot."
+Auto DiSEqC configuration applied,Megtörtént az automatikus DiSEqC-konfiguráció alkalmazása
+Auto configuration,Auto konfigurálás
+Auto detect DiSEqC configuration,DiSEqC-konfiguráció automatikus érzékelése
+Back,Vissza
+"Before you can continue, you need to install this update",A folytatás előtt telepítenie kell ezt a frissítést
+Cancel auto detection,Automatikus érzékelés megszakítása
+Cancel downloading,Cancel downloading
+Cancel installing,Cancel installing
+Cancel scanning,Mégsem szkennelés
+Cancel searching,Cancel searching
+Canceling...,Canceling...
+Cancelling search,Canceling search
+Cannot check for updates now. Try again later.,Cannot check for updates now. Try again later.
+Channels scanning has been aborted,Channels scanning has been aborted
+Checking for updates ...,Checking for updates ...
+Choose your language,Válasszon nyelvet
+Completed,Completed
+Current configuration:,Jelenlegi konfiguráció:
+Custom configuration applied,Megtörtént az egyéni konfiguráció alkalmazása
+Default configuration applied,Megtörtént az alapértelmezett konfiguráció alkalmazása
+Default settings,Alapértelmezett beállítások
+DiSEqC OK,DiSEqC OK
+DiSEqC auto scan cancelled,DiSEqC automatikus keresés megszakítva
+DiSEqC configuration,DiSEqC-konfigurációs riasztás fejléce
+DiSEqC configuration alert header,DiSEqC-konfigurációs riasztás fejléce
+DiSEqC not OK,DiSEqC nem OK
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,DiSEqC_Cancel
+DiSEqC_MANUAL_CUSTOM,Egyedi
+DiSEqC_MANUAL_DEFAULT,Alapbeállítás
+DiSEqC_MANUAL_OFF,kikapcsol
+DiSEqC_MANUAL_ON,bekapcsol
+DiSEqC_Save,Mentés beállítását
+DiSEqC_UNDEFINED,Definiálatlan
+DiSEqC_port_unused,nem használt
+Diagnostics check,Diagnosztikai ellenőrzés
+Do you want to apply the auto detected configuration?,Alkalmazni szeretné az automatikusan érzékelt konfigurációt?
+Do you want to apply the custom configuration?,Alkalmazni szeretné az egyéni konfigurációt?
+Do you want to apply the default configuration?,Alkalmazni szeretné az alapértelmezett konfigurációt?
+Downloading,Downloading
+Enjoy TV,Élvezze a tévézést
+Enjoy simply watching TV Online,Élvezze az egyszerű online tévézést
+Enjoy various interactive features through network,Élvezze a különböző hálózati interaktív funkciókat
+Enter current PIN,Írja be a jelenlegi PIN kódot
+Enter new billing PIN,Írja be az új számlázási PIN kódot
+Enter new parental control PIN,Írja be az új szülői felügyeleti PIN kódot
+FST OK,Csatorna Fast Scan OK
+FST configuration,Csatorna Fast Scan konfiguráció
+FST not OK,Csatorna gyors szkennelés nem OK
+FST version:,FST version:
+FST:,FST:
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+General terms and conditions,Általános feltételek
+Install new update,Install new update
+Installation wizard,Telepítési varázsló
+Installing,Installing
+Language not selected,Nyelv nincs kiválasztva
+Language selected,Kiválasztott nyelv
+Language selection,Nyelv kiválasztása
+Last scan:,Utolsó vizsgálat:
+Make sure that your smart card is not ejected,"Ellenőrizze, hogy a smart kártya nem jön ki,"
+Manual configuration,Manuális konfigurálás
+Most recent firmware,Legújabb firmware
+Network OK,Hálózat OK
+Network connection,Hálózati kapcsolat
+Network not OK,Hálózat nem OK
+New update available,Új frissítés érhető el
+Next,Következő
+No old PIN,Nincs régi PIN kód
+No updates available,Nincsenek új frissítések
+No upgrade available,No upgrade available
+"No, keep my current configuration","Nem, megtartom a jelenlegi konfigurációt"
+OTA checking upgrade availability error,OTA checking upgrade availability error
+OTA upgrade,OTA upgrade
+OTA upgrade error,OTA upgrade error
+Parental code,Szülői kód
+Port {port},Port {port}
+Previous,Előző
+Purchase code,Vásárlási kód
+Purchase pin code,Vásárlási PIN kód
+Radio channels number:,Rádió csatornák száma:
+STB Upgrade,STB Upgrade
+Scan again,Keresés megismétlése
+Scan for DVB-s channels,Szkennelés a DVB-S csatornák
+Search OTA upgrade,Search OTA upgrade
+Searching OTA upgrade,Searching OTA upgrade
+Setting DiSEqC configuration failed,Nem sikerült a DiSEqC-konfiguráció megadása
+Skip,Átugrás
+Start,Indítás
+Status:,Állapot:
+TV channels number:,TV-csatornák száma:
+TV operator:,TV üzemeltető:
+Testing connection speed,Kapcsolat sebességének tesztelése
+The interative services are reachable at the moment,Az interaktív szolgáltatások is elérhetők az adott pillanatban
+The interative services are unreachable at the moment,Az interaktív szolgáltatás elérhetetlen pillanatában
+There is a newer version available: {version},There is a newer version available: {version}
+There is an update available,Elérhető egy frissítés
+There is no update available,Nincs elérhető frissítés
+"To redo a step, you can select your option by pressing [OK]",A lépés ismételt elvégzéséhez az [OK] gombbal választhatja ki a kívánt lehetőséget
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Nem lehet elindítani az automatikus DiSEqC-keresést
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Update now
+Upgrade error,Upgrade error
+Upgrade scanning has been aborted,Upgrade scanning has been aborted
+We are checking the connection speed between you and our streaming servers,A készüléke és az adatfolyamot szolgáltató kiszolgálók közötti kapcsolat sebességét ellenőrizzük
+We are checking the reachability of the interative services,Mi ellenőrizzük az elérhetőségi az interaktív szolgáltatások
+Welcome,Üdvözöljük
+"Yes, apply the custom configuration","Igen, az egyéni beállítások alkalmazása"
+"Yes, apply the default configuration","Igen, az alapértelmezett beállítások alkalmazása"
+"Yes, apply the detected configuration","Igen, az érzékelt konfiguráció alkalmazása"
+"Yes, scan now","Igen, keresés most"
+You can activate the Parental Controls to help manage how your children use  the Television,"A szülői felügyelet funkció aktiválása segít kezelni, hogyan használhatják a gyerekei a televíziót"
+You can activate the Purchase Pin Page,Aktiválhatja a PIN vásárlása oldalt
+You need an Internet connection to change your purchase pin code,Szüksége van egy Internet-kapcsolat változtatni a vásárlást pin kód
+Your TV decoder is up to date,Your TV decoder is up to date
+Your parental code was not set succesfully,Nem sikerült beállítani a szülői kódot
+Your parental code was set succesfully,Sikeresen megtörtént a szülői kód beállítása
+Your purchase code was not set succesfully,Nem sikerült beállítani a vásárlási kódot
+Your purchase code was set succesfully,Sikeresen megtörtént a vásárlási kód beállítása
+Your version is up to date,A legfrissebb szoftvert futtatja
+never scanned,soha nem szkennelt
+old PIN incorrect,hibás a régi PIN kód

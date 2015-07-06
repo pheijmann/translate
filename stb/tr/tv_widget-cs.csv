@@ -1,0 +1,38 @@
+﻿Actions,Akce
+BACK,Zpět
+CAST,Obsazení
+CATCH-UP,Catch-up
+EPG,TV průvodce
+Enter your 4 digit purchase code here,Zde zadejte svůj 4místný nákupní kód
+FAVORITE,Oblíbené
+Favorites,Oblíbené
+GENRE,Žánr
+GENRES,Žánry
+List,Seznam
+Mon,Po
+More,Více
+NOW ON TV,NYNÍ V TV
+PROMO,Promo
+PVR,Záznamy
+Primetime,Hlavní vysílací čas
+RATE THIS MOVIE,Ohodnoťte tento film
+REGIONAL,Regionální kanály
+RENT,Vypůjčit
+RENT MOVIE,Vypůjčit film
+REPLAY,Přehrát znovu
+Recommendations,Doporučení
+Renting failed,Vypůjčení selhalo
+Today,Dnes
+Tomorrow,Zítra
+WATCH MOVIE,Sledovat film
+channels,Stanice
+epg_grid_no_channels,
+epg_grid_no_fav_channels,
+epg_loading_failed_msg,"Nepodařilo se načíst EPG, zkuste to znovu později"
+genres,Žánry
+live_loading_failed_msg,"Nepodařilo se načíst živé programy, zkuste to znovu později"
+live_no_channels,
+live_no_fav_channels,
+mosaic,Mozaika
+supergenres_loading_failed_msg,"Nepodařilo se načíst programy, zkuste to znovu později"
+view_offline_message,Tento názor není k dispozici v režimu offline

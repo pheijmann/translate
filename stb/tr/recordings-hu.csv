@@ -1,0 +1,33 @@
+﻿All channels,Minden csatorna
+"All recordings will be deleted, and will be gone forever.","Minden felvétel törlésre kerül, és örökre el fognak tűnni."
+Cannot play the recording,A felvétel nem játszható le
+Days,Nap
+Delete,Törlés
+Enter a pin code,Adja meg a PIN kódot
+Genres,Műfajok
+Hide Adult,Hide Adult
+Hide adult,Felnőtt tartalom elrejtése
+My account,A fiókom
+New,Új
+No recordings available,Nincs rendelkezésre álló felvétel
+Planned,Tervezett
+Remove recordings,Felvételek törlése
+Select channel,Csatorna kiválasztása
+Settings,Beállítások
+Show Adult,Show Adult
+Show adult,Felnőtt tartalom mutatása
+Today,Ma
+Tomorrow,Holnap
+Yesterday,Tegnap
+You can record {amount_hours} hours and store them for {amount_days} days.,"{amount_hours} órányi felvételt készíthet, amelyeket {amount_days} napig tárolhat."
+You have the {product_name}.,A készüléke: {product_name}.
+rec_len_mins,per
+rec_len_secs,mp
+recordings_all,Minden felvétel
+recordings_new,Az új felvételek
+recordings_planned,Az ütemezett felvétel
+{dd} days remaining,{dd} nap maradt
+{hours} hours remaining,{hours} óra maradt
+{hours} hours {minutes} minutes available,{hours} óra {minutes} perc maradt
+{mins} minutes remaining,{mins} perc maradt
+{minutes} minutes available,{minutes} perc maradt

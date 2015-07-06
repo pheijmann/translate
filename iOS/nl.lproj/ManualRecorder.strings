@@ -1,0 +1,12 @@
+﻿/* Class = "IBUILabel"; text = "Start time"; ObjectID = "9"; */
+"9.text" = "Starttijd";
+
+/* Class = "IBUILabel"; text = "End time"; ObjectID = "10"; */
+"10.text" = "Eindtijd";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "11"; */
+"11.text" = "-";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "12"; */
+"12.text" = "-";
+

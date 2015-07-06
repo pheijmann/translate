@@ -1,0 +1,38 @@
+﻿Actions,Aktionen
+BACK,Zurück
+CAST,Besetzung
+CATCH-UP,ReplayTV
+EPG,TV Programm (EPG)
+Enter your 4 digit purchase code here,Geben Sie hier Ihren 4-stelligen Kaufcode ein
+FAVORITE,Favorit
+Favorites,Favoriten
+GENRE,Genre
+GENRES,Genre
+List,Liste
+Mon,Mon
+More,Mehr
+NOW ON TV,Jetzt im TV
+PROMO,Promo
+PVR,Aufnahmen
+Primetime,Hauptsendezeit
+RATE THIS MOVIE,Bewerte diesen Film
+REGIONAL,Regionale Kanäle
+RENT,Leihen
+RENT MOVIE,Film Leihen
+REPLAY,RePlay
+Recommendations,Empfehlungen
+Renting failed,Leihen fehlgeschlagen
+Today,Heute
+Tomorrow,Morgen
+WATCH MOVIE,Wiedergabe
+channels,Kanäle
+epg_grid_no_channels,Keine Kanäle verfügbar
+epg_grid_no_fav_channels,Keine Liebling-Kanäle verfügbar
+epg_loading_failed_msg,"Fehler beim EPG laden, versuchen Sie es später erneut"
+genres,Genres
+live_loading_failed_msg,"Fehler beim Live-Programme zu laden, versuchen Sie es später noch einmal"
+live_no_channels,Keine Kanäle verfügbar
+live_no_fav_channels,Keine Lieblings-Kanäle verfügbar
+mosaic,Mosaik
+supergenres_loading_failed_msg,"Fehler beim Laden von Programmen, versuchen Sie es später noch einmal"
+view_offline_message,Diese Ansicht ist offline nicht verfügbar

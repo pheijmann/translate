@@ -1,0 +1,221 @@
+﻿ACTIVATE,Activer
+Acties,Actions
+Actions,Actions
+Alternate DNS server,Serveur DNS alternatif
+"An error occurred, please try again later","Une erreur s'est produite, veuillez réessayer plus tard"
+Apply factory settings to the decoder,Appliquer les paramètres d'usine au décodeur
+Are you sure you want the box to auto detect DiSEqC configuration?,Voulez-vous vraiment que le décodeur détecte automatiquement la configuration DiSEqC ?
+Are you sure you want the box to perform channels scanning?,Voulez-vous vraiment que le décodeur réalise un balayage des chaînes?
+Are you sure you want to apply factory settings?,Voulez-vous vraiment appliquer les paramètres d'usine?
+Are you sure you want to search new updates?,Voulez-vous vraiment rechercher de nouvelles mises à jour?
+At this moment you reached the minimum speed to be able to enjoy the interactive features,Vous avez maintenant atteint la vitesse minimale pour pouvoir profiter des fonctions interactives
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,"À ce moment-là, votre connexion Internet était trop faible pour profiter pleinement de nos services interactifs. Vérifiez si d'autres services s'exécutant en arrière-plan influencent la connexion Internet."
+Audio output,Sortie audio
+Auto DiSEqC configuration applied,Configuration DiSEqC automatique appliquée
+Auto detect DiSEqC configuration,Détection automatique de la configuration du DiSEqC
+"Before you can create a pairing code, you need to have the {product_name}. To activate this, please call {callcenter_num}.","Avant de pouvoir créer un code d'appairage, vous devez avoir le produit {product_name}. Pour l'activer, appelez le {callcenter_num}."
+Branch version,Version succursale
+Build version,Version build
+CHANGE PIN,Modifier code PIN
+Can't create the pairing code,Impossible de créer le code d'appairage
+Can't send diagnostics,Impossible d'envoyer des diagnostics
+Cancel auto detection,Annuler la détection automatique
+Cancel downloading,Annuler le téléchargement
+Cancel installing,Annuler l'installation
+Cancel scanning,Annuler balayage
+Cancel searching,Annuler recherche
+Canceling...,Annulation en cours...
+Cancelling search,Annulation de la recherche
+Cannot check for updates now. Try again later.,Impossible de vérifier les mises à jour maintenant. Réessayez ultérieurement.
+Change FSK,Modifier contrôle parental
+Change PIN,Modifier code PIN
+Channels scanning has been aborted,Channels scanning has been aborted
+Check for updates,Vérifier les mises à jour
+Checking for updates ...,Vérification des mises à jour...
+Classes,Classes
+Confirm new PIN,Confirmer nouveau code PIN
+Confirm your new billing PIN code,Confirmez votre nouveau code PIN de payement
+Confirm your new parental control PIN code,Confirmez votre nouveau code PIN de contrôle parental
+Couldn't find default configuration.,Configuration par défaut introuvable
+Create a pairing code,Créez un code d'appairage
+Current configuration:,Configuration actuelle :
+Custom configuration applied,Configuration personnalisée appliquée
+DEACTIVATE,Désactiver
+DHCP is off,DHCP est désactivé
+DHCP is on,DHCP est activé
+Default configuration applied,Configuration par défaut appliquée
+Default gateway,Passerelle par défaut
+Default settings,Paramètres par défaut
+Device,Appareil
+DiSEqC auto scan cancelled,Balayage automatique DiSEqC annulé
+DiSEqC configuration,Configuration DiSEqC
+DiSEqC configuration alert header,Configuration DiSEqC
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,Annuler
+DiSEqC_MANUAL_CUSTOM,Personnalisé
+DiSEqC_MANUAL_DEFAULT,Défaut
+DiSEqC_MANUAL_OFF,éteint
+DiSEqC_MANUAL_ON,allumé
+DiSEqC_Save,Sauvegarder
+DiSEqC_UNDEFINED,Indéfini
+DiSEqC_port_unused,Inutilisé
+Diagnostic was send successfully,Diagnostique envoyé avec succès
+Diagnostics,Diagnostiques
+Do you want to apply the auto detected configuration?,Voulez-vous appliquer la configuration détectée automatiquement ?
+Do you want to apply the custom configuration?,Voulez-vous appliquer la configuration personnalisée ?
+Do you want to apply the default configuration?,Voulez-vous appliquer la configuration personnalisée ?
+"Do you want to reboot your TV decoder, to set the language to {lang}?","Voulez-vous redémarrer votre décodeur TV, pour définir la langue en {lang} ?"
+Enter PIN to,Introduisez un code PIN pour
+Enter current PIN:,Introduisez le code PIN actuel
+Enter current Parental PIN to change FSK level:,Introduisez un code PIN parental pour modifier le niveau FSK
+Enter new billing PIN,Introduisez un nouveau code PIN de payement
+Enter new parental control PIN,Introduisez le nouveau code PIN de contrôle parental
+Environment,Environnement
+Explanation of parental control feature,"Vous avez la possibilité d'activer / désactiver l'option de contrôle parental. Après la désactivation du contrôle parental, tout le contenu qui est marqué comme adulte peut être consulté sans entrer le code PIN."
+FST scanning alert header,Alerte balayage FST header
+FST version:,FST version:
+FST:,FST:
+Factory settings,Réglages d'usine
+Factory_settings_popup_header,Paramètres_usine_popup_header
+Firmware type,Type de logiciel
+Firmware version,Version logicielle
+Followind devices are currently connected. To unpair a device select it and press the OK button on your RCU,"Les appareils suivants sont actuellement connectés. Pour désapparier un appareil, sélectionnez-le et appuyez sur le bouton OK de votre télécommande"
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+GENERAL,Général
+Hardware version,Version du matériel
+INFO,Informations systèmes
+INSTALLATION,Installation
+IP address,Adresse IP
+IP external,IP externe
+IP internal,IP interne
+Install new update,Installation nouvelle mise à jour
+Language,Langue
+Language change,Changement de langue
+Last scan:,Dernier balayage:
+Legal information,Legal information
+Legal information content,Legal information content
+MAC address,Adresse MAC
+MOBILE,Mobile
+Make sure that your smart card is not ejected,Assurez-vous que votre Smartcard n'est pas ejectée
+Manual configuration,Configuration manuelle
+Media test,Test médias
+Media test ended,Test médias terminé
+Minimum Age,Minimum Age
+My offers,Mes offres
+My recordings,Mes enregistrements
+Network settings,Paramètres réseau
+New PIN inputs do not match,Les nouvelles saisies de code PIN ne correspondent pas
+New PIN must be 4 digits,Le nouveau code PIN doit comprendre 4 chiffres
+New PIN must be different from old PIN,Le nouveau code PIN doit être différent de l'ancien code PIN
+No,Non
+No old PIN,Pas d'ancien code PIN
+No rights available,Aucuns droits disponibles
+No upgrade available,Aucun upgrade disponible
+"No, don't scan","Non, ne pas balayer"
+"No, don't search","Non, ne pas rechercher"
+"No, keep my current configuration","Non, garder ma configuration actuelle"
+"No, keep my current language","Non, garder ma langue actuelle"
+Old pin do not match,L'ancien code PIN ne correspond pas
+OnDemandTestMovie,Film test à la demande
+Online base,Base en ligne
+Operator,Fournisseur
+PIN incorrect,Votre code PIN est incorrect
+Parental control,Contrôle parental
+Perform factory reset,Réinstaller les paramètres d'origine
+Port {port},Port {port}
+Preferred DNS server,Serveur DNS préféré
+Problem with network,Problème avec le réseau
+Purchase PIN,PIN d'achat
+Radio channels number:,Numéro chaîne radio:
+Reboot TV decoder,Redémarrer décodeur TV
+Reboot your TV decoder,Redémarrer votre décodeur TV
+Run diagnostics,Exécuter diagnostiques
+SC ID (UA),Smartcard ID (UA)
+SC Label,Certificat Smartcard
+SETTINGS,Paramètres
+STB Upgrade,Upgrade STB
+Scan for DVB-s channels,Balayage des chaînes DVB-s
+Scan satellite channels,Balayage des chaînes satellites
+Screen ratio,Format de l'écran
+Search OTA upgrade,Recherche d'upgrade OTA
+Searching OTA upgrade,Recherche en cours d'ugrade OTA
+Select audio output,Sélectionner sortie audio
+Select language,Sélectionner langue
+Select screen ratio,Sélectionner format de l'écran
+Select to check for updates,Sélectionner pour vérifier les mises à jour
+Select to run bandwidth test,Sélectionner pour exécuter le test de bande passante
+Select to run setup wizard,Sélectionner pour exécuter l'assistant configuration
+Select to send diagnostics,Sélectionner pour envoyer des diagnostics
+Select to test media playback,Sélectionner pour tester la lecture de médias
+Select video format,Sélectionner un format vidéo
+Serial,En série
+Setting DiSEqC configuration failed,Échec définition configuration DiSEqC
+Settings,Paramètres
+Settopbox settings page,Les options suivantes vous amèneront aux paramètres locaux du décodeur TV. Appuyez sur HOME pour revenir.
+Settopbox type,Type de décodeur
+Setup Wizard,Assistant de configuration
+Smart card details,Détails de la Smartcard
+Smart card information,Informations de la Smartcard
+Smart card is not available,Smartcard indisponible
+Smart card rights,Droits de la Smartcard
+Smart cards supported: Explanation of parental control feature,Inclus dans votre Smartcard : explication de la fonction contrôle parental
+SmartCard,SmartCard
+Software version,Version du logiciel
+Speedcheck,Test de vitesse
+Status:,Statut:
+Subnet mask,Masque de sous-réseau
+Succesfully changed PIN,Code PIN a été changé avec succès
+System details,Détails du système
+System information,Information système
+System version,Version du système
+TV SETTINGS,Réglages du téléviseur
+TV channels number:,Numéro chaîne TV:
+TV operator:,Fourniseur TV:
+Test bandwidth,Test bande passante
+Testing,Test en cours
+The pairing code will be valid for 5 minutes,Le code d'appairage sera valide pendant 5 minutes
+There is a newer version available: {version},Une version plus récente est disponible : {version}
+This feature requires access to the internet connection.,This feature requires access to the internet connection.
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Impossible de commencer le balayage automatique du DiSEqC
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Mettre à jour maintenant
+Updater,Mettre à jour
+Upgrade scanning has been aborted,Le balayage des upgrades a pris fin inopinément
+VODTestMovie,VODTestMovie
+Valid,Valide
+Valid from,Valide à partir
+Valid to,Valide jusqu'à
+Video format,Format vidéo
+Would you like to perform factory reset?,Voulez-vous effectuer une réinitialisation par défaut?
+Would you like to reboot TV decoder?,Voulez-vous redémarrer le décodeur TV?
+Yes,Oui
+"Yes, apply the custom configuration","Oui, appliquer la configuration personnalisée"
+"Yes, apply the default configuration","Oui, appliquer la configuration par défaut"
+"Yes, apply the detected configuration","Oui, appliquer la configuration détectée"
+"Yes, reboot now","Oui, redémarrer maintenant"
+"Yes, scan now","Oui, balayer maintenant"
+"Yes, search now","Oui, rechercher maintenant"
+You can pair your device by entering following pairing code inside your application.,Vous pouvez appairer votre appareil en introduisant le code d'appairage suivant dans votre application.
+You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.,You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.
+You can test the stream only for {secs} secs,Vous ne pouvez tester le flux que pendant {secs} secs
+You need an Internet connection to change your purchase pin code,Vous devez avoir une connexion internet pour pouvoir changer votre code PIN de payment
+Your FSK Level was successfully changed,Contrôle parental changé avec succès
+Your PG Level was successfully changed,Your PG Level was successfully changed
+Your TV decoder is up to date,Votre décodeur TV est à jour
+actions_header,Actions
+activate,Activer
+deactivate,Désactiver
+enter new PIN twice,Introduisez deux fois le nouveau code PIN
+enter old PIN,Introduisez ancien code PIN
+failed,échec
+never scanned,Jamais balayé
+old PIN incorrect,ancien code PIN incorrect
+production,production
+ratio_16:9,16:9
+ratio_4:3,4:3
+ratio_DEFAULT,Défaut
+ratio_SQUARE,Carré
+too many tries,Trop de tentatives
+unknown,Inconnu

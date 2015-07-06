@@ -1,0 +1,265 @@
+﻿ADULTVOD,VoD pro dospělé
+APPS,Apps
+All temporarily stored content for pause tv will be removed once you go back to live. Are you sure?,Veškerý obsah dočasně uložený během režimu pozastavení TV bude odstraněn jakmile přejdete zpět do režimu živého obrazu. Jste si jisti?
+All temporarily stored content for pause tv will be removed once you zap. Are you sure you want to zap?,"Veškerý obsah dočasně uložený během režimu pozastavení TV bude odstraněn jakmile přepnete. Jste si jisti, že chcete přepnout?"
+April,Duben
+April_abbrev,Dub
+Are you sure you want to continue and delete all recordings?,"Jste si jisti, že chcete pokračovat a smazat veškeré nahrávky?"
+August,Srpen
+August_abbrev,Srp
+BACK,Zpět
+Back to details,Zpět k podrobnostem
+Backspace,Backspace
+"Because you restart tv buffer is going to an end, we start your restarted program, so you are able to finish watching it.","Protože se načítání v režimu pozastavení TV blíží ke konci, opětovně spouštíme pořad, abyste jej mohli zhlédnout celý."
+"Before you can play this video, you need to have the {product_name}.",Pro přehrávání na tohoto videa musíte mít {product_name}.
+Before you can record this channel you need to have the {offer_name} offer,Pro nahrávání na této stanici musíte mít nabídku {offer_name}
+Before you can restart this channel you need to have the {offer_name} offer,Pro opětovné spuštění pořadů na této stanici musíte mít nabídku {offer_name}
+CAST,Cast
+CLOSE,Zavřít
+Cannot play the recording,Nahrávku nelze přehrát
+Cannot record this channel,Na této stanici nelze nahrávat
+Cannot restart this channel,Na této stanici nelze opětovně spouštět pořad
+Cast,Cast
+Channel not found,Stanice nenalezen
+Clear_keyboard,Jasný
+Close,Zavřít
+Connection error,Chyba připojení
+"Content is only available with offer, for more info call {callcenter_num}","Připojení je pouze dostupné s nabídkou, pro více informací volejte na {callcenter_num}"
+DISCOVERY,Discovery
+December,Prosinec
+December_abbrev,Pro
+Delete recording,Smazat nahrávku
+Director,Režisér
+Duration,Trvání
+Enter PIN to open adult portal,Zadat PIN pro otevření portálu pro dospělé
+Enter here your 14-digit voucher code,Enter here your 14-digit voucher code
+Enter parental PIN,Zadejte rodičovský PIN kód ke shlédnutí {chan}
+Episode ended,Díl skončil
+Error,Chyba
+Expand description,Rozšířit popis
+Expiration time exceeded,Expiration time exceeded
+External page,Cizí stránka
+FAVORITE,Oblíbené
+FST scan required,FST scan required
+FUTURE,Sledujte předem
+Failed to play the recording,Přehrávání nahrávky selhalo
+Favorites,Oblíbené
+February,Únor
+February_abbrev,Úno
+Friday,Pátek
+Friday_abbrev,Pát
+GENRE,Žánr
+Genre,Žánr
+Going to standby in {0} sec,Za {0} sekund se přepne se do pohotovostního režimu
+Instant recording failed,Okamžité nahrávání selhalo
+Instant recording started,Okamžité nahrávání je spuštěno
+Instant recording stopped,Okamžité nahrávání se zastavilo
+Insufficient Funds,Nedostatek peněz
+Internal storage reached the limit.,Interní úložiště dosáhlo limitu.
+It is not possible to rewind further.,Není možno přetáčet dále.
+January,Leden
+January_abbrev,Led
+July,Červenec
+July_abbrev,Čer
+June,Červen
+June_abbrev,Červen
+Manual search,Ruční vyhledávání
+March,Březen
+March_abbrev,Bře
+May,Květen
+May_abbrev,Kvě
+Monday,Pondělí
+Monday_abbrev,Pon
+More episodes of,Více dílů
+More movies of,Více filmů od
+Movie ended,Film skončil
+My Account,Můj účet
+New update available,Je dostupná nová aktualizace
+No I don't,Ne
+No channels available,Nejsou dostupné žádné stanice
+No program information,Žádné informace o pořadu
+No search results found,Výsledky vyhledávání nenalezeny
+"No, keep watching Restart tv","Ne, zůstat u sledování TV v režimu opětovného spuštění"
+"No, stay in Pause TV mode","Ne, zůstat v režimu pozastavení TV"
+"No, stay on current channel","Ne, zůstat na současné stanici"
+Not allowed to record last 15 minutes,Posledních 15 minut není povoleno nahrávání
+Not available,Není dostupné
+November,Listopad
+November_abbrev,Lis
+OSD_dialog_no,Ne
+OSD_dialog_yes,Ano
+OSD_remove_recordings_header,Odstranit nahrávky
+October,Říjen
+October_abbrev,Říj
+Offer,Nabídka
+Offline,Offline
+On demand ended,Režim na vyžádání ukončen
+PAST,Minul
+PIN incorrect,Nesprávný PIN
+Parental content blocked,Zadejte rodičovské kontroly PIN kódu
+Parental control,Rodičovský zámek
+Pause TV buffer reached,Dosaženo načtení v režimu pozastavení TV
+PauseTV,Režim pozastavení TV
+Play from beginning,Přehrát od začátku
+Play recording,Přehrát nahrávku
+Play video,Přehrát video
+Please check your cables and internet connection,Prosím zkontrolujte své kabely a připojení k internetu
+Please choose a movie deal,Prosím vyberte nabídku filmů
+Please choose payment option,Prosím vyberte možnost platby
+Preparing the recording,Připravování nahrávky
+Price,Cena
+Price from,Cena od
+Program ended,Pořad ukončen
+RADIO,Rádio
+RATE,Sazba
+RECORDINGS,Nahrávky
+REMIND,Připomenout
+RENT EPISODE,Vypůjčit díl
+RENT MOVIE,Vypůjčit film
+RENT PROGRAM,Vypůjčit pořad
+RENTAL_Offers_AcceptBtn,Přijmout platbu
+RENTAL_Offers_Desc_Deals,"This movie would be available for 30 days after renting. When you start watching this movie, it is possible to watch or restart the movie for {hours} hours before ending the rental period."
+RENTAL_Offers_Desc_DealsAndProducts,"Your choice is also part of a package. When you rent the single video its available for 30 days. When you start watching the video, its available for {hours} hours"
+RENTAL_Offers_Desc_Products,Your choice is part of a package. The package will give you unlimited access to the content for a certain period of time.
+RENTAL_Offers_Discount,Discount
+RENTAL_Offers_MovieLabel,Single Movie
+RENTAL_Offers_Original_Price,Original Price
+RENTAL_Offers_PayMsg1,Tyto náklady budou účtovány:
+RENTAL_Offers_ProductLabel,Package
+RENTAL_Offers_Title,Možnosti platby
+RENTAL_Payment_Chosen,Vybrán:
+RENTAL_Payment_SubTitle,"Prosím, zadejte kód PIN pronájem"
+RENTAL_Payment_Success,Úspěch
+RENTAL_Payment_Title,Ověření platby
+RENTAL_Policy_AcceptButton,Akceptovat
+RENTAL_Policy_BackButtton,Zpět
+RENTAL_Policy_CheckBoxDescription,Přečetl jsem si všeobecné podmínky a plně souhlasím.
+RENTAL_Policy_Description1,"Přečtěte si na našich webových stránkách na obecné pojmy, než budete pokračovat."
+RENTAL_Policy_Description2,Tyto všeobecné podmínky jsou platné dle referenční model pro Všeobecných pro referenční model Internet access.This byl vytvořen Consumentenbond a Sociaal- Economische Raad.
+RENTAL_Policy_Title,Všeobecné podmínky
+RENTAL_Voucher_Cancel,Cancel
+RENTAL_Voucher_Proceed,Proceed
+Record AlreadyModified,Nahrávka jižupravena
+Record Complete,Nahrávka hotová
+Record DurationLimit,Nahrávka limittrvání
+Record Forbidden,Nahrávka zakázána
+Record NotFound,Nahrávka nenalezena
+Record OffersNotConfigured,Nahrávka nabídkynejsounakonfigurovány
+Record OverlapLimit,Nahrávka limitpřekrytí
+Record Succes,Nahrávka úspěch
+Recording ended,Nahrávání ukončeno
+Recording error,Chyba nahrávání
+Recording failed,Nahrávání selhalo
+Recording removal failed,Odstranění nahrávky selhalo
+Recording removed,Nahrávka odstraněna
+"Recording will soon not be possible, delete old recording to free up time","Brzy nebude nahrávání možné, smažte staré nahrávky pro uvolnění času"
+Remove,Odstranit
+Rent failed! Invalid pin!,Výpůjčka selhala! Neplatný PIN!
+Rental period,Výpůjční lhůta
+Renting failed,Vypůjčení selhalo
+Restart TV,TV v režimu opětovného spuštění
+Resume at {position},Navázat od {position}
+Return by pressing the exit button,Vrátit se pomocí stisku tlačítka domů
+Return to the live moment of this channel,Vrátit se k režimu živého obrazu této stanice
+SCHEDULE RECORDING,naplánovat nahrávání
+SC_messaging_EXPIRED,"Your smart card rights are expired since {rightsexpirydate}. If the problem persists, please contact TV operator {brand}. More information available on {brandurl}."
+SC_messaging_INVALID_CARD,Invalid smart card detected
+SC_messaging_NEW_CARD,"Your smart card has not received any rights yet. If the problem persists, please contact the TV operator {brand}. More information available on {brandurl}."
+SC_messaging_NO_CARD,No smart card detected
+SC_messaging_close,Close
+SC_messaging_header,Smart Card information
+SEARCH,Vyhledat
+SETTINGS,Nastavení
+SHARE,Sdílet
+SPORTS,Sporty
+Saturday,Sobota
+Saturday_abbrev,Sob
+Scanning for satellite channels has not been performed yet. It should be done in Settings.,Scanning for satellite channels has not been performed yet. It should be done in Settings.
+Scheduled recording failed,Naplánované nahrávání selhalo
+Scheduled recording set,Naplánované nahrávání nastaveno
+Search_keyboard,Vyhledávání
+Season,Období
+September,Září
+September_abbrev,Zář
+Space,Prostor
+Stop,Zastavit
+Stop recording,Zastavit nahrávání
+Sunday,Neděle
+Sunday_abbrev,Ned
+TV GUIDE,TV průvodce
+TV ON DEMAND,TV na vyžádání
+Teletext,Teletext
+The program is now starting on {channelname}. Would you like to zap to the channel?,Pořad právě začíná na {channelname}. Přejete si přepnout na tuto stanici?
+The recording is being prepared for playback,Nahrávka se připravuje pro přehrání
+The recording just ended,Nahrávka právě skončila
+"The recording limit of {cur_hours} hours has been recorded. By cleaning up old recordings, you can schedule new ones",Byl dosažen nahrávací limit {cur_hours} hodin. Po uspořádání starých nahrávek můžete naplánovat nové
+"The restarted {title} is about to end, what do you want do:","Opětovně spuštěný {title} se blíží se konci, co chcete udělat:"
+The stb has been inactive too long and will go into standby,Set-top box byl příliš dlouho neaktivní a přepne se do pohotovostního režimu
+There is new update,Nová aktualizace
+There is no description available,Popis není dostupný
+This channel is not part of your offer,Tato stanice není součástí vaší nabídky
+This feature is currently not supported,Tato funkce momentálně není podporována
+Thursday,Čtvrtek
+Thursday_abbrev,Čtv
+Today,Dnes
+Tomorrow,Zítra
+Total Price,Total Price
+Total price for 48h rental period,Celková cena za 48hodinovou výpůjční lhůtu
+Trickplay is only supported when you upgrade to {offer_name} offer,Zpomalené nebo zrychlené přehrávání je podporováno pouze při upgradu na nabídku {offer_name}
+Tuesday,Úterý
+Tuesday_abbrev,Úte
+Unable to play video,Není možné přehrát video
+Unable to playback Replay,Není možné opětovně přehrát
+Unable to trickplay,Není možné přehrát zpomaleně nebo zrychleně
+Use Voucher,Use Voucher
+VIDEO ON DEMAND,Video na vyžádání
+Valid,Platný
+Volume control not supported for this channel,U této stanice není podporováno ovládání hlasitosti
+Voucher already activated,Voucher already activated
+WATCH EPISODE,Sledovat díl
+WATCH MOVIE,Sledovat film
+WATCH PROGRAM,Sledovat
+WATCH REPLAY,Sledovat znovu
+Watch,Sledovat
+Watch the next program in restart mode,Sledovat další pořad v režimu opětovného spuštění
+Watch trailer,Sledovat ukázku
+Wednesday,Středa
+Wednesday_abbrev,Stře
+Would you like to delete recording?,Přejete si smazat nahrávku?
+Would you like to resume from {position} or start over?,Přejete si navázat od {position} nebo spustit znovu?
+Would you like to stop recording?,Přejete si zastavit nahrávání?
+Yes I want,"Ano, chci"
+"Yes, go back to live TV","Ano, vrátit se k TV v režimu živého obrazu"
+"Yes, jump to live TV","Ano, přejít k TV v režimu živého obrazu"
+"Yes, remove all my recordings","Ano, odstranit všechny mé nahrávky"
+"Yes, zap to other channel","Ano, přepnout na jinou stanici"
+Yesterday,Včera
+You are about to leave the restart modus. Are you sure you want to continue TV on the live moment?,"Jste na odchodu z režimu opětovného spuštění. Jste si jisti, že chcete pokračovat v TV v režimu živého obrazu?"
+You are leaving Pause TV,Opouštíte režim pozastavení TV
+You are not allowed to record in Pause TV,Není povoleno nahrávat v režimu pozastavení TV
+"You can only record a limited amount of tv channels and programs (up to {cur_hours} hours) in your current offer. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","V rámci vaší současné nabídky můžete nahrávat pouze omezené množství televizních stanic a pořadů (až {cur_hours} hodin). Chcete-li aktivovat nabídku {best_offer_name}, zavolejte na {callcenter_num}"
+"You can only record {days} days ahead. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","Můžete nahrávat pouze {days} dní dopředu. Chcete-li aktivovat nabídku {best_offer_name}, zavolejte na {callcenter_num}"
+You can only record {days} days ahead. Unfortunatly you already reached this limit,Můžete nahrávat pouze {days} dní dopředu. Bohužel jste již dosáhli tohoto limitu
+You can use this voucher for a {deals} movie from {owner},You can use this voucher for a {deals} movie from {owner}
+You have reached the beginning of Pause TV,Dosáhli jste začátku režimu pozastavení TV
+You may now rent this movie with {amount}% discount,You may now rent this movie with {amount}% discount
+You may now rent this movie with {amount}% discount for {deals} quality,You may now rent this movie with {amount}% discount for {deals} quality
+You may now upsell {product} with {amount}% discount,You may now upsell {product} with {amount}% discount
+Your voucher code is incorrect,Your voucher code is incorrect
+Your voucher code was accepted,Your voucher code was accepted
+back,zpět
+cancel,zrušit
+channels,stanice
+free,Volné
+hours,hodin
+minutes,minut
+movie,Film
+next,další
+player_no_channels_error_header,Seznam kanálů
+player_no_channels_error_message,Váš seznam kanálů je prázdný
+press,stisknout
+program,Pořad
+single movie,jednotlivý film
+{dd} days remaining,zbývá {dd} dnů
+{hours} hours remaining,zbývá {hours} hodin
+{mins} minutes remaining,zbývá {mins} minut

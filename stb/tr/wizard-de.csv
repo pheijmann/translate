@@ -1,0 +1,127 @@
+﻿Are you sure you want the box to auto detect DiSEqC configuration?,"Sind Sie sicher, dass die Box zur automatischen Erkennung der DiSEqC-Konfiguration übergehen soll?"
+At this moment you reached the minimum speed to be able to enjoy the interactive features,"Geschwindigkeitstest erfolgreich abgeschlossen. Mit der vorhandenen Internetgeschwindigkeit, können Sie alle Funktionen nutzen."
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,"Geschwindigkeitstest fehlgeschlagen. Die vorhanden Internetgeschwindigkeit reight leider nicht aus, um alle Funktionen nutzen zu können. Deaktivieren Sie die Internetfunktion möglicher Verbraucher (z.B. Notebooks, Smartphones, Tablets, etc.) und versuchen Sie es im Anschluss erneut."
+Auto DiSEqC configuration applied,Konfiguration Auto DiSEqC angewendet
+Auto configuration,Automatische Konfiguration
+Auto detect DiSEqC configuration,Konfiguration Auto DiSEqC automatisch erkennen
+Back,Zurück
+"Before you can continue, you need to install this update",Bitte installieren Sie die folgende Software-Aktualisierung um fortzufahren
+Cancel auto detection,Automatische Erkennung löschen
+Cancel downloading,Cancel downloading
+Cancel installing,Cancel installing
+Cancel scanning,Scanauftrag abbrechen
+Cancel searching,Cancel searching
+Canceling...,Canceling...
+Cancelling search,Canceling search
+Cannot check for updates now. Try again later.,Cannot check for updates now. Try again later.
+Channels scanning has been aborted,Channels scanning has been aborted
+Checking for updates ...,Checking for updates ...
+Choose your language,Wählen Sie Ihre Sprache
+Completed,Completed
+Current configuration:,Aktuelle Konfiguration:
+Custom configuration applied,Kundenkonfiguration angewendet
+Default configuration applied,Standardkonfiguration angewendet
+Default settings,Standardeinstellungen
+DiSEqC OK,DiSEqC OK
+DiSEqC auto scan cancelled,DiSEqC autoscan abgebrochen
+DiSEqC configuration,DiSEqC-Konfiguration
+DiSEqC configuration alert header,DiSEqC-Konfiguration
+DiSEqC not OK,DiSEqC nicht OK
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,Abbrechen
+DiSEqC_MANUAL_CUSTOM,Kundenkonfiguration
+DiSEqC_MANUAL_DEFAULT,Bildgröße: Standard
+DiSEqC_MANUAL_OFF,Aus
+DiSEqC_MANUAL_ON,An
+DiSEqC_Save,Speichern
+DiSEqC_UNDEFINED,Nicht definiert
+DiSEqC_port_unused,Ungenutzt
+Diagnostics check,Zusammenfassung
+Do you want to apply the auto detected configuration?,Möchten Sie die automatisch erkannte Konfiguration anwenden?
+Do you want to apply the custom configuration?,Möchten Sie die benutzerdefinierte Konfiguration anwenden?
+Do you want to apply the default configuration?,Möchten Sie die Standardkonfiguration anwenden?
+Downloading,Downloading
+Enjoy TV,Los geht's
+Enjoy simply watching TV Online,Starten Sie jetzt mit der automatischen Einrichtung Ihrer meinFernsehen Set-Top-Box.
+Enjoy various interactive features through network,Genießen Sie unsere umfangreichen und interaktiven Funktionen
+Enter current PIN,Aktuelle PIN eingeben:
+Enter new billing PIN,Neue Einkaufs-PIN eingeben
+Enter new parental control PIN,Neue Jugendschutz-PIN eingeben
+FST OK,Senderliste OK
+FST configuration,Kanalliste Konfiguration
+FST not OK,Senderliste nicht OK
+FST version:,FST version:
+FST:,Senderliste:
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+General terms and conditions,Allgmeine Geschäftsbedingungen
+Install new update,Install new update
+Installation wizard,Installationsassistent
+Installing,Installing
+Language not selected,Sprache nicht ausgewählt
+Language selected,Sprache eingestellt
+Language selection,Sprachauswahl
+Last scan:,Letzte Abfrage:
+Make sure that your smart card is not ejected,"Stellen Sie sicher, dass Ihre Smartcard nicht ausgeworfen wird"
+Manual configuration,Manuelle Konfiguration
+Most recent firmware,Neueste Firmware
+Network OK,OK
+Network connection,Netzwerkverbindung
+Network not OK,Ihre Netzwerkverbindung konnte nicht erfolgreich eingerichtet werden
+New update available,Neues Update verfügbar
+Next,Weiter
+No old PIN,Kein alter PIN eingegeben
+No updates available,Kein Update verfügbar
+No upgrade available,No upgrade available
+"No, keep my current configuration","Nein, meine aktuelle Konfiguration beibehalten"
+OTA checking upgrade availability error,OTA checking upgrade availability error
+OTA upgrade,OTA upgrade
+OTA upgrade error,OTA upgrade error
+Parental code,Jugendschutz-PIN
+Port {port},Port {port}
+Previous,Zurück
+Purchase code,Einkaufs-PIN
+Purchase pin code,Einkaufs-PIN
+Radio channels number:,Funkkanäle Anzahl:
+STB Upgrade,STB Upgrade
+Scan again,Nochmals durchsuchen
+Scan for DVB-s channels,Suchen Sie nach DVB-S-Sender
+Search OTA upgrade,Search OTA upgrade
+Searching OTA upgrade,Searching OTA upgrade
+Setting DiSEqC configuration failed,Einstellung DiSEqC-Konfiguration fehlgeschlagen
+Skip,Überspringen
+Start,Los geht's...
+Status:,Status:
+TV channels number:,Fernsehsender insgesamt:
+TV operator:,Betreiber:
+Testing connection speed,Geschwindigkeitstest Internet
+The interative services are reachable at the moment,Die interaktive Dienste sind im Moment erreichbar
+The interative services are unreachable at the moment,Die interaktiven Dienste sind unerreichbar im Augenblick
+There is a newer version available: {version},There is a newer version available: {version}
+There is an update available,Es ist eine neue Software-Version verfügbar. Bitte führen Sie eine Aktualisierung durch.
+There is no update available,Ihre Firmware ist auf dem aktuellsten Stand
+"To redo a step, you can select your option by pressing [OK]","Um einen Schritt zu wiederholen, drücken Sie [OK]."
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Auto-DiSEqC-Scanning kann nicht gestartet werden
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Update now
+Upgrade error,Upgrade error
+Upgrade scanning has been aborted,Upgrade scanning has been aborted
+We are checking the connection speed between you and our streaming servers,Die Verbindungsgeschwindigkeit zwischen Ihrem Internetanschluss und unseren Streaming-Servern wird überprüft.
+We are checking the reachability of the interative services,Wir Überprüfung der Erreichbarkeit der interaktiven Dienste
+Welcome,Willkommen
+"Yes, apply the custom configuration","Ja, die benutzerdefinierte-Konfiguration anwenden"
+"Yes, apply the default configuration","Ja, die Standardkonfiguration anwenden"
+"Yes, apply the detected configuration","Ja, die erkannte Konfiguration anwenden"
+"Yes, scan now","Ja, jetzt scannen"
+You can activate the Parental Controls to help manage how your children use  the Television,"Mit dem Jugendschutz-PIN schützen Sie Ihre Kinder vor Inhalten, die ausschließlich für Erwachsene bestimmt sind."
+You can activate the Purchase Pin Page,Aktivieren Sie Ihren persönlichen Einkaufs-PIN.
+You need an Internet connection to change your purchase pin code,"Sie benötigen eine Internetverbindung, um Ihren Kauf PIN-Code zu ändern"
+Your TV decoder is up to date,Your TV decoder is up to date
+Your parental code was not set succesfully,Einrichtung Ihrer Jugendschutz-PIN fehlgeschlagen
+Your parental code was set succesfully,Ihre Jugendschutz-PIN konnte erfolgreich eingerichtet werden
+Your purchase code was not set succesfully,Ihre Einkaufs-PIN konnte nicht erfolgreich eingerichtet werden
+Your purchase code was set succesfully,Ihr Einkaufs-PIN konnte erfolgreich eingerichtet werden
+Your version is up to date,Ihre Software-Version ist auf dem aktuellsten Stand
+never scanned,nie gescannt
+old PIN incorrect,Alte PIN falsch

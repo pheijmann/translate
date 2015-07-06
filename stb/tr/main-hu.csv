@@ -1,0 +1,265 @@
+﻿ADULTVOD,Felnőtt VOD
+APPS,Apps
+All temporarily stored content for pause tv will be removed once you go back to live. Are you sure?,"A tévéműsor pillanatmegállítása után ideiglenesen felvett tartalom teljes egészében törlődik, amikor visszatér az élő tévézéshez. Biztosan folytatja?"
+All temporarily stored content for pause tv will be removed once you zap. Are you sure you want to zap?,"A tévéműsor pillanatmegállítása után ideiglenesen felvett tartalom teljes egészében törlődik, amikor elkapcsol. Biztosan elkapcsol?"
+April,Április
+April_abbrev,Ápr
+Are you sure you want to continue and delete all recordings?,"Biztosan folytatja, és törli az összes felvételt?"
+August,Augusztus
+August_abbrev,Aug
+BACK,Vissza
+Back to details,Vissza a részletekhez
+Backspace,Törlés
+"Because you restart tv buffer is going to an end, we start your restarted program, so you are able to finish watching it.","Mivel a tévéműsor újraindítása funkció puffere elfogy, elindítjuk az újraindított műsort, hogy befejezhesse a nézését."
+"Before you can play this video, you need to have the {product_name}.",A videó lejátszásához szükség van a következőre: {product_name}.
+Before you can record this channel you need to have the {offer_name} offer,A csatorna rögzítésének feltétele a következő ajánlat: {offer_name}
+Before you can restart this channel you need to have the {offer_name} offer,A csatorna újraindításának feltétele a következő ajánlat: {offer_name}
+CAST,Szereposztás
+CLOSE,Bezárás
+Cannot play the recording,A felvétel nem játszható le
+Cannot record this channel,Erről a csatornáról nem lehet felvételt készíteni
+Cannot restart this channel,Ezt a csatornát nem lehet újraindítani
+Cast,Szereposztás
+Channel not found,A csatorna nem található
+Clear_keyboard,ÜRES
+Close,Bezárás
+Connection error,Kapcsolódási
+"Content is only available with offer, for more info call {callcenter_num}","A tartalom csak ajánlattal érhető el, további információért hívja a következő számot: {callcenter_num}"
+DISCOVERY,Felderítés
+December,December
+December_abbrev,Dec
+Delete recording,Felvétel törlése
+Director,Rendező
+Duration,Időtartam
+Enter PIN to open adult portal,A felnőtt portál megnyitásához adja meg a PIN kódot
+Enter here your 14-digit voucher code,ide írja be a 14 jegyű kuponkódot
+Enter parental PIN,Írja be a PIN kód nézni {chan}
+Episode ended,Az epizód véget ért
+Error,Hiba
+Expand description,Több mutatása a leírásból
+Expiration time exceeded,Lejárati ideje meghaladta
+External page,Külső oldal
+FAVORITE,Kedvenc
+FST scan required,FST scan required
+FUTURE,Vigyázz előre
+Failed to play the recording,Nem sikerült lejátszani a felvételt
+Favorites,Kedvencek
+February,Február
+February_abbrev,Feb
+Friday,Péntek
+Friday_abbrev,Pén
+GENRE,Műfaj
+Genre,Műfaj
+Going to standby in {0} sec,Készenléti állapotba kapcsolás {0} másodperc múlva
+Instant recording failed,Az azonnali felvétel sikertelen
+Instant recording started,Az azonnali felvétel elindítva
+Instant recording stopped,Az azonnali felvétel leállítva
+Insufficient Funds,A havi limit elérésekor
+Internal storage reached the limit.,A belső tárhely felhasználtsága elérte a határt.
+It is not possible to rewind further.,Ennél tovább nem lehet visszatekerni.
+January,Január
+January_abbrev,Jan
+July,Július
+July_abbrev,Júl
+June,Június
+June_abbrev,Jún
+Manual search,Manuális keresés
+March,Március
+March_abbrev,Már
+May,Május
+May_abbrev,Máj
+Monday,Hétfő
+Monday_abbrev,Hét
+More episodes of,További epizódok...
+More movies of,További filmek...
+Movie ended,A film véget ért
+My Account,A fiókom
+New update available,Új frissítés érhető el
+No I don't,Nem
+No channels available,Nincs rendelkezésre álló csatorna
+No program information,Nincs műsorinformáció
+No search results found,A keresés nem hozott eredményt
+"No, keep watching Restart tv","Nem, folytatom az újraindított tévéműsor nézését"
+"No, stay in Pause TV mode","Nem, pillanatmegállított tévézés módban maradok"
+"No, stay on current channel","Nem, a jelenlegi csatornán maradok"
+Not allowed to record last 15 minutes,Az utolsó 15 percet nem lehet felvenni
+Not available,Nem áll rendelkezésre
+November,November
+November_abbrev,Nov
+OSD_dialog_no,Nincs
+OSD_dialog_yes,Igen
+OSD_remove_recordings_header,Felvételek törlése
+October,Október
+October_abbrev,Okt
+Offer,Ajánlat
+Offline,Offline
+On demand ended,Videotár-lejátszás vége
+PAST,Megszakított
+PIN incorrect,Helytelen PIN kód
+Parental content blocked,Adja szülői felügyelet PIN-kódot
+Parental control,Szülői felügyelet
+Pause TV buffer reached,Megtelt a pillanatmegállított tévézés pufferje
+PauseTV,Pillanatmegállított tévézés
+Play from beginning,Lejátszás az elejétől
+Play recording,Felvétel lejátszása
+Play video,Videó lejátszása
+Please check your cables and internet connection,"Kérjük, ellenőrizze a kábeleket és az internetkapcsolatot"
+Please choose a movie deal,"Kérjük, válasszon egy filmajánlatot"
+Please choose payment option,"Kérjük, válasszon egy fizetési lehetőséget"
+Preparing the recording,A felvétel előkészítése
+Price,Ár
+Price from,Ár ettől
+Program ended,A műsor véget ért
+RADIO,Rádió
+RATE,Ráta
+RECORDINGS,Felvételek
+REMIND,Emlékeztetés
+RENT EPISODE,Epizód kölcsönzése
+RENT MOVIE,Film kölcsönzése
+RENT PROGRAM,Műsor kölcsönzése
+RENTAL_Offers_AcceptBtn,A fizetés
+RENTAL_Offers_Desc_Deals,"This movie would be available for 30 days after renting. When you start watching this movie, it is possible to watch or restart the movie for {hours} hours before ending the rental period."
+RENTAL_Offers_Desc_DealsAndProducts,"Your choice is also part of a package. When you rent the single video its available for 30 days. When you start watching the video, its available for {hours} hours"
+RENTAL_Offers_Desc_Products,Your choice is part of a package. The package will give you unlimited access to the content for a certain period of time.
+RENTAL_Offers_Discount,Kedvezmény
+RENTAL_Offers_MovieLabel,Single Movie
+RENTAL_Offers_Original_Price,Eredeti ár
+RENTAL_Offers_PayMsg1,Az alábbi költségek terhelik:
+RENTAL_Offers_ProductLabel,Package
+RENTAL_Offers_Title,Fizetési lehetőségek
+RENTAL_Payment_Chosen,Választott:
+RENTAL_Payment_SubTitle,"Kérjük, adja bérleti PIN"
+RENTAL_Payment_Success,Siker
+RENTAL_Payment_Title,Befizetési igazolás
+RENTAL_Policy_AcceptButton,Elfogad
+RENTAL_Policy_BackButtton,Vissza
+RENTAL_Policy_CheckBoxDescription,Elolvastam az általános szerződési teljes mértékben egyetértek.
+RENTAL_Policy_Description1,Olvassa el honlapunkra általános szerződési folytatás előtt.
+RENTAL_Policy_Description2,A jelen általános szerződési szerint érvényesek a referencia modellje Általános Szerződési az Internet access.This referencia modell megalkotása a Consumentenbond és Sociaal- Economische Raad.
+RENTAL_Policy_Title,Általános szerződési
+RENTAL_Voucher_Cancel,Cancel
+RENTAL_Voucher_Proceed,Folytatódik
+Record AlreadyModified,Felvétel már módosítva
+Record Complete,Felvétel kész
+Record DurationLimit,Felvétel időtartamkorlátja
+Record Forbidden,Felvétel tilos
+Record NotFound,A felvétel nem található
+Record OffersNotConfigured,Felvételi ajánlat nincs konfigurálva
+Record OverlapLimit,Felvételi átfedési korlát
+Record Succes,Sikeres felvétel
+Recording ended,Felvétel vége
+Recording error,Felvételi hiba
+Recording failed,Sikertelen felvétel
+Recording removal failed,A felvétel eltávolítása sikertelen
+Recording removed,Felvétel eltávolítva
+"Recording will soon not be possible, delete old recording to free up time","Hamarosan nem lehet több felvételt készíteni, törölje a korábbi felvételeket, hogy időt szabadíthasson fel"
+Remove,Eltávolítás
+Rent failed! Invalid pin!,Sikertelen kölcsönzés! Érvénytelen PIN kód!
+Rental period,Kölcsönzési időszak
+Renting failed,Sikertelen kölcsönzés
+Restart TV,Tévéműsor újraindítása
+Resume at {position},Folytatás innen: {position}
+Return by pressing the exit button,A HOME gomb megnyomásával léphet vissza
+Return to the live moment of this channel,Visszatérés a csatorna adásának aktuális pillanatához
+SCHEDULE RECORDING,Feljegyzés
+SC_messaging_EXPIRED,"A Smart kártya jogokat lejárt hiszen {rightsexpirydate} . Ha a probléma továbbra is fennáll, forduljon TV üzemeltető {brand}. További információ elérhető a {brandurl} ."
+SC_messaging_INVALID_CARD,Érvénytelen smart kártya észlelve
+SC_messaging_NEW_CARD,"A Smart kártya nem kapott jogokat sem. Ha a probléma továbbra is fennáll, forduljon a televízió {brand}. További információ elérhető a {brandurl} ."
+SC_messaging_NO_CARD,Nem smart kártya észlelve
+SC_messaging_close,Bezárás
+SC_messaging_header,Smart kártya információk
+SEARCH,Keresés
+SETTINGS,Beállítások
+SHARE,Megosztás
+SPORTS,Sport
+Saturday,Szombat
+Saturday_abbrev,Szo
+Scanning for satellite channels has not been performed yet. It should be done in Settings.,Scanning for satellite channels has not been performed yet. It should be done in Settings.
+Scheduled recording failed,Az ütemezett felvétel sikertelen
+Scheduled recording set,Ütemezett felvétel beállítva
+Search_keyboard,Keresés
+Season,Évad
+September,Szeptember
+September_abbrev,Sze
+Space,Tér
+Stop,Leállítás
+Stop recording,Felvétel leállítása
+Sunday,Vasárnap
+Sunday_abbrev,Vas
+TV GUIDE,TV-műsorújság
+TV ON DEMAND,TV-videotár
+Teletext,Teletext
+The program is now starting on {channelname}. Would you like to zap to the channel?,A műsor most indul ezen a csatornán: {channelname}. Szeretne átkapcsolni a csatornára?
+The recording is being prepared for playback,A felvételt most készítjük elő lejátszásra
+The recording just ended,A felvétel most fejeződött be
+"The recording limit of {cur_hours} hours has been recorded. By cleaning up old recordings, you can schedule new ones","Elérte a felvételi idő felső határát, {cur_hours} órát. A régi felvételek törlése után újakat ütemezhet"
+"The restarted {title} is about to end, what do you want do:","Az újraindított műsor {title} hamarosan véget ér, mit kíván tenni:"
+The stb has been inactive too long and will go into standby,"A készülék túl hosszú ideje inaktív, és készenléti üzemmódra vált"
+There is new update,Új frissítés érhető el
+There is no description available,Nem áll rendelkezésre leírás
+This channel is not part of your offer,Ez a csatorna nem része az ajánlatának
+This feature is currently not supported,Ez a funkció jelenleg nem támogatott
+Thursday,Csütörtök
+Thursday_abbrev,Csü
+Today,Ma
+Tomorrow,Holnap
+Total Price,Teljes Ár
+Total price for 48h rental period,A 48 órás kölcsönzési időszak teljes ára
+Trickplay is only supported when you upgrade to {offer_name} offer,"A gyorstekerés funkció csak akkor támogatott, ha felvált erre az ajánlatra: {offer_name}"
+Tuesday,Kedd
+Tuesday_abbrev,Ked
+Unable to play video,Nem lehet lejátszani a videót
+Unable to playback Replay,Nem lehet elindítani a visszajátszást
+Unable to trickplay,Nem érhető el a gyorstekerés
+Use Voucher,Használja utalvány
+VIDEO ON DEMAND,Videotár
+Valid,Érvényes
+Volume control not supported for this channel,Ennél a csatornánál nem támogatott a hangerő-szabályozás
+Voucher already activated,Voucher already activated
+WATCH EPISODE,Epizód megtekintése
+WATCH MOVIE,Film megtekintése
+WATCH PROGRAM,Műsor megtekintése
+WATCH REPLAY,Visszajátszás megtekintése
+Watch,Tévézés
+Watch the next program in restart mode,A következő műsor megtekintése újraindított tévézés módban
+Watch trailer,Előzetes megtekintése
+Wednesday,Szerda
+Wednesday_abbrev,Sze
+Would you like to delete recording?,Szeretné törölni a felvételt?
+Would you like to resume from {position} or start over?,"Szeretné folytatni ettől a pozíciótól {position}, vagy elölről szeretné kezdeni?"
+Would you like to stop recording?,Szeretné leállítani a felvételt?
+Yes I want,"Igen, szeretném"
+"Yes, go back to live TV","Igen, vissza az élő tévéadáshoz"
+"Yes, jump to live TV","Igen, ugrás az élő tévéadáshoz"
+"Yes, remove all my recordings","Igen, törölni szeretném az összes felvételemet"
+"Yes, zap to other channel","Igen, átkapcsolás a másik csatornára"
+Yesterday,Tegnap
+You are about to leave the restart modus. Are you sure you want to continue TV on the live moment?,Kilépni készül az újraindított tévézés módból. Biztosan az élő tévéadással akarja folytatni a tévézést?
+You are leaving Pause TV,Kilép a pillanatmegállított tévézés módból
+You are not allowed to record in Pause TV,Pillanatmegállított tévézés módban nem lehet felvételt készíteni
+"You can only record a limited amount of tv channels and programs (up to {cur_hours} hours) in your current offer. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","A jelenlegi ajánlattal csak korlátozott számú tévécsatornát és műsort (maximum {cur_hours} óra) lehet rögzíteni. Ha aktiválni szeretné ezt a csomagot: {best_offer_name}, hívja ezt a telefonszámot: {callcenter_num}"
+"You can only record {days} days ahead. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","Felvételt csak {days} napra előre lehet beállítani. Ha aktiválni szeretné ezt a csomagot: {best_offer_name}, hívja ezt a telefonszámot: {callcenter_num}"
+You can only record {days} days ahead. Unfortunatly you already reached this limit,Felvételt csak {days} napra előre lehet beállítani. Sajnos elérte ezt a korlátot
+You can use this voucher for a {deals} movie from {owner},You can use this voucher for a {deals} movie from {owner}
+You have reached the beginning of Pause TV,Elérte a pillanatmegállított tévézés elindításának a pontját
+You may now rent this movie with {amount}% discount,Most bérelni ezt a filmet a {amount}% kedvezmény
+You may now rent this movie with {amount}% discount for {deals} quality,You may now rent this movie with {amount}% discount for {deals} quality
+You may now upsell {product} with {amount}% discount,Most upsell {product} és {amount}% kedvezmény
+Your voucher code is incorrect,Az kuponkód helytelen
+Your voucher code was accepted,A kuponkód elfogadva
+back,vissza
+cancel,mégse
+channels,csatornák
+free,Szabad
+hours,óra
+minutes,perc
+movie,Film
+next,következő
+player_no_channels_error_header,Csatornák listája
+player_no_channels_error_message,A csatornák listája üres
+press,nyomja meg
+program,Műsor
+single movie,egyedülálló film
+{dd} days remaining,{dd} nap maradt
+{hours} hours remaining,{hours} óra maradt
+{mins} minutes remaining,{mins} perc maradt

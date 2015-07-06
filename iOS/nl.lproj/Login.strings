@@ -1,0 +1,27 @@
+﻿/* Class = "UITextField"; text = " "; ObjectID = "51"; */
+"51.text" = " ";
+
+/* Class = "UITextField"; text = " "; ObjectID = "52"; */
+"52.text" = " ";
+
+/* Class = "UITextField"; text = " "; ObjectID = "53"; */
+"53.text" = " ";
+
+/* Class = "UITextField"; text = " "; ObjectID = "54"; */
+"54.text" = " ";
+
+/* Class = "UILabel"; text = "enter the pairing code "; ObjectID = "59"; */
+"59.text" = "Voer code in";
+
+/* Class = "UITextView"; text = "To pair with your Online TV decoder, you generate a pairing code on the TV decoder via:"; ObjectID = "64"; */
+"64.text" = "Genereer een code door de volgende stappen op je TV te volgen:";
+
+/* Class = "UILabel"; text = "Menu > Settings > Mobile services"; ObjectID = "67"; */
+"67.text" = "Menu > Instellingen > Mobiele diensten > Genereer een code";
+
+/* Class = "UIButton"; normalTitle = "login with username and password"; ObjectID = "72"; */
+"72.normalTitle" = "log in met gebruikersnaam en wachtwoord";
+
+/* Class = "UILabel"; text = "PIN incorrect"; ObjectID = "80"; */
+"80.text" = "Code incorrect";
+

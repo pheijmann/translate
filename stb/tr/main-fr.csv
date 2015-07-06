@@ -1,0 +1,265 @@
+﻿ADULTVOD,VOD adultes
+APPS,Apps
+All temporarily stored content for pause tv will be removed once you go back to live. Are you sure?,Tout le contenu stocké temporairement pour Pause TV sera supprimé dès que vous reviendrez au direct. Êtes-vous sûr ?
+All temporarily stored content for pause tv will be removed once you zap. Are you sure you want to zap?,Tout le contenu stocké temporairement pour Pause TV sera supprimé dès que vous zappez. Êtes-vous sûr de vouloir zapper ?
+April,Avril
+April_abbrev,Avril
+Are you sure you want to continue and delete all recordings?,Êtes-vous sûr de vouloir continuer et supprimer tous les enregistrements ?
+August,Août
+August_abbrev,Août
+BACK,Précédent
+Back to details,Retour aux détails
+Backspace,Retour arrière
+"Because you restart tv buffer is going to an end, we start your restarted program, so you are able to finish watching it.","À cause du redémarrage de la TV, la mémoire tampon sera supprimée. Votre programme recommencera au début pour que vous puissiez le visionner."
+"Before you can play this video, you need to have the {product_name}.","Avant de pouvoir regarder cette vidéo, vous devez avoir l'offre {offer_name}"
+Before you can record this channel you need to have the {offer_name} offer,"Avant de pouvoir enregistrer cette chaîne, vous devez avoir l'offre {offer_name}"
+Before you can restart this channel you need to have the {offer_name} offer,"Avant de pouvoir utiliser la fonction ""regarder depuis le début"" sur cette chaîne, vous devez avoir l'offre {offer_name}"
+CAST,Distribution
+CLOSE,Fermer
+Cannot play the recording,Impossible de lire l'enregistrement
+Cannot record this channel,Impossible d'enregistrer cette chaîne
+Cannot restart this channel,"Impossible d'utiliser la fonction ""regarder depuis le début"" sur cette chaîne"
+Cast,Distribution
+Channel not found,Chaîne non trouvée
+Clear_keyboard,Clear-keyboard
+Close,Fermer
+Connection error,Erreur de connexion
+"Content is only available with offer, for more info call {callcenter_num}","Le contenu n'est disponible qu'avec l'offre. Pour plus d'infos, appelez le {callcenter_num}"
+DISCOVERY,Découverte
+December,Décembre
+December_abbrev,Déc
+Delete recording,Supprimer enregistrement
+Director,Réalisateur
+Duration,Durée
+Enter PIN to open adult portal,Introduisez le code PIN pour ouvrir le contenu adulte
+Enter here your 14-digit voucher code,Introduisez ici votre code de réduction à 14 chiffres
+Enter parental PIN,Introduisez le code PIN parental pour regarder {chan}
+Episode ended,Épisode terminé
+Error,Erreur
+Expand description,Lire toute la description
+Expiration time exceeded,Date de péremption dépassée
+External page,Overture page externe
+FAVORITE,Favoris
+FST scan required,FST scan required
+FUTURE,Regarder à l'avance
+Failed to play the recording,Impossible de lire l'enregistrement
+Favorites,Favoris
+February,Février
+February_abbrev,Fév
+Friday,Vendredi
+Friday_abbrev,Ven
+GENRE,Genre
+Genre,Genre
+Going to standby in {0} sec,En stand-by dans {0} sec
+Instant recording failed,Échec de l'enregistrement instantané
+Instant recording started,Lancement de l'enregistrement instantané
+Instant recording stopped,Arrêt de l'enregistrement instantané
+Insufficient Funds,Votre limite mensuelle a été atteinte
+Internal storage reached the limit.,Limite de stockage interne atteinte.
+It is not possible to rewind further.,Il n'est pas possible de revenir davantage en arrière.
+January,Janvier
+January_abbrev,Jan
+July,Juillet
+July_abbrev,Jui
+June,Juin
+June_abbrev,Jui
+Manual search,Recherche manuelle
+March,Mars
+March_abbrev,Mar
+May,Mai
+May_abbrev,Mai
+Monday,Lundi
+Monday_abbrev,Lun
+More episodes of,Plus d'épisodes de
+More movies of,Plus de films de
+Movie ended,Film terminé
+My Account,Mon compte
+New update available,Nouvelle mise à jour disponible
+No I don't,Non
+No channels available,Pas de chaînes disponibles
+No program information,Pas d'informations sur les programmes
+No search results found,Aucun résultat de recherche trouvé
+"No, keep watching Restart tv","Non, continuer à utiliser la fonction ""regarder depuis le début"""
+"No, stay in Pause TV mode","Non, rester en mode Pause"
+"No, stay on current channel","No, rester sur la chaîne actuelle"
+Not allowed to record last 15 minutes,Il n'est pas autorisé d'enregistrer les 15 dernières minutes
+Not available,Non disponible
+November,Novembre
+November_abbrev,Nov
+OSD_dialog_no,Non
+OSD_dialog_yes,Oui
+OSD_remove_recordings_header,Supprimer enregistrements
+October,Octobre
+October_abbrev,Oct
+Offer,Offre
+Offline,Offline
+On demand ended,Programme À la demande terminé
+PAST,Ratté
+PIN incorrect,Code PIN incorrect
+Parental content blocked,Entrez votre code de contrôle parental
+Parental control,Contrôle parental
+Pause TV buffer reached,Mise en mémoire tampon pour la fonction Pause
+PauseTV,Pause TV
+Play from beginning,Lire depuis le début
+Play recording,Lire l'enregistrement
+Play video,Lire la vidéo
+Please check your cables and internet connection,Vérifiez vos câbles et votre connexion  Internet
+Please choose a movie deal,Veuillez choisir une offre de films
+Please choose payment option,Veuillez choisir une option de paiement
+Preparing the recording,Préparation de l'enregistrement
+Price,Prix
+Price from,Prix à partir de
+Program ended,Programme terminé
+RADIO,Radio
+RATE,Évaluation
+RECORDINGS,Enregistrements
+REMIND,Rappeler
+RENT EPISODE,Louer épisode
+RENT MOVIE,Louer film
+RENT PROGRAM,Programme de location
+RENTAL_Offers_AcceptBtn,Accepter les paiements
+RENTAL_Offers_Desc_Deals,"This movie would be available for 30 days after renting. When you start watching this movie, it is possible to watch or restart the movie for {hours} hours before ending the rental period."
+RENTAL_Offers_Desc_DealsAndProducts,"Your choice is also part of a package. When you rent the single video its available for 30 days. When you start watching the video, its available for {hours} hours"
+RENTAL_Offers_Desc_Products,Your choice is part of a package. The package will give you unlimited access to the content for a certain period of time.
+RENTAL_Offers_Discount,Réduction
+RENTAL_Offers_MovieLabel,Single Movie
+RENTAL_Offers_Original_Price,Prix original
+RENTAL_Offers_PayMsg1,Les coûts suivants seront facturés:
+RENTAL_Offers_ProductLabel,Package
+RENTAL_Offers_Title,Options de paiement
+RENTAL_Payment_Chosen,Choisi:
+RENTAL_Payment_SubTitle,Veuillez entrer le code PIN location
+RENTAL_Payment_Success,Succès
+RENTAL_Payment_Title,Vérification du paiement
+RENTAL_Policy_AcceptButton,Accepter
+RENTAL_Policy_BackButtton,Précédent
+RENTAL_Policy_CheckBoxDescription,J'ai lu et j'accèpte les conditions générales.
+RENTAL_Policy_Description1,Lisez les conditions générales sur notre site avant de continuer.
+RENTAL_Policy_Description2,Ces conditions générales sont en accord avec le modèle de référence pour les conditions générales d'accès à Internet. Ce modèle de référence a été créé par le Conseil Supérieur aux affaires socio-économiques et aux consommateurs.
+RENTAL_Policy_Title,Conditions générales
+RENTAL_Voucher_Cancel,Cancel
+RENTAL_Voucher_Proceed,Procéder
+Record AlreadyModified,Enregistrement déjà modifié
+Record Complete,Enregistrement terminé
+Record DurationLimit,Limite durée enregistrement
+Record Forbidden,Enregistrement interdit
+Record NotFound,Enregistrement non trouvé
+Record OffersNotConfigured,Offres non configurées enregistrements
+Record OverlapLimit,Limite chevauchement enregistrements
+Record Succes,Succès enregistrement
+Recording ended,Enregistrement terminé
+Recording error,Erreur d'enregistrement
+Recording failed,Échec d'enregistrement
+Recording removal failed,Échec de la suppression de l'enregistrement
+Recording removed,Enregistrement supprimé
+"Recording will soon not be possible, delete old recording to free up time","L'enregistrement ne sera bientôt plus possible, supprimez un ancien enregistrement pour libérer de la place"
+Remove,Supprimer
+Rent failed! Invalid pin!,Code PIN invalide 
+Rental period,Période de location
+Renting failed,Échec de la location
+Restart TV,"Fonction ""regarder depuis le début"""
+Resume at {position},Reprendre la lecture à {position}
+Return by pressing the exit button,Retour en appuyant sur le bouton Home
+Return to the live moment of this channel,Retour au direct de cette chaîne
+SCHEDULE RECORDING,Enregistrer
+SC_messaging_EXPIRED,"Les droits de votre Smartcard ont expirés depuis {rightsexpirydate}. Si le problème persiste, veuillez contacter votre fournisseur TV {brand}. Des oinfromations supplémenatires sont disponibles sur {brandurl}"
+SC_messaging_INVALID_CARD,Smartcard invalide détectée
+SC_messaging_NEW_CARD,"Votre Smartcard n'a pas encore été activée. Si le problème persiste, veuillez contacter votre fournisseur TV {brand}. Des informations supplémentaires sont disponibles sur {brandurl}"
+SC_messaging_NO_CARD,Aucune caméra détéctée
+SC_messaging_close,Fermer
+SC_messaging_header,Information de la Smartcard
+SEARCH,rechercher
+SETTINGS,Paramètres
+SHARE,Partager
+SPORTS,Sports
+Saturday,Samedi
+Saturday_abbrev,Sam
+Scanning for satellite channels has not been performed yet. It should be done in Settings.,Scanning for satellite channels has not been performed yet. It should be done in Settings.
+Scheduled recording failed,Échec de l'enregistrement programmé
+Scheduled recording set,Enregistrement programmé défini
+Search_keyboard,Rechercher
+Season,Saison
+September,Septembre
+September_abbrev,Sep
+Space,Espace
+Stop,Arrêt
+Stop recording,Arrêt enregistrement
+Sunday,Dimanche
+Sunday_abbrev,Dim
+TV GUIDE,Programme TV
+TV ON DEMAND,TV à la demande
+Teletext,Télétexte
+The program is now starting on {channelname}. Would you like to zap to the channel?,Le programme commence maintenant sur {channelname}. Voulez-vous zapper vers cette chaîne ?
+The recording is being prepared for playback,L'enregistrement est en cours de préparation pour la lecture
+The recording just ended,L'enregistrement vient de se terminer
+"The recording limit of {cur_hours} hours has been recorded. By cleaning up old recordings, you can schedule new ones","La limite d'enregistrement de {cur_hours} heures a été atteinte. En supprimant d'anciens enregistrements, vous pouvez en programmer de nouveaux"
+"The restarted {title} is about to end, what do you want do:","L'enregistrement {title} relancé va se terminer, que voulez-vous faire ?"
+The stb has been inactive too long and will go into standby,Le matériel a été inactif trop longtemps et va se mettre en veille. Appuyez sur n'importe quelle touche pour continuer à regarder.
+There is new update,Il y a une nouvelle mise à jour
+There is no description available,Pas de description disponible
+This channel is not part of your offer,Cette chaîne ne fait pas partie de votre offre
+This feature is currently not supported,Cette fonctionnalité n'est actuellement pas prise en charge
+Thursday,Jeudi
+Thursday_abbrev,Jeu
+Today,Aujourd'hui
+Tomorrow,Demain
+Total Price,Prix total
+Total price for 48h rental period,Prix ​​total pour 48 h de location.
+Trickplay is only supported when you upgrade to {offer_name} offer,La lecture spéciale n'est  prise en charge qu'en cas de mise à niveau vers l'offre {offer_name}
+Tuesday,Mardi
+Tuesday_abbrev,Mar
+Unable to play video,Impossible de lire la vidéo
+Unable to playback Replay,Impossible de lire le replay
+Unable to trickplay,Lecture spéciale impossible
+Use Voucher,Utiliser votre voucher
+VIDEO ON DEMAND,Vidéo à la demande
+Valid,Valide
+Volume control not supported for this channel,Le contrôle du volume n'est pas pris en charge pour cette chaîne. Veuillez utiliser la télécommande de votre TV.
+Voucher already activated,Voucher already activated
+WATCH EPISODE,Regarder épisode
+WATCH MOVIE,Regarder film
+WATCH PROGRAM,Regarder programme
+WATCH REPLAY,Regarder replay
+Watch,Regarder
+Watch the next program in restart mode,Regarder le prochain programme en mode redémarrage
+Watch trailer,Regarder la bande annonce
+Wednesday,Mercredi
+Wednesday_abbrev,Mer
+Would you like to delete recording?,Voulez-vous supprimer l'enregistrement ?
+Would you like to resume from {position} or start over?,Voulez-vous reprendre à partir de {position} ou recommencer depuis le début?
+Would you like to stop recording?,Voulez-vous arrêter l'enregistrement ?
+Yes I want,Oui
+"Yes, go back to live TV","Oui, retourner à la TV en direct"
+"Yes, jump to live TV","Oui, passer à la télévision en direct"
+"Yes, remove all my recordings","Oui, supprimer tous mes enregistrements"
+"Yes, zap to other channel","Oui, zapper vers autre chaîne"
+Yesterday,Hier
+You are about to leave the restart modus. Are you sure you want to continue TV on the live moment?,Vous êtes sur le point de quitter le mode de redémarrage. Êtes-vous certain de vouloir continuer à regarder la TV en direct ?
+You are leaving Pause TV,Vous quittez Pause TV
+You are not allowed to record in Pause TV,Vous n'êtes pas autorisé à enregistrer dans Pause TV
+"You can only record a limited amount of tv channels and programs (up to {cur_hours} hours) in your current offer. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","Vous ne pouvez enregistrer qu'une quantité limitée de chaînes et de programmes TV (jusqu'à {cur_hours} heures) dans votre offre actuelle. Si vous voulez activer l'offre {best_offer_name}, appelez le {callcenter_num}"
+"You can only record {days} days ahead. Do you want to activate the {best_offer_name} offer, please call {callcenter_num}","Vous ne pouvez enregistrer que {days} jours à l'avance. Si vous voulez activer l'offre {best_offer_name}, appelez le {callcenter_num}"
+You can only record {days} days ahead. Unfortunatly you already reached this limit,"Vous ne pouvez enregistrer que {days} jours à l'avance. Malheureusement, vous avez déjà atteint cette limite"
+You can use this voucher for a {deals} movie from {owner},You can use this voucher for a {deals} movie from {owner}
+You have reached the beginning of Pause TV,Vous avez atteint le début de Pause TV
+You may now rent this movie with {amount}% discount,Vous pouvez louer maintenant ce film avec {amount}% de réduction
+You may now rent this movie with {amount}% discount for {deals} quality,You may now rent this movie with {amount}% discount for {deals} quality
+You may now upsell {product} with {amount}% discount,Vous pouvez acheter le {produit} supérieur maintenant avec {amount}% de réduction
+Your voucher code is incorrect,Votre code de réduction est incorrect
+Your voucher code was accepted,Votre code de réduction a été accepté
+back,Arrière
+cancel,Annuler
+channels,Chaînes
+free,Gratuit
+hours,heures
+minutes,minutes
+movie,film
+next,Suivant
+player_no_channels_error_header,Liste canal
+player_no_channels_error_message,Votre liste de chaînes est vide
+press,appuyer
+program,programme
+single movie,film unique
+{dd} days remaining,{dd} jours restants
+{hours} hours remaining,{hours} heures restantes
+{mins} minutes remaining,{mins} minutes restantes

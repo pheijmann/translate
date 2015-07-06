@@ -1,0 +1,221 @@
+﻿ACTIVATE,﻿Aktiválás
+Acties,Műveletek
+Actions,Műveletek
+Alternate DNS server,Alternatív DNS-kiszolgáló
+"An error occurred, please try again later","Hiba történt, kérjük, próbálja meg újra"
+Apply factory settings to the decoder,Alkalmazza gyári alapbeállításokat a dekóder
+Are you sure you want the box to auto detect DiSEqC configuration?,"Biztosan azt szeretné, hogy a készülék automatikusan érzékelje a DiSEqC-konfigurációt?"
+Are you sure you want the box to perform channels scanning?,"Biztos benne, hogy szeretné, hogy a dekóder elvégzésére csatorna szkennelés?"
+Are you sure you want to apply factory settings?,"Biztos benne, hogy szeretné alkalmazni a gyári beállításokat?"
+Are you sure you want to search new updates?,Biztosan szeretne keresni új frissítéseket?
+At this moment you reached the minimum speed to be able to enjoy the interactive features,"Elérte a minimális sebességet, amelynél élvezhetővé válnak az interaktív funkciók"
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,"Az internetkapcsolata túl lassú volt az interaktív szolgáltatások teljes kihasználásához. Ellenőrizze, hogy nem futnak-e olyan egyéb szolgáltatások a háttérben, amelyek befolyásolják az internetkapcsolatot."
+Audio output,Hangkimenet
+Auto DiSEqC configuration applied,Megtörtént az automatikus DiSEqC-konfiguráció alkalmazása
+Auto detect DiSEqC configuration,DiSEqC-konfiguráció automatikus érzékelése
+"Before you can create a pairing code, you need to have the {product_name}. To activate this, please call {callcenter_num}.",A párosítási kód létrehozásához szükség van a következőre: {product_name}. Az aktiváláshoz hívja a következő számot: {callcenter_num}.
+Branch version,Ágverzió
+Build version,Programverzió
+CHANGE PIN,PIN kód módosítása
+Can't create the pairing code,Nem lehet párosítási kódot létrehozni
+Can't send diagnostics,Nem sikerült elküldeni a diagnosztikai adatokat
+Cancel auto detection,Automatikus érzékelés megszakítása
+Cancel downloading,Mégsem letöltés
+Cancel installing,Mégsem telepítése
+Cancel scanning,Mégsem szkennelés
+Cancel searching,Mégsem keres
+Canceling...,Törlés ...
+Cancelling search,Törlése keresés
+Cannot check for updates now. Try again later.,Most nem lehet frissítéseket keresni. Próbálja meg ismét később.
+Change FSK,Változás érettségi beállítás
+Change PIN,PIN kód módosítása
+Channels scanning has been aborted,Channels scanning has been aborted
+Check for updates,Frissítések keresése
+Checking for updates ...,Frissítések keresése...
+Classes,Osztályok
+Confirm new PIN,Új PIN kód megerősítése
+Confirm your new billing PIN code,Új számlázási PIN kód megerősítése
+Confirm your new parental control PIN code,Új szülői felügyeleti PIN kódja megerősítése
+Couldn't find default configuration.,Nem található alapértelmezett konfiguráció.
+Create a pairing code,Párosítási kód létrehozása
+Current configuration:,Jelenlegi konfiguráció:
+Custom configuration applied,Megtörtént az egyéni konfiguráció alkalmazása
+DEACTIVATE,Aktiválás megszüntetése
+DHCP is off,A DHCP ki van kapcsolva
+DHCP is on,A DHCP be van kapcsolva
+Default configuration applied,Megtörtént az alapértelmezett konfiguráció alkalmazása
+Default gateway,Alapértelmezett átjáró
+Default settings,Alapértelmezett beállítások
+Device,Eszköz
+DiSEqC auto scan cancelled,DiSEqC automatikus keresés megszakítva
+DiSEqC configuration,DiSEqC-konfiguráció
+DiSEqC configuration alert header,DiSEqC-konfigurációs riasztás fejléce
+DiSEqC_AUTO,Auto
+DiSEqC_Cancel,Töröl
+DiSEqC_MANUAL_CUSTOM,Egyedi
+DiSEqC_MANUAL_DEFAULT,Alapbeállítás
+DiSEqC_MANUAL_OFF,kikapcsol
+DiSEqC_MANUAL_ON,bekapcsol
+DiSEqC_Save,Mentés beállítását
+DiSEqC_UNDEFINED,Definiálatlan
+DiSEqC_port_unused,nem használt
+Diagnostic was send successfully,Sikeresen megtörtént a diagnosztika elküldése
+Diagnostics,Diagnosztika
+Do you want to apply the auto detected configuration?,Alkalmazni szeretné az automatikusan érzékelt konfigurációt?
+Do you want to apply the custom configuration?,Alkalmazni szeretné az egyéni konfigurációt?
+Do you want to apply the default configuration?,Alkalmazni szeretné az alapértelmezett konfigurációt?
+"Do you want to reboot your TV decoder, to set the language to {lang}?",Szeretné újraindítani a tévédekódert a következő nyelv beállításához: {lang}?
+Enter PIN to,Írja be a PIN kódot a következőhöz
+Enter current PIN:,Írja be a jelenlegi PIN kódot:
+Enter current Parental PIN to change FSK level:,Írja be a jelenlegi Szülői PIN változtatni érettségi szintet:
+Enter new billing PIN,Írja be az új számlázási PIN kódot
+Enter new parental control PIN,Írja be az új szülői felügyeleti PIN kódot
+Environment,Környezet
+Explanation of parental control feature,"Önnek lehetősége van, hogy aktiválja / kikapcsolja a szülői felügyelet opciót. Kikapcsolása után a szülői felügyelet, minden tartalom van megjelölve felnőtt eléréséhez nem kell a PIN-kódot."
+FST scanning alert header,FST szkennelés figyelmeztető header
+FST version:,FST version:
+FST:,FST:
+Factory settings,Gyári beállítások
+Factory_settings_popup_header,Factory_settings_popup_header
+Firmware type,Firmware típus
+Firmware version,Firmware-verzió
+Followind devices are currently connected. To unpair a device select it and press the OK button on your RCU,Jelenleg a következő készülékek vannak csatlakoztatva. A készülékek párosításának megszüntetéséhez nyomja meg az OK gombot a távirányítón
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+GENERAL,Általános
+Hardware version,Hardververzió
+INFO,Információ
+INSTALLATION,Gyári beállítások
+IP address,IP-cím
+IP external,Külső IP-cím
+IP internal,Belső IP-cím
+Install new update,Telepítse az új frissítés
+Language,Nyelv
+Language change,Nyelv módosítása
+Last scan:,Utolsó vizsgálat:
+Legal information,Legal information
+Legal information content,Legal information content
+MAC address,MAC-cím
+MOBILE,Mobil
+Make sure that your smart card is not ejected,"Ellenőrizze, hogy a smart kártya nem jön ki,"
+Manual configuration,Manuális konfigurálás
+Media test,Médiateszt
+Media test ended,Befejeződött a médiateszt
+Minimum Age,Minimum Age
+My offers,Az ajánlataim
+My recordings,A felvételeim
+Network settings,Hálózati beállítások
+New PIN inputs do not match,A megadott új PIN kódok nem egyeznek meg
+New PIN must be 4 digits,Az új PIN kódnak négyjegyűnek kell lennie
+New PIN must be different from old PIN,Az új PIN kód nem egyezhet meg a régi PIN kóddal
+No,Nem
+No old PIN,Nincs régi PIN kód
+No rights available,Nincs rendelkezésre álló jogok
+No upgrade available,Nincs elérhető frissítés
+"No, don't scan","Nem, nem vizsgálja"
+"No, don't search","Nem, ne keressen"
+"No, keep my current configuration","Nem, megtartom a jelenlegi konfigurációt"
+"No, keep my current language","Nem, megtartom a jelenlegi nyelvet"
+Old pin do not match,A régi PIN kód nem egyezik
+OnDemandTestMovie,OnDemandTestMovie
+Online base,Online adatbázis
+Operator,Operátor
+PIN incorrect,Helytelen PIN kód
+Parental control,Szülői felügyelet
+Perform factory reset,Gyári beállítások visszaállítása
+Port {port},Port {port}
+Preferred DNS server,Előnyben részesített DNS-kiszolgáló
+Problem with network,Hálózati probléma
+Purchase PIN,PIN kód vásárlása
+Radio channels number:,Rádió csatornák száma:
+Reboot TV decoder,Tévédekóder újraindítása
+Reboot your TV decoder,A tévédekódere újraindítása
+Run diagnostics,Diagnosztika futtatása
+SC ID (UA),SC ID (UA)
+SC Label,SC Label
+SETTINGS,Beállítások
+STB Upgrade,Dekóder Frissítés
+Scan for DVB-s channels,Szkennelés a DVB-S csatornák
+Scan satellite channels,Műholdas csatornákat
+Screen ratio,Képernyőarány
+Search OTA upgrade,Keresés OTA frissítés
+Searching OTA upgrade,Keresés OTA frissítés
+Select audio output,Hangkimenet kiválasztása
+Select language,Nyelvválasztás
+Select screen ratio,Képernyőarány kiválasztása
+Select to check for updates,Válassza a frissítések kereséséhez
+Select to run bandwidth test,Válassza sávszélességi teszt futtatásához
+Select to run setup wizard,Válassza a beállítási varázsló futtatásához
+Select to send diagnostics,Válassza diagnosztika küldéséhez
+Select to test media playback,Válassza a médialejátszás teszteléséhez
+Select video format,Videoformátum kiválasztása
+Serial,Sorozatszám
+Setting DiSEqC configuration failed,Nem sikerült a DiSEqC-konfiguráció megadása
+Settings,Beállítások
+Settopbox settings page,Következő lehetőségek viszi a set-top box helyi beállításokat. Press hazamenni.
+Settopbox type,Dekóder típusát
+Setup Wizard,Beállítási varázsló
+Smart card details,Smart kártya adatai
+Smart card information,Smart kártya információk
+Smart card is not available,Smart kártya nem elérhető
+Smart card rights,Smart kártya jogok
+Smart cards supported: Explanation of parental control feature,A smart kártyák támogatása: Magyarázat a szülői felügyelet funkciót
+SmartCard,Smart kártya
+Software version,Szoftververzió
+Speedcheck,Sebesség-ellenőrzés
+Status:,Állapot:
+Subnet mask,Alhálózati maszk
+Succesfully changed PIN,Sikeresen megtörtént a PIN kód módosítása
+System details,Rendszer részletei
+System information,Rendszer információk
+System version,Rendszerverzió
+TV SETTINGS,Tévé Beállításai
+TV channels number:,TV-csatornák száma:
+TV operator:,TV üzemeltető:
+Test bandwidth,Sávszélességteszt
+Testing,Tesztelés
+The pairing code will be valid for 5 minutes,A párosítási kód érvényessége 5 perc
+There is a newer version available: {version},Újabb verzió érhető el: {version}
+This feature requires access to the internet connection.,This feature requires access to the internet connection.
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Nem lehet elindítani az automatikus DiSEqC-keresést
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Frissítse most
+Updater,Frissítő
+Upgrade scanning has been aborted,Frissítés szkennelés megszakadt
+VODTestMovie,VODTestMovie
+Valid,Érvényes
+Valid from,Érvényesség kezdete
+Valid to,Érvényesség vége
+Video format,Videoformátum
+Would you like to perform factory reset?,Szeretné visszaállítani a készüléket a gyári beállításokra?
+Would you like to reboot TV decoder?,Szeretné újraindítani a tévédekódert?
+Yes,Igen
+"Yes, apply the custom configuration","Igen, az egyéni beállítások alkalmazása"
+"Yes, apply the default configuration","Igen, az alapértelmezett beállítások alkalmazása"
+"Yes, apply the detected configuration","Igen, az érzékelt konfiguráció alkalmazása"
+"Yes, reboot now","Igen, újraindítás most"
+"Yes, scan now","Igen, keresés most"
+"Yes, search now","Igen, keressen most"
+You can pair your device by entering following pairing code inside your application.,"A készüléke párosítását úgy végezheti el, hogy beírja a következő párosítási kódot az alkalmazásában."
+You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.,You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.
+You can test the stream only for {secs} secs,Az adatfolyamot csak {secs} másodpercig tesztelheti
+You need an Internet connection to change your purchase pin code,Szüksége van egy Internet-kapcsolat változtatni a vásárlást pin kód
+Your FSK Level was successfully changed,Az Ön érettségi szint sikeres változott
+Your PG Level was successfully changed,Your PG Level was successfully changed
+Your TV decoder is up to date,A tévédekóderén a legfrissebb szoftver fut
+actions_header,Műveletek
+activate,aktiválás
+deactivate,aktiválás megszüntetése
+enter new PIN twice,írja be kétszer az új PIN kódot
+enter old PIN,írja be a régi PIN kódot
+failed,sikertelen
+never scanned,soha nem szkennelt
+old PIN incorrect,hibás a régi PIN kód
+production,produkció
+ratio_16:9,16:9
+ratio_4:3,4:3
+ratio_DEFAULT,Alapbeállítás
+ratio_SQUARE,Szögletes
+too many tries,túl sok próbálkozás
+unknown,ismeretlen

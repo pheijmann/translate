@@ -1,0 +1,38 @@
+﻿Actions,Actions
+BACK,Back
+CAST,Cast
+CATCH-UP,Catch-up
+EPG,TV Guide
+Enter your 4 digit purchase code here,Enter your 4 digit purchase code
+FAVORITE,Favorite
+Favorites,Favorites
+GENRE,Genre
+GENRES,Genres
+List,List
+Mon,Mon
+More,More
+NOW ON TV,Now on TV
+PROMO,Promo
+PVR,Recordings
+Primetime,Primetime
+RATE THIS MOVIE,Rate this movie
+REGIONAL,Regional channels
+RENT,Rent
+RENT MOVIE,Rent movie
+REPLAY,Replay
+Recommendations,Recommendations
+Renting failed,Rental failed
+Today,Today
+Tomorrow,Tomorrow
+WATCH MOVIE,Watch movie
+channels,Channels
+epg_grid_no_channels,No channels available
+epg_grid_no_fav_channels,No favorite channels available
+epg_loading_failed_msg,"Failed to load EPG, try again later"
+genres,Genres
+live_loading_failed_msg,"Failed to load live programs, try again later"
+live_no_channels,No channels available
+live_no_fav_channels,No favorite channels available
+mosaic,Mosaic
+supergenres_loading_failed_msg,"Failed to load programs, try again later"
+view_offline_message,This view is unavailable offline

@@ -1,0 +1,221 @@
+﻿ACTIVATE,Activeren
+Acties,Acties
+Actions,Acties
+Alternate DNS server,Alternatieve DNS server
+"An error occurred, please try again later","Er is een fout opgetreden, probeer het later opnieuw"
+Apply factory settings to the decoder,Fabrieksinstellingen terug zetten
+Are you sure you want the box to auto detect DiSEqC configuration?,Are you sure you want the box to auto detect DiSEqC configuration?
+Are you sure you want the box to perform channels scanning?,Zenderlijst opnieuw installeren?
+Are you sure you want to apply factory settings?,Fabrieksinstellingen terug zetten?
+Are you sure you want to search new updates?,Naar nieuwe software voor de ontvanger zoeken?
+At this moment you reached the minimum speed to be able to enjoy the interactive features,Op dit moment heeft u voldoende internetsnelheid om te kunnen genieten van de interactieve mogelijkheden
+At this moment your internet connection was to low to fully enjoy our interactive services. Please check if there are no other services running in the background which influence the internet connection.,Op dit moment is uw internetsnelheid te laag om te kunnen genieten van de interactieve mogelijkheden. Controleer of er geen andere processen lopen die van invloed kunnen zijn op uw verbinding.
+Audio output,Geluidsuitgang
+Auto DiSEqC configuration applied,Auto DiSEqC configuratie toegepast
+Auto detect DiSEqC configuration,Automatische detectie DiSEqC configuratie
+"Before you can create a pairing code, you need to have the {product_name}. To activate this, please call {callcenter_num}.","Voordat je een koppel-code kan aanmaken, heb je het {product_name} nodig. Om deze te activeren, kan je bellen met {callcenter_num}."
+Branch version,Branch versie
+Build version,Build versie
+CHANGE PIN,Pincode veranderen
+Can't create the pairing code,Er kan geen pairing code worden aangemaakt
+Can't send diagnostics,Diagnose kan niet worden verzonden
+Cancel auto detection,Automatisch zoeken stoppen / opheffen
+Cancel downloading,Stop de download.
+Cancel installing,Installatie stoppen
+Cancel scanning,Stop met zoeken
+Cancel searching,Stop met zoeken
+Canceling...,Bezig met stoppen...
+Cancelling search,Zoek opdracht opheffen
+Cannot check for updates now. Try again later.,"Zoeken naar updates nu niet mogelijk, probeer later nog eens."
+Change FSK,Leeftijdslimiet aanpassen
+Change PIN,Pincode veranderen
+Channels scanning has been aborted,Channels scanning has been aborted
+Check for updates,Controleren op updates
+Checking for updates ...,Updates zoeken ...
+Classes,Categorie
+Confirm new PIN,Bevestig nieuwe pincode
+Confirm your new billing PIN code,Bevestig de nieuwe betaalpincode
+Confirm your new parental control PIN code,Bevestig de nieuwe pincode
+Couldn't find default configuration.,Geen standaard instellingen gevonden.
+Create a pairing code,Genereer een koppel-code
+Current configuration:,Huidige configuratie:
+Custom configuration applied,Eigen configuratie toegepast
+DEACTIVATE,Deactiveren
+DHCP is off,DHCP staat uit
+DHCP is on,DHCP staat aan
+Default configuration applied,Standaardconfiguratie toegepast
+Default gateway,Standaard gateway
+Default settings,Standaard instellingen
+Device,Apparaat
+DiSEqC auto scan cancelled,Automatsch DiSEqC zoeken gestopt.
+DiSEqC configuration,DiSEqC instelling
+DiSEqC configuration alert header,DiSEqC instelling
+DiSEqC_AUTO,Automatisch
+DiSEqC_Cancel,Opheffen
+DiSEqC_MANUAL_CUSTOM,Aangepaste instelling
+DiSEqC_MANUAL_DEFAULT,Standaard
+DiSEqC_MANUAL_OFF,uit
+DiSEqC_MANUAL_ON,aan
+DiSEqC_Save,Bewaren
+DiSEqC_UNDEFINED,leeg
+DiSEqC_port_unused,ongebruikt
+Diagnostic was send successfully,Diagnose is succesvol verzonden
+Diagnostics,Diagnose
+Do you want to apply the auto detected configuration?,Wilt u de automatische configuratie gebruiken?
+Do you want to apply the custom configuration?,Wilt u uw eigen configuratie gebruiken?
+Do you want to apply the default configuration?,Wilt u de standaard configuratie gebruiken?
+"Do you want to reboot your TV decoder, to set the language to {lang}?","Wilt u de Set Top Box opnieuw starten, om de taal naar {lang} te wijzigen?"
+Enter PIN to,Vul de pincode in om te
+Enter current PIN:,Huidige pincode
+Enter current Parental PIN to change FSK level:,Toets de ouderlijk toezicht PIN om de leeftijds limiet aan te passen:
+Enter new billing PIN,Vul de nieuwe betaalpincode
+Enter new parental control PIN,Nieuwe pincode
+Environment,Omgeving
+Explanation of parental control feature,"U kunt ervoor kiezen om de ouderlijk toezicht te activeren / deactiveren. Zodra u deze deactiveert, zijn de zenders die gekenmerkt zijn met ouderlijk toezicht, zonder pincode beschikbaar."
+FST scanning alert header,Zenderlijst scan
+FST version:,FST version:
+FST:,Zenderlijst
+Factory settings,Fabrieksinstellingen
+Factory_settings_popup_header,Fabrieks instellingen
+Firmware type,Firmware type
+Firmware version,Firmware versie
+Followind devices are currently connected. To unpair a device select it and press the OK button on your RCU,"Een mobiel apparaat loskoppelen, doe je door hieronder er een te selecteren en op de OK-knop te drukken."
+Found {tv_num} TV channels and {radio_num} radio channels,Found {tv_num} TV channels and {radio_num} radio channels
+GENERAL,Algemeen
+Hardware version,Hardware versie
+INFO,Systeem info
+INSTALLATION,Installatie
+IP address,IP adres
+IP external,Externe IP adres
+IP internal,Interne IP adres
+Install new update,Installeer de nieuwe software
+Language,Taal
+Language change,Taal wijziging
+Last scan:,Laatste scan:
+Legal information,Legal information
+Legal information content,Legal information content
+MAC address,MAC adres
+MOBILE,Mobiele diensten
+Make sure that your smart card is not ejected,Zorg ervoor dat de smart card aanwezig is
+Manual configuration,Zelf configureren
+Media test,Media test
+Media test ended,Media test einde
+Minimum Age,Minimum Age
+My offers,Mijn pakketten
+My recordings,Mijn opnames
+Network settings,Netwerkinstellingen
+New PIN inputs do not match,De nieuwe pincodes komen niet overeen.
+New PIN must be 4 digits,De nieuwe pincode moet bestaan uit 4 cijfers.
+New PIN must be different from old PIN,De nieuwe pincode mag niet gelijk zijn aan de oude pincode.
+No,Nee
+No old PIN,Oude pincode niet opgegeven
+No rights available,Geen rechten
+No upgrade available,Geen nieuwe software beschikbaar
+"No, don't scan","Nee, niet zoeken"
+"No, don't search","Nee, niet zoeken"
+"No, keep my current configuration","Nee, huidige configuratie behouden"
+"No, keep my current language","Nee, behoud de huidige taal"
+Old pin do not match,Oude pincode komt niet overeen
+OnDemandTestMovie,Test film
+Online base,Online bron
+Operator,Operator
+PIN incorrect,Foutieve pincode
+Parental control,Ouderlijk toezicht
+Perform factory reset,Fabrieksinstellingen herstellen
+Port {port},Poort {port}
+Preferred DNS server,Voorkeur DNS server
+Problem with network,Netwerkprobleem
+Purchase PIN,Betaalpincode
+Radio channels number:,Aantal radio kanalen:
+Reboot TV decoder,Set Top Box herstarten
+Reboot your TV decoder,Set Top Box herstarten.
+Run diagnostics,Diagnose uitvoeren
+SC ID (UA),SC ID (UA)
+SC Label,SC Label
+SETTINGS,Instellingen
+STB Upgrade,Ontvanger upgrade
+Scan for DVB-s channels,Zenders zoeken
+Scan satellite channels,Satelliet kanalen zoeken
+Screen ratio,Beeldverhouding
+Search OTA upgrade,Software upgrade via Satelliet zoeken
+Searching OTA upgrade,Bezig met zoeken (OTA)
+Select audio output,Selecteer de audio uitgang
+Select language,Kies uw gewenste taal
+Select screen ratio,Selecteer de beeldverhouding
+Select to check for updates,Controleer voor firmware updates
+Select to run bandwidth test,Selecteer om de verbindingstest te doen
+Select to run setup wizard,Selecteer om de installatie hulp te starten.
+Select to send diagnostics,Selecteer om de diagnose te versturen
+Select to test media playback,Selecteer om media test uit te voeren
+Select video format,Selecteer het videoformaat
+Serial,Serienummer
+Setting DiSEqC configuration failed,DiSEqC configuratie mislukt
+Settings,Instellingen
+Settopbox settings page,Onderstaande knoppen brengen U naar de lokale settopbox instellingen. Gebruik de home-toets om terug te keren.
+Settopbox type,Ontvanger type
+Setup Wizard,Installatie hulp
+Smart card details,Smart card gegevens
+Smart card information,Smart card informatie
+Smart card is not available,Geen smart card gevonden
+Smart card rights,Smart card rechten
+Smart cards supported: Explanation of parental control feature,Smart card ondersteuning: Ouderlijk toezicht controle
+SmartCard,Smart card
+Software version,Software versie
+Speedcheck,Test bandbreedte
+Status:,Status:
+Subnet mask,Subnet mask
+Succesfully changed PIN,Pincode aangepast
+System details,Systeem details
+System information,Systeem informatie
+System version,Systeem versie
+TV SETTINGS,Tv instellingen
+TV channels number:,Aantal TV kanalen:
+TV operator:,TV aanbieder:
+Test bandwidth,Verbindingstest
+Testing,Testen
+The pairing code will be valid for 5 minutes,"De vier cijferige code om uw apparaat te koppelen, verloopt binnen 5 minuten."
+There is a newer version available: {version},Er is een update beschikbaar: {version}
+This feature requires access to the internet connection.,This feature requires access to the internet connection.
+Unable to complete channels scanning,Unable to complete channels scanning
+Unable to start auto DiSEqC scanning,Auto DiSEqC zoeken niet mogelijk
+Unable to start channels scanning,Unable to start channels scanning
+Unable to start scanning,Unable to start scanning
+Update now,Update uitvoeren
+Updater,Vernieuwen
+Upgrade scanning has been aborted,Upgrade scan is gestopt
+VODTestMovie,Test film
+Valid,Beschikbaar
+Valid from,Geldig van:
+Valid to,Geldig tot:
+Video format,Videoformaat
+Would you like to perform factory reset?,Wilt u de tv-decoder herstellen naar de fabrieksinstellingen?
+Would you like to reboot TV decoder?,Wilt u de Set Top Box opnieuw starten?
+Yes,Ja
+"Yes, apply the custom configuration","Ja, eigen configuratie gebruiken"
+"Yes, apply the default configuration","Ja, standaard configuratie gebruiken"
+"Yes, apply the detected configuration","Ja, gevonden instelling gebruiken"
+"Yes, reboot now","Ja, opnieuw starten"
+"Yes, scan now","Ja, opnieuw scannen"
+"Yes, search now","Ja, nu zoeken"
+You can pair your device by entering following pairing code inside your application.,Je kan een mobiel apparaat koppelen door de vier cijferige code in de iOS / Android applicatie in te vullen.
+You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.,You can set your Parental Guidance level by changing the minimum age below. Enter a value from 1 to 18. You can enter '0' when you don't want to use this feature.
+You can test the stream only for {secs} secs,U kan het kanaal  maximaal {secs} s. testen
+You need an Internet connection to change your purchase pin code,U heeft verbinding met het internet nodig om de transactie PIN aan te passen.
+Your FSK Level was successfully changed,De leeftijdslimiet is aangepast
+Your PG Level was successfully changed,Your PG Level was successfully changed
+Your TV decoder is up to date,De Set Top Box bevat de laatste firmware
+actions_header,Acties
+activate,activeren
+deactivate,deactiveren
+enter new PIN twice,Vul de nieuwe PIN tweemaal in
+enter old PIN,Vul de oude PIN in
+failed,Mislukt
+never scanned,nooit
+old PIN incorrect,De oude pincode is niet juist
+production,productie
+ratio_16:9,16:9
+ratio_4:3,4:3
+ratio_DEFAULT,Standaard
+ratio_SQUARE,Vierkant
+too many tries,te veel pogingen
+unknown,onbekend
