@@ -1,0 +1,18 @@
+﻿/* Class = "IBUINavigationItem"; title = "remote"; ObjectID = "BrR-6C-o7D"; */
+"BrR-6C-o7D.title" = "Steuerung";
+
+/* Class = "IBUILabel"; text = "FAV"; ObjectID = "Flb-XG-OYS"; */
+"Flb-XG-OYS.text" = "FAV";
+
+/* Class = "IBUILabel"; text = "RADIO"; ObjectID = "SYb-RA-Lgz"; */
+"SYb-RA-Lgz.text" = "RADIO";
+
+/* Class = "IBUILabel"; text = "TEXT"; ObjectID = "fIb-bx-nOX"; */
+"fIb-bx-nOX.text" = "TEXT";
+
+/* Class = "IBUIViewController"; title = "remote"; ObjectID = "hcz-jn-yRg"; */
+"hcz-jn-yRg.title" = "Steuerung";
+
+/* Class = "IBUILabel"; text = "GUIDE"; ObjectID = "mLV-ul-lRh"; */
+"mLV-ul-lRh.text" = "EPG";
+

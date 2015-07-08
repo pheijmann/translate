@@ -1,0 +1,15 @@
+﻿/* Class = "IBUILabel"; text = "Before"; ObjectID = "12"; */
+"12.text" = "Vorlaufzeit";
+
+/* Class = "IBUILabel"; text = "After"; ObjectID = "13"; */
+"13.text" = "Nachlaufzeit";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "14"; */
+"14.text" = "-";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "16"; */
+"16.text" = "-";
+
+/* Class = "IBUILabel"; text = "Recording buffer"; ObjectID = "30"; */
+"30.text" = "Aufnahme-Zeitpuffer";
+

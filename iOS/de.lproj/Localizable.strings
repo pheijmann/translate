@@ -1,0 +1,810 @@
+﻿/* No comment provided by engineer. */
+"#geradeläuft bei meinFernsehen #schaudochmal" = "#geradeläuft bei meinFernsehen #schaudochmal";
+
+/* No comment provided by engineer. */
+"%.0f hours left for viewing" = "noch %.0f Stunden verfügbar";
+
+/* No comment provided by engineer. */
+"%.0f minutes left for viewing" = "noch %.0f Minuten verfügbar";
+
+/* No comment provided by engineer. */
+"%1$@ replay Decoder not found." = "%1$@ Set-Top-Box für RePlay nicht gefunden";
+
+/* No comment provided by engineer. */
+"%1$@ replay not connected" = "%1$@ RePlay nicht verbunden";
+
+/* No comment provided by engineer. */
+"%1$@ starts now on %2$@" = "%1$@ startet jetzt um %2$@";
+
+/* No comment provided by engineer. */
+"%1$@ unlimited box office" = "%1$@ uneingeschränktes box office";
+
+/* No comment provided by engineer. */
+"%2$@ - “%1$@”" = "%2$@ - “%1$@“";
+
+/* reminders button time range */
+"%@ (%d minutes)" = "%1$@ (%2$d Minuten)";
+
+/* No comment provided by engineer. */
+"%d days left" = "%d Tage verfügbar";
+
+/* catchup cell */
+"%d episode%@" = "%1$d Episode%2$@";
+
+/* No comment provided by engineer. */
+"%d minute" = "%d Minute";
+
+/* No comment provided by engineer. */
+"%d minutes" = "%d Minuten";
+
+/* No comment provided by engineer. */
+"%d results" = "%d Ergebnisse";
+
+/* No comment provided by engineer. */
+"%d second" = "%d Sekunde";
+
+/* No comment provided by engineer. */
+"%d seconds" = "%d Sekunden";
+
+/* No comment provided by engineer. */
+"(my: %.1f)" = "(Meine Bewertung: %.1f)";
+
+/* No comment provided by engineer. */
+"0 - OK" = "Aufnahme wurde gerade gestartet";
+
+/* No comment provided by engineer. */
+"0 minutes" = "0 Minuten";
+
+/* No comment provided by engineer. */
+"1 - Duration limit exceeded" = "Diese Aufnahme kann nicht durchgeführt werden. Entfernen Sie alte Aufnahmen(s) oder erweitern Sie Ihr TV Programmpaket. (Fehlermeldung 1)";
+
+/* No comment provided by engineer. */
+"1 minute" = "1 Minute";
+
+/* No comment provided by engineer. */
+"10 minutes" = "10 Minuten";
+
+/* No comment provided by engineer. */
+"15 minutes" = "15 Minuten";
+
+/* No comment provided by engineer. */
+"2 - Overlap limit exceeded" = "Zu viele Aufnahmen gleichzeitig (Fehlermeldung 2)";
+
+/* No comment provided by engineer. */
+"2 minutes" = "2 Minuten";
+
+/* No comment provided by engineer. */
+"3 - Forbidden - station is not recordable" = "Dieses Programm kann nicht aufgenommen werden (Fehlermeldung 3)";
+
+/* No comment provided by engineer. */
+"3 minutes" = "3 Minuten";
+
+/* No comment provided by engineer. */
+"4 - Data already modified [npvrgen]" = "4 - Daten bereits geändert [npvrgen]";
+
+/* No comment provided by engineer. */
+"4 minutes" = "4 Minuten";
+
+/* No comment provided by engineer. */
+"5 - Not found" = "Aufnahme wurde nicht gefunden (Fehlermeldung 5)";
+
+/* No comment provided by engineer. */
+"5 minutes" = "5 Minuten";
+
+/* No comment provided by engineer. */
+"6 - Offers not found or not configured" = "Dieser Kanal ist nicht Teil Ihres Programmpaketes (Fehlermeldung 6)";
+
+/* No comment provided by engineer. */
+"7 minutes" = "7 Minuten";
+
+/* nav bar's title */
+"about" = "Impressum";
+
+/* No comment provided by engineer. */
+"Accept" = "Accept";
+
+/* No comment provided by engineer. */
+"Access to the albums has been denied for this application" = "Der Zugriff auf Alben wurde von der Applikation verweigert";
+
+/* No comment provided by engineer. */
+"account" = "Konto";
+
+/* dashboard */
+"Account" = "Über uns";
+
+/* No comment provided by engineer. */
+"Actors: %@" = "Besetzung: %@";
+
+/* No comment provided by engineer. */
+"all" = "Alle";
+
+/* No comment provided by engineer. */
+"all channels" = "Alle Kanäle";
+
+/* replay */
+"all genres" = "Alle Kategorien";
+
+/* No comment provided by engineer. */
+"all recordings" = "Alle Aufnahmen";
+
+/* No comment provided by engineer. */
+"Also available on %2$@ at %1$@" = "Auch verfügbar von %2$@ bis %1$@";
+
+/* No comment provided by engineer. */
+"app tutorial" = "Bedienungsanleitung";
+
+/* No comment provided by engineer. */
+"available" = "verfügbar";
+
+/* No comment provided by engineer. */
+"back" = "zurück";
+
+/* No comment provided by engineer. */
+"bookmark" = "Lesezeichen";
+
+/* nav bar's title */
+"bookmarks" = "Merkliste Filme";
+
+/* No comment provided by engineer. */
+"Buzz" = "Gesamtsumme";
+
+/* No comment provided by engineer. */
+"By %@" = "von %@";
+
+/* No comment provided by engineer. */
+"calendar" = "Kalender";
+
+/* No comment provided by engineer. */
+"Can't record in the past" = "Keine Aufnahmen aus der Vergangenheit möglich";
+
+/* No comment provided by engineer. */
+"Can't set reminder in the past" = "Keine Erinnerungen aus der Vergangenheit möglich";
+
+/* No comment provided by engineer. */
+"cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Cannot get the message" = "Die Nachricht kann nicht erstellt werden";
+
+/* nav bar's title */
+"catchup" = "TV auf Abruf";
+
+/* No comment provided by engineer. */
+"channel" = "Kanal";
+
+/* No comment provided by engineer. */
+"Channel can only be played in the %@ network." = "Dieser Kanal kann nur im %@ Netzwerk wiedergegeben werden.";
+
+/* No comment provided by engineer. */
+"Channel not found" = "Kanal konnte nicht gefunden";
+
+/* catchup */
+"channels" = "Kanäle";
+
+/* No comment provided by engineer. */
+"close" = "schließen";
+
+/* No comment provided by engineer. */
+"Connect now" = "Jetzt verbinden";
+
+/* dashboard */
+"content" = "Mein Bereich";
+
+/* No comment provided by engineer. */
+"controls" = "Steuerung";
+
+/* No comment provided by engineer. */
+"Copyright: %@" = "Copyright: %@";
+
+/* No comment provided by engineer. */
+"currently selected" = "ausgewählt";
+
+/* nav bar's title */
+"dashboard" = "Konto";
+
+/* catchup */
+"days" = "Tage";
+
+/* date in details */
+"dd.MM.YYYY" = "dd.MM.YYYY";
+
+/* No comment provided by engineer. */
+"delete" = "löschen";
+
+/* nav title */
+"details" = "Details";
+
+/* No comment provided by engineer. */
+"Director: %@" = "Director: %@";
+
+/* No comment provided by engineer. */
+"disconnect" = "Abmelden";
+
+/* No comment provided by engineer. */
+"Do you want to continue where you stopped last time ?" = "Möchten Sie die Wiedergabe fortsetzen, wo Sie sie beendet haben ?";
+
+/* No comment provided by engineer. */
+"download queue" = "Download Warteschlange";
+
+/* No comment provided by engineer. */
+"Duration: %d minutes" = "Dauer: %d Minuten";
+
+/* No comment provided by engineer. */
+"Easy & fast you are able to set a reminder for your favorite television show and never miss it again!" = "Damit Sie Ihr Lieblings TV-Programm nie wieder verpassen, können Sie sich hier einfach und schnell eine Erinnerung einrichten.";
+
+/* No comment provided by engineer. */
+"Edit" = "Bearbeiten";
+
+/* No comment provided by engineer. */
+"edit" = "Bearbeiten";
+
+/* date format with weekday */
+"EEE" = "EEE";
+
+/* date format with weekday, day of month and month */
+"EEE d MMM" = "EEE d MMM";
+
+/* date format with weekday, day of month and month */
+"EEE MMM d" = "EEE MMM d";
+
+/* date format with weekday, day of month, month, and time */
+"EEE MMM d, H:mm" = "EEE MMM d, H:mm";
+
+/* No comment provided by engineer. */
+"Enable wireless connection on your phone to use the Mobile Services" = "Aktivieren Sie die WLAN-Verbindung auf Ihrem Telefon, um den mobilen Service nutzen zu können";
+
+/* No comment provided by engineer. */
+"enter a pairing code" = "Geben Sie einen Verbindungscode ein";
+
+/* No comment provided by engineer. */
+"Enter your keyword and the results will be divided in clear categories" = "Alle Suchergebnisse werden in übersichtliche Kategorien unterteilt.";
+
+/* No comment provided by engineer. */
+"episode: %d" = "Episode: %d";
+
+/* catchup details */
+"Episode: S%@E%d" = "Episode: S%1$@E%2$d";
+
+/* No comment provided by engineer. */
+"error" = "Error";
+
+/* No comment provided by engineer. */
+"Facebook sharing available from iOS 6.0. Upgrade your firmware." = "Die Teilenfunktion via Facebook wird ab Version iOS 6.0 unterstützt und benötigt eine Aktualisierung der Firmware.";
+
+/* No comment provided by engineer. */
+"Failed to contact STB" = "Kontaktaufnahme mit STB fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Failed to delete recording for program '%@'" = "Fehler bei Aufnahme des Programms '%@'";
+
+/* No comment provided by engineer. */
+"Failed to initialize socket" = "Initialisierung des Sockets fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Failed to pause download for movie: '%@'" = "Pause von Filmdownload '%@' fehlgeschlagen:";
+
+/* No comment provided by engineer. */
+"Failed to remove movie: '%@'" = "Entfernen des Films '%@' fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Failed to resume download for movie: '%@'" = "Download fortsetzen für Film '%@' fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Failed to send the message." = "Senden der Nachricht fehlgeschlagen.";
+
+/* No comment provided by engineer. */
+"Failed to set reminder in calendar." = "Erinnerung im Kalender setzen fehlgeschlagen.";
+
+/* No comment provided by engineer. */
+"Failed to start download for movie: '%@'" = "Start des Downloads von Film '%@' fehlgeschlagen";
+
+/* nav bar's title */
+"favorite" = "Favoriten";
+
+/* No comment provided by engineer. */
+"favorite channels" = "Favorisierte Kanäle";
+
+/* No comment provided by engineer. */
+"favorite TV Channels" = "Favorisierte TV Kanäle";
+
+/* No comment provided by engineer. */
+"favorites" = "Favoriten";
+
+/* No comment provided by engineer. */
+"featured" = "featured";
+
+/* No comment provided by engineer. */
+"Free" = "Gratis";
+
+/* No comment provided by engineer. */
+"From €%1.2f" = "ab €%1.2f";
+
+/* No comment provided by engineer. */
+"genre: %@" = "Genre: %@";
+
+/* catchup */
+"genres" = "Genres";
+
+/* No comment provided by engineer. */
+"Gerade schaue ich %@ bei meinFernsehen. Filme und TV Sendungen genieße ich so einfach wie nie zuvor." = "Gerade schaue ich %@ bei meinFernsehen. Filme und TV Sendungen genieße ich so einfach wie nie zuvor.";
+
+/* time format for recording cell */
+"H:mm" = "H:mm";
+
+/* No comment provided by engineer. */
+"Hi, schau' mit mir bei meinFernsehen %@ an" = "Hi, schau' mit mir bei meinFernsehen %@ an";
+
+/* No comment provided by engineer. */
+"Hi, schau' mit mir bei meinFernsehen %@ an.\nViele Grüße" = "Hi, schau' mit mir bei meinFernsehen %@ an.\nViele Grüße";
+
+/* No comment provided by engineer. */
+"Hi, schau' mit mir bei meinFernsehen von %@ bis %@ %@ auf %@ an" = "Hi, schau' mit mir bei meinFernsehen von %1$@ bis %2$@ %3$@ auf %4$@ an";
+
+/* No comment provided by engineer. */
+"Hi, schau' mit mir bei meinFernsehen von %@ bis %@ %@ auf %@ an.\nViele Grüße" = "Hi, schau' mit mir bei meinFernsehen von %1$@ bis %2$@ %3$@ auf %4$@ an.\nViele Grüße";
+
+/* No comment provided by engineer. */
+"highlights of replay TV" = "Highlights von replay TV";
+
+/* No comment provided by engineer. */
+"history" = "Historie";
+
+/* No comment provided by engineer. */
+"home" = "Home";
+
+/* No comment provided by engineer. */
+"I can't do that because the STB is in standby mode. Wake it ?" = "Diese Funktion steht im Standbymodus der Set-Top-Box nicht zur Verfügung. Möchten Sie die Set-Top-Box aufwecken?";
+
+/* No comment provided by engineer. */
+"I'm now using my %@ to control remotely my TV services. Info www.stream-group.nl/products" = "Um meinen TV service zu steueren, nutzte ich zur Zeit %@. Info www.stream-group.nl/products";
+
+/* No comment provided by engineer. */
+"Improper message" = "Fehlerhafte Nachricht";
+
+/* No comment provided by engineer. */
+"Incorrect code entered" = "Falschen Code eingegeben";
+
+/* No comment provided by engineer. */
+"Incorrect email" = "E-Mail-Adresse falsch";
+
+/* No comment provided by engineer. */
+"Incorrect password" = "Passwort falsch";
+
+/* No comment provided by engineer. */
+"info" = "Info";
+
+/* No comment provided by engineer. */
+"is currently not available for rental on iOS" = "Film abspielen nicht möglich";
+
+/* No comment provided by engineer. */
+"is not available on your current connection" = "ist mit Ihrer aktuellen Verbindung nicht möglich";
+
+/* No comment provided by engineer. */
+"is not available on your current device" = "ist mit Ihrem aktuellen Gerät nicht möglich";
+
+/* No comment provided by engineer. */
+"is not currently available" = "ist derzeit nicht verfügbar";
+
+/* No comment provided by engineer. */
+"is not part of your offer" = "ist nicht Bestandteil Ihres ´Angebotes";
+
+/* No comment provided by engineer. */
+"Language: %@" = "Sprache: %@";
+
+/* No comment provided by engineer. */
+"Legal information" = "Legal information";
+
+/* No comment provided by engineer. */
+"listen" = "hören";
+
+/* nav bar's title */
+"live" = "TV Programm (EPG)";
+
+/* No comment provided by engineer. */
+"live tv" = "Live TV";
+
+/* No comment provided by engineer. */
+"loc-key" = "loc-key";
+
+/* No comment provided by engineer. */
+"Location error" = "Standortfehler";
+
+/* No comment provided by engineer. */
+"Location services need to be turned on in order to enable albums browsing" = "Um Alben durchsuchen zu können, muss der Ortungsdienst aktiviert werden";
+
+/* No comment provided by engineer. */
+"Logged in as %@." = "Angemeldet als %@.";
+
+/* date format for recording cell with duration */
+"M/d · H:mm" = "M/d · H:mm";
+
+/* nav bar's title */
+"messages" = "Nachrichten";
+
+/* No comment provided by engineer. */
+"Minimum age: %i" = "Minimum age: %i";
+
+/* No comment provided by engineer. */
+"mins" = "Min";
+
+/* date format with month, day of month */
+"MMM d" = "MMM d";
+
+/* No comment provided by engineer. */
+"my music" = "Meine Musik";
+
+/* No comment provided by engineer. */
+"my photos" = "Meine Fotos";
+
+/* No comment provided by engineer. */
+"my recordings" = "Meine Aufnahmen";
+
+/* No comment provided by engineer. */
+"new recordings" = "Neue Aufnahmen";
+
+/* No comment provided by engineer. */
+"New version available" = "Neue Version verfügbar";
+
+/* No comment provided by engineer. */
+"newest movies" = "Neueste Filme";
+
+/* No comment provided by engineer. */
+"newest shows" = "Neueste Shows";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"no %@ channels available" = "Keine %@ Kanäle verfügbar";
+
+/* No comment provided by engineer. */
+"No boxes found available to watch on" = "Es konnte keine Set-Top-Box gefunden werden";
+
+/* No comment provided by engineer. */
+"No boxes found in local network, or scanning has not finished yet. Please try again later." = "Es konnte keine Set-Top-Box im lokalen Netzwerk gefunden werden. Bitte versuchen Sie es später erneut.";
+
+/* No comment provided by engineer. */
+"no camera detected" = "Keine Kamera verfügbar";
+
+/* No comment provided by engineer. */
+"no movies available" = "Keine Filme verfügbar";
+
+/* No comment provided by engineer. */
+"no photos available" = "Keine Fotos verfügbar";
+
+/* No comment provided by engineer. */
+"No program information available" = "Keine Programminformationen verfügbar";
+
+/* No comment provided by engineer. */
+"no recordings available" = "Keine Aufnahmen verfügbar";
+
+/* No comment provided by engineer. */
+"no recordings planned" = "Keine geplanten Aufnahmen";
+
+/* No comment provided by engineer. */
+"no response from STB" = "Die Set-Top-Box reagiert nicht";
+
+/* No comment provided by engineer. */
+"no results for %@" = "Keine Ergebnisse für %@";
+
+/* No comment provided by engineer. */
+"no songs available" = "Keine Lieder verfügbar";
+
+/* No comment provided by engineer. */
+"no unwatched movies" = "Kein ungesehener Filmn verfügbar";
+
+/* No comment provided by engineer. */
+"not watched" = "Nicht gesehen";
+
+/* No comment provided by engineer. */
+"Now" = "Jetzt";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Ongoing recording" = "Laufende Aufnahme";
+
+/* pairer nav bar title */
+"Pairing" = "Verbinden";
+
+/* No comment provided by engineer. */
+"Pairing..." = "Verbinden...";
+
+/* No comment provided by engineer. */
+"paused" = "Pausiert";
+
+/* No comment provided by engineer. */
+"Phone is not paired with a TV decoder" = "Das Telefon wurde mit keiner Set-Top-Box verbunden";
+
+/* No comment provided by engineer. */
+"planned" = "Geplante Aufnahmen";
+
+/* No comment provided by engineer. */
+"planned recordings" = "Geplante Aufnahmen";
+
+/* No comment provided by engineer. */
+"Playback failed" = "Wiedergabe fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Please read legal information before watching movie" = "Please read legal information before watching movie";
+
+/* No comment provided by engineer. */
+"Please update your TV Decoder" = "Bitte führen bei Ihrer Set-Top-Box ein Update durch";
+
+/* No comment provided by engineer. */
+"Prime time" = "Primetime";
+
+/* No comment provided by engineer. */
+"Recommendations" = "Empfehlungen";
+
+/* No comment provided by engineer. */
+"record" = "Aufnehmen";
+
+/* No comment provided by engineer. */
+"recorder" = "Recorder";
+
+/* No comment provided by engineer. */
+"Recording not deleted" = "Die Aufnahme wurde nicht gelöscht";
+
+/* No comment provided by engineer. */
+"recording not found" = "Die Aufnahme konnte nicht gefunden werden";
+
+/* No comment provided by engineer. */
+"Recording not set" = "Die Aufnahme wurde nicht programmiert";
+
+/* nav bar's title */
+"recordings" = "Aufnahmen";
+
+/* No comment provided by engineer. */
+"remind" = "Erinnern";
+
+/* No comment provided by engineer. */
+"reminder" = "Erinnerung";
+
+/* No comment provided by engineer. */
+"Reminder in calendar set on %@" = "Die Erinnerung im Kalender wurde auf %@ gesetzt";
+
+/* nav bar's title */
+"reminders" = "Erinnerungen";
+
+/* No comment provided by engineer. */
+"remindwatch" = "remindwatch";
+
+/* nav bar's title */
+"remote" = "Steuerung";
+
+/* No comment provided by engineer. */
+"remove" = "entfernen";
+
+/* No comment provided by engineer. */
+"Rental Period: %i H" = "Rental Period: %i H";
+
+/* nav bar's title */
+"rentals" = "Geliehene Filme";
+
+/* nav bar's title */
+"replay" = "Replay";
+
+/* No comment provided by engineer. */
+"Replay recommendations" = "Replay Empfehlungen";
+
+/* No comment provided by engineer. */
+"restart" = "Restart";
+
+/* No comment provided by engineer. */
+"s" = "en";
+
+/* No comment provided by engineer. */
+"scheduled recording" = "Geplante Aufnahmen";
+
+/* nav bar's title */
+"search" = "Suchen";
+
+/* No comment provided by engineer. */
+"search for shows, movies & more" = "Nach TV Programm, Filmen und mehr suchen";
+
+/* No comment provided by engineer. */
+"select photo" = "Foto auswählen";
+
+/* No comment provided by engineer. */
+"Select reminder type" = "Erinnerungsort auswählen";
+
+/* No comment provided by engineer. */
+"select tv decoder" = "Set-Top-Box auswählen";
+
+/* No comment provided by engineer. */
+"Select TV decoder to control:" = "Welche Set-Top-Box möchten Sie bedienen?";
+
+/* No comment provided by engineer. */
+"self care" = "Häufig gestellte Fragen";
+
+/* No comment provided by engineer. */
+"Send by mail" = "Via E-Mail versenden";
+
+/* No comment provided by engineer. */
+"Send by Message" = "Via SMS versenden";
+
+/* catchup */
+"series" = "Serien";
+
+/* No comment provided by engineer. */
+"set" = "eingerichtet";
+
+/* No comment provided by engineer. */
+"set a reminder" = "Erinnerung eingerichtet";
+
+/* No comment provided by engineer. */
+"Setting recording failed" = "Einrichtungsversuch der Aufnahme fehlgeschlagen";
+
+/* dashboard */
+"settings" = "Info";
+
+/* No comment provided by engineer. */
+"share" = "Teilen";
+
+/* No comment provided by engineer. */
+"Share by Facebook" = "Auf Facebook teilen";
+
+/* No comment provided by engineer. */
+"Share by Twitter" = "Auf Twitter teilen";
+
+/* No comment provided by engineer. */
+"sign in" = "Anmelden";
+
+/* No comment provided by engineer. */
+"Solocoo" = "meinFernsehen";
+
+/* No comment provided by engineer. */
+"Standby" = "Standby";
+
+/* No comment provided by engineer. */
+"STB disconnected" = "Unterbrochene Verbindung der Set-Top-Box";
+
+/* No comment provided by engineer. */
+"STB stopped responding" = "Die Set-Top-Box reagiert nicht";
+
+/* No comment provided by engineer. */
+"stop" = "Stop";
+
+/* No comment provided by engineer. */
+"svod" = "S-VoD";
+
+/* No comment provided by engineer. */
+"The selected channel is not available on your current device" = "Dieser Kanal ist auf diesem Gerät nicht verfügbar.";
+
+/* No comment provided by engineer. */
+"The selected channel is not available via 3G. Please connect via a Wifi connection" = "Dieser Kanal kann über eine Mobilfunkverbindung nicht abgerufen werden. Nutzen Sie dafür bitte eine WiFi-Verbindung";
+
+/* No comment provided by engineer. */
+"The selected channel is not available via WiFi. Please connect via a 3G connection" = "Dieser Kanal kann über eine WiFi-Verbindung nicht abgerufen werden. Nutzen Sie dafür bitte eine Mobilfunkverbindung.";
+
+/* No comment provided by engineer. */
+"The selected channel will be visible again from %@" = "Dieser Kanal wird ab %@ wieder zu sehen sein";
+
+/* No comment provided by engineer. */
+"This content is only available in your home network" = "Sender nur im Heimnetzwerk verfügbar";
+
+/* No comment provided by engineer. */
+"This feature will be available soon" = "Diese Funktion wird in Kürze unterstützt werden";
+
+/* No comment provided by engineer. */
+"This recording" = "Diese Aufnahme";
+
+/* No comment provided by engineer. */
+"This recording may overlap an ongoing one. Priority to" = "Diese Aufnahme kann sich mit anderen Aufnahmen überschneiden. Prioriät auf";
+
+/* No comment provided by engineer. */
+"This recording overlaps with existing ones. Do you want to remove old ones?" = "Diese Aufnahme überschneidet sich mit bereits existierenden Aufnahmen. Möchten Sie ältere Aufnahmen löschen?";
+
+/* No comment provided by engineer. */
+"To watch live TV, please first setup your home network" = "To watch live TV, please first setup your home network";
+
+/* No comment provided by engineer. */
+"today" = "Heute";
+
+/* No comment provided by engineer. */
+"trailer" = "Vorschau";
+
+/* No comment provided by engineer. */
+"tv" = "TV";
+
+/* No comment provided by engineer. */
+"TV decoder has invalid TV card" = "Ungültige Smartcard in der Set-Top-Box gefunden";
+
+/* No comment provided by engineer. */
+"TV decoder is busy" = "Die Set-Top-Box ist beschäftigt";
+
+/* No comment provided by engineer. */
+"TV Decoder not found in network" = "Im Netzwerk konnte keine Set-Top-Box gefunden werden";
+
+/* nav bar's title */
+"TV guide" = "TV Programm";
+
+/* No comment provided by engineer. */
+"TV recommendations" = "TV Empfehlungen";
+
+/* No comment provided by engineer. */
+"Twitter sharing available from iOS 5.0. Upgrade your firmware." = "Die Funktion \"auf Twitter teilen\" wird ab der Softwareversion iOS 5.0. unterstützt.";
+
+/* No comment provided by engineer. */
+"Unable to change the slideshow interval" = "Die Slideshow-Einstellungen konnten nicht geändert werden";
+
+/* No comment provided by engineer. */
+"Unable to list albums (error %d)" = "Anzeige der Alben nicht möglich (error %d)";
+
+/* No comment provided by engineer. */
+"Unable to play selected photo" = "Das ausgewählte Foto kann nicht angezeigt werden";
+
+/* No comment provided by engineer. */
+"Unable to play selected song" = "Der ausgewählte Song kann nicht wiedergegeben werden";
+
+/* No comment provided by engineer. */
+"Unable to start the playlist" = "Die ausgewählte Playlist kann nicht wiedergegeben werden";
+
+/* No comment provided by engineer. */
+"Unable to start the slideshow" = "Die Slideshow kann nicht gestartet werden";
+
+/* No comment provided by engineer. */
+"Unable to stop the slideshow" = "Die Slideshow kann nicht angehalten werden";
+
+/* No comment provided by engineer. */
+"Unknown user" = "Unbekannter Nutzer";
+
+/* No comment provided by engineer. */
+"Unreachable Decoder. New recording not scheduled" = "Programmierung der Aufnahme fehlgeschlagen. Keine Set-Top-Box gefunden";
+
+/* No comment provided by engineer. */
+"Video on demand" = "Video on demand";
+
+/* nav bar's title */
+"videos" = "Video's";
+
+/* No comment provided by engineer. */
+"visit the %1$@ website" = "Um Filme auf mobilen Endgeräten anzusehen, müssen Sie den Film zunächst über %1$@ oder Ihre Set Top Box leihen bzw. kaufen.";
+
+/* nav bar's title */
+"vod" = "Video Shop";
+
+/* No comment provided by engineer. */
+"VOD %2$@ - “%1$@”" = "VOD %2$@ - “%1$@”";
+
+/* No comment provided by engineer. */
+"VOD recommendations" = "Film Empfehlungen";
+
+/* No comment provided by engineer. */
+"watch" = "Wiedergabe";
+
+/* No comment provided by engineer. */
+"Watch %1$@ on %2$@ on %3$@ replay" = "Schaue %1$@ um %2$@ auf %3$@ replay";
+
+/* No comment provided by engineer. */
+"watch on TV" = "TV Wiedergabe";
+
+/* No comment provided by engineer. */
+"WiFi communication failed" = "WiFi-Verbinding fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Would you like to update the app?" = "Möchten Sie die App aktualisieren?";
+
+/* No comment provided by engineer. */
+"Wrong PIN code" = "Falscher PIN code";
+
+/* No comment provided by engineer. */
+"Year: %d" = "Jahr: %d";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Gestern";
+
+/* No comment provided by engineer. */
+"Your %1$@ needs to be connected via WiFi to the same access point as the %2$@ replay decoder." = "Ihr %1$@ muss mit dem gleichen Netzwerk wie Ihre %2$@ Set-Top-Box verbunden werden.";
+
+/* No comment provided by engineer. */
+"Your %1$@ needs to be paired with an %2$@ replay decoder to use this feature." = "Um diese Funktion nutzen zu können, müssen Sie zunächst Ihr %1$@ mit Ihrer Set-Top-Box %2$@ verbinden.";
+

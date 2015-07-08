@@ -1,0 +1,15 @@
+﻿/* Class = "IBUILabel"; text = "watch"; ObjectID = "16"; */
+"16.text" = "Uhr";
+
+/* Class = "IBUILabel"; text = "share"; ObjectID = "17"; */
+"17.text" = "teilen";
+
+/* Class = "IBUIButton"; normalTitle = "more"; ObjectID = "51"; */
+"51.normalTitle" = "mehr";
+
+/* Class = "IBUIButton"; normalTitle = "less"; ObjectID = "52"; */
+"52.normalTitle" = "weniger";
+
+/* Class = "IBUILabel"; text = "more episodes"; ObjectID = "78"; */
+"78.text" = "Weitere Sendungen";
+

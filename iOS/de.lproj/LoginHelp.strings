@@ -1,0 +1,18 @@
+﻿/* Class = "IBUILabel"; text = "Mobistar Mobile Services"; ObjectID = "6"; */
+"6.text" = "Mobile Dienste";
+
+/* Class = "IBUILabel"; text = "Which service do I select?"; ObjectID = "7"; */
+"7.text" = "Welche Dienste können genutzt werden";
+
+/* Class = "IBUILabel"; text = "How to generate a code?"; ObjectID = "8"; */
+"8.text" = "Wie kann ich einen PIN festlegen?";
+
+/* Class = "IBUITextView"; text = "Connect with a mobile service code if you have Mobile Digital TV decoder with an internet connection. If you don't have a TV decoder yet choose your service area."; ObjectID = "9"; */
+"9.text" = "Sie erhalten Zugang zu mobilen Diensten durch die Verbindung mit der Settop-Box durch PIN-Eingabe. Falls Sie keine Settop-Box besitzen, gehen sie bitte zum Ihrem persönlichen Service Center";
+
+/* Class = "IBUITextView"; text = "In the Options menu of your TV Decoder select Remote services and generate a code. Fill in the 4-digit code on your %@."; ObjectID = "10"; */
+"10.text" = "Im Options-Menü Ihrer Settop-Box wählen Sie bitte Ferndienste und legen Sie eine 4-stelligen PIN auf Ihrem %@ fest.";
+
+/* Class = "IBUIButton"; normalTitle = "Return"; ObjectID = "11"; */
+"11.normalTitle" = "Zurück";
+

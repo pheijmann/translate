@@ -1,0 +1,6 @@
+﻿/* Class = "UITextField"; placeholder = "search for shows, movies & more"; ObjectID = "8"; */
+"8.placeholder" = "Suche";
+
+/* Class = "UIBarButtonItem"; title = "back"; ObjectID = "31"; */
+"31.title" = "Zurück";
+

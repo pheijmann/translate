@@ -1,0 +1,30 @@
+﻿/* Class = "IBUILabel"; text = "watch"; ObjectID = "72"; */
+"72.text" = "Wiedergabe";
+
+/* Class = "IBUILabel"; text = "share"; ObjectID = "73"; */
+"73.text" = "Teilen";
+
+/* Class = "IBUILabel"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "97"; */
+"97.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUILabel"; text = "more episodes:"; ObjectID = "102"; */
+"102.text" = "Weitere Sendungen";
+
+/* Class = "IBUIButton"; normalTitle = "more"; ObjectID = "132"; */
+"132.normalTitle" = "mehr";
+
+/* Class = "IBUIButton"; normalTitle = "less"; ObjectID = "133"; */
+"133.normalTitle" = "schließen";
+
+/* Class = "IBUILabel"; text = "record"; ObjectID = "160"; */
+"160.text" = "Aufnehmen";
+
+/* Class = "IBUILabel"; text = "remove"; ObjectID = "Bf6-a2-n0W"; */
+"Bf6-a2-n0W.text" = "Verwerfen";
+
+/* Class = "IBUILabel"; text = "watch on TV"; ObjectID = "Mac-bw-0Pq"; */
+"Mac-bw-0Pq.text" = "TV Wiedergabe";
+
+/* Class = "IBUILabel"; text = "restart"; ObjectID = "aJR-kY-rrW"; */
+"aJR-kY-rrW.text" = "Restart";
+

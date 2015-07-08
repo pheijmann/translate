@@ -1,0 +1,6 @@
+﻿/* Class = "IBUINavigationItem"; title = "Recordings"; ObjectID = "7"; */
+"7.title" = "Aufnahmen";
+
+/* Class = "IBUILabel"; text = "No recordings available"; ObjectID = "39"; */
+"39.text" = "keine Aufnahmen verfügbar";
+

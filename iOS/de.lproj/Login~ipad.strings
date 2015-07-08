@@ -1,0 +1,27 @@
+﻿/* Class = "IBUILabel"; text = "PIN incorrect"; ObjectID = "97"; */
+"97.text" = "PIN nicht korrekt";
+
+/* Class = "IBUITextField"; text = " "; ObjectID = "98"; */
+"98.text" = " ";
+
+/* Class = "IBUITextField"; text = " "; ObjectID = "99"; */
+"99.text" = " ";
+
+/* Class = "IBUILabel"; text = "enter the pairing code "; ObjectID = "100"; */
+"100.text" = "Bitte PIN eingeben";
+
+/* Class = "IBUITextField"; text = " "; ObjectID = "101"; */
+"101.text" = " ";
+
+/* Class = "IBUITextField"; text = " "; ObjectID = "102"; */
+"102.text" = " ";
+
+/* Class = "IBUILabel"; text = "Menu > Settings > Device management"; ObjectID = "105"; */
+"105.text" = "Menü > Einstellungen > Mobile Dienste > PIN festlegen";
+
+/* Class = "IBUITextView"; text = "To pair with your Online TV decoder, you generate a pairing code on the TV decoder via:"; ObjectID = "106"; */
+"106.text" = "Für die Verknüpfung mit der Settop-Box müssen Sie einen PIN wie beschrieben festlegen:";
+
+/* Class = "IBUIButton"; normalTitle = "login with username and password"; ObjectID = "109"; */
+"109.normalTitle" = "Einloggen mit Benutzername und Passwort";
+

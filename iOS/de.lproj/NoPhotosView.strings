@@ -1,0 +1,6 @@
+﻿/* Class = "IBUILabel"; text = "No Photos available."; ObjectID = "4"; */
+"4.text" = "keine Fotos verfügbar";
+
+/* Class = "IBUILabel"; text = "You can take photos with your phone or import photos via iTunes."; ObjectID = "5"; */
+"5.text" = "Sie können Fotos mit Ihrem iPhone machen oder über iTunes Fotos importieren";
+

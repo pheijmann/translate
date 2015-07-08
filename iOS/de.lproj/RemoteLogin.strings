@@ -1,0 +1,12 @@
+﻿/* Class = "IBUITextField"; placeholder = "Code given by TV decoder"; ObjectID = "23"; */
+"23.placeholder" = "PIN wird von der Settop-Box vergeben";
+
+/* Class = "IBUILabel"; text = "Mobistar TV not connected"; ObjectID = "38"; */
+"38.text" = "Settop-Box ist nicht verbunden";
+
+/* Class = "IBUITextView"; text = "Go to Options via Menu on your TV decoder. Fill in the generated code on your %@."; ObjectID = "45"; */
+"45.text" = "Go to Options via Menu on your TV decoder. Fill in the generated code on your %@.";
+
+/* Class = "IBUILabel"; text = "Connect with a Mobile Service code:"; ObjectID = "47"; */
+"47.text" = "Verbindung mit PIN für mobile Dienste:";
+

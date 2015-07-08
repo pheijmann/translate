@@ -1,0 +1,6 @@
+﻿/* Class = "IBUILabel"; text = "at the moment there are no radio channels available"; ObjectID = "19"; */
+"19.text" = "Im Moment sind keine Radiosender verfügbar";
+
+/* Class = "IBUILabel"; text = "no favorite radio channels available"; ObjectID = "100"; */
+"100.text" = "keine Favoriten bei Radiosender festgelegt";
+
