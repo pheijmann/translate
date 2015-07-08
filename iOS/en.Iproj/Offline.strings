@@ -1,0 +1,6 @@
+
+/* Class = "IBUILabel"; text = "no internet connection available"; ObjectID = "3"; */
+"3.text" = "no internet connection available";
+
+/* Class = "IBUILabel"; text = "please enable your WiFi or cellular data connection."; ObjectID = "4"; */
+"4.text" = "please enable your WiFi or cellular data connection.";

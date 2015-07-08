@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "watch"; ObjectID = "72"; */
+"72.text" = "watch";
+
+/* Class = "UILabel"; text = "favorite"; ObjectID = "73"; */
+"73.text" = "favorite";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "97"; */
+"97.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "more episodes:"; ObjectID = "102"; */
+"102.text" = "more episodes:";
+
+/* Class = "UIButton"; normalTitle = "more"; ObjectID = "132"; */
+"132.normalTitle" = "more";
+
+/* Class = "UIButton"; normalTitle = "less"; ObjectID = "133"; */
+"133.normalTitle" = "less";
+
+/* Class = "UILabel"; text = "record"; ObjectID = "160"; */
+"160.text" = "record";
+
+/* Class = "UILabel"; text = "remove"; ObjectID = "Bf6-a2-n0W"; */
+"Bf6-a2-n0W.text" = "remove";
+
+/* Class = "UILabel"; text = "watch on TV"; ObjectID = "Mac-bw-0Pq"; */
+"Mac-bw-0Pq.text" = "watch on TV";
+
+/* Class = "UILabel"; text = "restart"; ObjectID = "aJR-kY-rrW"; */
+"aJR-kY-rrW.text" = "restart";

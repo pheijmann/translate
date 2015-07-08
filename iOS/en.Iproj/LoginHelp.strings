@@ -1,0 +1,18 @@
+
+/* Class = "IBUILabel"; text = "Mobistar Mobile Services"; ObjectID = "6"; */
+"6.text" = "Mobistar Mobile Services";
+
+/* Class = "IBUILabel"; text = "Which service do I select?"; ObjectID = "7"; */
+"7.text" = "Which service do I select?";
+
+/* Class = "IBUILabel"; text = "How to generate a code?"; ObjectID = "8"; */
+"8.text" = "How to generate a code?";
+
+/* Class = "IBUITextView"; text = "Connect with a mobile service code if you have Mobile Digital TV decoder with an internet connection. If you don't have a TV decoder yet choose your service area."; ObjectID = "9"; */
+"9.text" = "Connect with a mobile service code if you have Mobile Digital TV decoder with an internet connection. If you don't have a TV decoder yet choose your service area.";
+
+/* Class = "IBUITextView"; text = "In the Options menu of your TV Decoder select Remote services and generate a code. Fill in the 4-digit code on your %@."; ObjectID = "10"; */
+"10.text" = "In the Options menu of your TV Decoder select Remote services and generate a code. Fill in the 4-digit code on your %@.";
+
+/* Class = "IBUIButton"; normalTitle = "Return"; ObjectID = "11"; */
+"11.normalTitle" = "Return";

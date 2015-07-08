@@ -1,0 +1,9 @@
+
+/* Class = "IBUITextView"; text = "Your Facebook message"; ObjectID = "4"; */
+"4.text" = "Your Facebook message";
+
+/* Class = "IBUILabel"; text = "What's on your mind?"; ObjectID = "5"; */
+"5.text" = "What's on your mind?";
+
+/* Class = "IBUIButton"; normalTitle = "Checking"; ObjectID = "9"; */
+"9.normalTitle" = "Checking";

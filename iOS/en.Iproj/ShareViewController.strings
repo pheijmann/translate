@@ -1,0 +1,12 @@
+
+/* Class = "IBUITextField"; placeholder = "I invite you to watch"; ObjectID = "4"; */
+"4.placeholder" = "I invite you to watch";
+
+/* Class = "IBUITextView"; text = "No contacts yet."; ObjectID = "27"; */
+"27.text" = "No contacts yet.";
+
+/* Class = "IBUIButton"; normalTitle = "share"; ObjectID = "30"; */
+"30.normalTitle" = "share";
+
+/* Class = "IBUIButton"; normalTitle = "select all"; ObjectID = "40"; */
+"40.normalTitle" = "select all";

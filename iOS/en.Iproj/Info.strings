@@ -1,0 +1,12 @@
+
+/* Class = "UITextView"; text = "\n"; ObjectID = "5"; */
+"5.text" = "\n";
+
+/* Class = "UILabel"; text = "TVGuide engine powered by: "; ObjectID = "30"; */
+"30.text" = "TVGuide engine powered by: ";
+
+/* Class = "UILabel"; text = "1.5"; ObjectID = "35"; */
+"35.text" = "1.5";
+
+/* Class = "UITextView"; text = "3rd party libraries:\n\nCocoa JSON Parser Copyright (C) 2009 Stig Brautaset. All rights reserved. (BSD Licence)\n\nTSLibraryImport Copyright (c) 2010 tapsquare, llc. (MIT License)\n\nASIHTTPRequest Copyright (c) 2007-2011, All-Seeing Interactive. All rights reserved. (BSD License)"; ObjectID = "43"; */
+"43.text" = "3rd party libraries:\n\nCocoa JSON Parser Copyright (C) 2009 Stig Brautaset. All rights reserved. (BSD Licence)\n\nTSLibraryImport Copyright (c) 2010 tapsquare, llc. (MIT License)\n\nASIHTTPRequest Copyright (c) 2007-2011, All-Seeing Interactive. All rights reserved. (BSD License)";

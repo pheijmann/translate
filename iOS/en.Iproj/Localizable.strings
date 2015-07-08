@@ -1,0 +1,915 @@
+/* No comment provided by engineer. */
+"%.0f hours left for viewing" = "%.0f hours left for viewing";
+
+/* No comment provided by engineer. */
+"%.0f minutes left for viewing" = "%.0f minutes left for viewing";
+
+/* No comment provided by engineer. */
+"%1$@ replay Decoder not found." = "%1$@ replay Decoder not found.";
+
+/* No comment provided by engineer. */
+"%1$@ replay not connected" = "%1$@ replay not connected";
+
+/* No comment provided by engineer. */
+"%1$@ starts now on %2$@" = "%1$@ starts now on %2$@";
+
+/* No comment provided by engineer. */
+"%1$@ unlimited box office" = "%1$@ unlimited box office";
+
+/* No comment provided by engineer. */
+"%2$@ - “%1$@”" = "%2$@ - “%1$@”";
+
+/* reminders button time range */
+"%@ (%d minutes)" = "%1$@ (%2$d minutes)";
+
+/* No comment provided by engineer. */
+"%d days left" = "%d days left";
+
+/* serie description */
+"%d episode" = "%d episode";
+
+/* catchup cell */
+"%d episode%@" = "%1$d episode%2$@";
+
+/* serie description */
+"%d episodes" = "%d episodes";
+
+/* episode details */
+"%d minute" = "%d minute";
+
+/* episode details */
+"%d minutes" = "%d minutes";
+
+/* No comment provided by engineer. */
+"%d results" = "%d results";
+
+/* No comment provided by engineer. */
+"%d second" = "%d second";
+
+/* No comment provided by engineer. */
+"%d seconds" = "%d seconds";
+
+/* No comment provided by engineer. */
+"0 - OK" = "0 - OK";
+
+/* No comment provided by engineer. */
+"0 minutes" = "0 minutes";
+
+/* No comment provided by engineer. */
+"1 - Duration limit exceeded" = "1 - Duration limit exceeded";
+
+/* No comment provided by engineer. */
+"1 minute" = "1 minute";
+
+/* No comment provided by engineer. */
+"10 minutes" = "10 minutes";
+
+/* No comment provided by engineer. */
+"15 minutes" = "15 minutes";
+
+/* No comment provided by engineer. */
+"2 - Overlap limit exceeded" = "2 - Overlap limit exceeded";
+
+/* No comment provided by engineer. */
+"2 minutes" = "2 minutes";
+
+/* No comment provided by engineer. */
+"3 - Forbidden - station is not recordable" = "3 - Forbidden - station is not recordable";
+
+/* No comment provided by engineer. */
+"3 minutes" = "3 minutes";
+
+/* No comment provided by engineer. */
+"4 - Data already modified [npvrgen]" = "4 - Data already modified [npvrgen]";
+
+/* No comment provided by engineer. */
+"4 minutes" = "4 minutes";
+
+/* No comment provided by engineer. */
+"5 - Not found" = "5 - Not found";
+
+/* No comment provided by engineer. */
+"5 minutes" = "5 minutes";
+
+/* No comment provided by engineer. */
+"6 - Offers not found or not configured" = "6 - Offers not found or not configured";
+
+/* No comment provided by engineer. */
+"7 minutes" = "7 minutes";
+
+/* No comment provided by engineer. */
+"A-Z" = "A-Z";
+
+/* nav bar's title */
+"about" = "about";
+
+/* No comment provided by engineer. */
+"Access to the albums has been denied for this application" = "Access to the albums has been denied for this application";
+
+/* No comment provided by engineer. */
+"account" = "account";
+
+/* No comment provided by engineer. */
+"all" = "all";
+
+/* No comment provided by engineer. */
+"all channels" = "all channels";
+
+/* replay */
+"all genres" = "all genres";
+
+/* No comment provided by engineer. */
+"all recordings" = "all recordings";
+
+/* No comment provided by engineer. */
+"Also available on %2$@ at %1$@" = "Also available on %2$@ at %1$@";
+
+/* No comment provided by engineer. */
+"app tutorial" = "app tutorial";
+
+/* No comment provided by engineer. */
+"available" = "available";
+
+/* No comment provided by engineer. */
+"Back" = "Back";
+
+/* No comment provided by engineer. */
+"Before you can playback recordings on this device you need to upgrade to the %@ product." = "Before you can playback recordings on this device you need to upgrade to the %@ product.";
+
+/* No comment provided by engineer. */
+"Before you can replay programs on this device you need to upgrade to the %@ product." = "Before you can replay programs on this device you need to upgrade to the %@ product.";
+
+/* No comment provided by engineer. */
+"bookmark" = "bookmark";
+
+/* nav bar's title */
+"bookmarks" = "bookmarks";
+
+/* No comment provided by engineer. */
+"Buzz" = "Buzz";
+
+/* No comment provided by engineer. */
+"By %@" = "By %@";
+
+/* No comment provided by engineer. */
+"calendar" = "calendar";
+
+/* No comment provided by engineer. */
+"Can't record in the past" = "Can't record in the past";
+
+/* No comment provided by engineer. */
+"Can't set reminder in the past" = "Can't set reminder in the past";
+
+/* No comment provided by engineer. */
+"cancel" = "cancel";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Cannot get the message" = "Cannot get the message";
+
+/* No comment provided by engineer. */
+"Casting of this program is not supported." = "Casting of this program is not supported.";
+
+/* No comment provided by engineer. */
+"Casting to <<%@>>" = "Casting to <<%@>>";
+
+/* nav bar's title */
+"catchup" = "catchup";
+
+/* No comment provided by engineer. */
+"Catchup, view programs on the go" = "Catchup, view programs on the go";
+
+/* No comment provided by engineer. */
+"channel" = "channel";
+
+/* No comment provided by engineer. */
+"Channel can only be played in the %@ network." = "Channel can only be played in the %@ network.";
+
+/* No comment provided by engineer. */
+"Channel not found" = "Channel not found";
+
+/* catchup */
+"channels" = "channels";
+
+/* nav title */
+"choose your partner" = "choose your partner";
+
+/* No comment provided by engineer. */
+"close" = "close";
+
+/* No comment provided by engineer. */
+"Connect now" = "Connect now";
+
+/* No comment provided by engineer. */
+"Connect to" = "Connect to";
+
+/* No comment provided by engineer. */
+"Content that is being casted is not available on this device" = "Content that is being casted is not available on this device";
+
+/* nav bar's title */
+"continue watching" = "continue watching";
+
+/* No comment provided by engineer. */
+"controls" = "controls";
+
+/* No comment provided by engineer. */
+"currently selected" = "currently selected";
+
+/* nav bar's title */
+"dashboard" = "dashboard";
+
+/* catchup */
+"days" = "days";
+
+/* date in details */
+"dd.MM.YYYY" = "dd.MM.YYYY";
+
+/* No comment provided by engineer. */
+"delete" = "delete";
+
+/* nav title */
+"details" = "details";
+
+/* No comment provided by engineer. */
+"Disconnect" = "Disconnect";
+
+/* No comment provided by engineer. */
+"disconnect" = "disconnect";
+
+/* No comment provided by engineer. */
+"Do you want more information about the available products, please call %@." = "Do you want more information about the available products, please call %@.";
+
+/* No comment provided by engineer. */
+"Do you want to activate the %@, please call %@." = "Do you want to activate the %1$@, please call %2$@.";
+
+/* No comment provided by engineer. */
+"Do you want to connect to %@?" = "Do you want to connect to %@?";
+
+/* No comment provided by engineer. */
+"Do you want to continue where you stopped last time ?" = "Do you want to continue where you stopped last time ?";
+
+/* No comment provided by engineer. */
+"Do you want to disconnect from %@?" = "Do you want to disconnect from %@?";
+
+/* No comment provided by engineer. */
+"download queue" = "download queue";
+
+/* No comment provided by engineer. */
+"Duration: %d minutes" = "Duration: %d minutes";
+
+/* No comment provided by engineer. */
+"Edit" = "Edit";
+
+/* No comment provided by engineer. */
+"edit" = "edit";
+
+/* date format with weekday */
+"EEE" = "EEE";
+
+/* Standard date format with weekday, day of month and month */
+"EEE d MMM" = "EEE d MMM";
+
+/* date format with weekday, day of month and month */
+"EEE MMM d" = "EEE MMM d";
+
+/* date format with weekday, day of month, month, and time */
+"EEE MMM d, H:mm" = "EEE MMM d, H:mm";
+
+/* No comment provided by engineer. */
+"Enable wireless connection on your phone to use the Mobile Services" = "Enable wireless connection on your phone to use the Mobile Services";
+
+/* No comment provided by engineer. */
+"Enjoy the best and latest movies, now available at Video On Demand from Videoland!" = "Enjoy the best and latest movies, now available at Video On Demand from Videoland!";
+
+/* No comment provided by engineer. */
+"enter a pairing code" = "enter a pairing code";
+
+/* No comment provided by engineer. */
+"Enter your keyword and the results will be divided in clear categories" = "Enter your keyword and the results will be divided in clear categories";
+
+/* No comment provided by engineer. */
+"episode: %d" = "episode: %d";
+
+/* episode details */
+"Episode: %d" = "Episode: %d";
+
+/* catchup details */
+"Episode: S%@E%d" = "Episode: S%1$@E%2$d";
+
+/* No comment provided by engineer. */
+"error" = "error";
+
+/* No comment provided by engineer. */
+"Facebook sharing available from iOS 6.0. Upgrade your firmware." = "Facebook sharing available from iOS 6.0. Upgrade your firmware.";
+
+/* No comment provided by engineer. */
+"Failed to contact STB" = "Failed to contact STB";
+
+/* No comment provided by engineer. */
+"Failed to delete recording for program '%@'" = "Failed to delete recording for program '%@'";
+
+/* No comment provided by engineer. */
+"Failed to initialize socket" = "Failed to initialize socket";
+
+/* No comment provided by engineer. */
+"Failed to pause download for movie: '%@'" = "Failed to pause download for movie: '%@'";
+
+/* No comment provided by engineer. */
+"Failed to remove movie: '%@'" = "Failed to remove movie: '%@'";
+
+/* No comment provided by engineer. */
+"Failed to resume download for movie: '%@'" = "Failed to resume download for movie: '%@'";
+
+/* No comment provided by engineer. */
+"Failed to send the message." = "Failed to send the message.";
+
+/* No comment provided by engineer. */
+"Failed to set reminder in calendar." = "Failed to set reminder in calendar.";
+
+/* No comment provided by engineer. */
+"Failed to start download for movie: '%@'" = "Failed to start download for movie: '%@'";
+
+/* nav bar's title */
+"favorite" = "favorite";
+
+/* No comment provided by engineer. */
+"favorite channels" = "favorite channels";
+
+/* No comment provided by engineer. */
+"favorite TV Channels" = "favorite TV Channels";
+
+/* No comment provided by engineer. */
+"favorites" = "favorites";
+
+/* No comment provided by engineer. */
+"featured" = "featured";
+
+/* nav bar's title */
+"Films & Series" = "Films & Series";
+
+/* No comment provided by engineer. */
+"For €%1.2f" = "For €%1.2f";
+
+/* No comment provided by engineer. */
+"Free" = "Free";
+
+/* No comment provided by engineer. */
+"From €%1.2f" = "From €%1.2f";
+
+/* No comment provided by engineer. */
+"genre: %@" = "genre: %@";
+
+/* No comment provided by engineer. */
+"Genre: %@" = "Genre: %@";
+
+/* catchup */
+"genres" = "genres";
+
+/* time format for recording cell */
+"H:mm" = "H:mm";
+
+/* No comment provided by engineer. */
+"highlights of replay TV" = "highlights of replay TV";
+
+/* No comment provided by engineer. */
+"history" = "history";
+
+/* No comment provided by engineer. */
+"Home" = "Home";
+
+/* No comment provided by engineer. */
+"home" = "home";
+
+/* No comment provided by engineer. */
+"I can't do that because the STB is in standby mode. Wake it ?" = "I can't do that because the STB is in standby mode. Wake it ?";
+
+/* No comment provided by engineer. */
+"I invite you to watch “%1$@” at %2$@ on %3$@.\n" = "I invite you to watch “%1$@” at %2$@ on %3$@.\n";
+
+/* No comment provided by engineer. */
+"I invite you to watch “%1$@” on %2$@ catchup.\n\nMore info about %2$@: %3$@" = "I invite you to watch “%1$@” on %2$@ catchup.\n\nMore info about %2$@: %3$@";
+
+/* No comment provided by engineer. */
+"I invite you to watch “%1$@” on %2$@ VOD.\n\nMore info about %2$@: %3$@" = "I invite you to watch “%1$@” on %2$@ VOD.\n\nMore info about %2$@: %3$@";
+
+/* No comment provided by engineer. */
+"Improper message" = "Improper message";
+
+/* No comment provided by engineer. */
+"Incorrect code entered" = "Incorrect code entered";
+
+/* No comment provided by engineer. */
+"info" = "info";
+
+/* No comment provided by engineer. */
+"is currently not available for rental on iOS" = "is currently not available for rental on iOS";
+
+/* No comment provided by engineer. */
+"is not available on your current connection" = "is not available on your current connection";
+
+/* No comment provided by engineer. */
+"is not available on your current device" = "is not available on your current device";
+
+/* No comment provided by engineer. */
+"is not currently available" = "is not currently available";
+
+/* No comment provided by engineer. */
+"is not currently available for casting." = "is not currently available for casting.";
+
+/* No comment provided by engineer. */
+"Language: %@" = "Language: %@";
+
+/* movie details */
+"less" = "less";
+
+/* No comment provided by engineer. */
+"listen" = "listen";
+
+/* nav bar's title */
+"live" = "live";
+
+/* No comment provided by engineer. */
+"live tv" = "live tv";
+
+/* No comment provided by engineer. */
+"loc-key" = "loc-key";
+
+/* No comment provided by engineer. */
+"Location services need to be turned on in order to enable albums browsing" = "Location services need to be turned on in order to enable albums browsing";
+
+/* No comment provided by engineer. */
+"Logged in as %@." = "Logged in as %@.";
+
+/* date format for recording cell with duration */
+"M/d · H:mm" = "M/d · H:mm";
+
+/* left menu section title */
+"Menu" = "Menu";
+
+/* nav bar's title */
+"messages" = "messages";
+
+/* No comment provided by engineer. */
+"mins" = "mins";
+
+/* date format with month, day of month */
+"MMM d" = "MMM d";
+
+/* movie details */
+"more" = "more";
+
+/* No comment provided by engineer. */
+"most recent" = "most recent";
+
+/* No comment provided by engineer. */
+"Movies" = "Movies";
+
+/* No comment provided by engineer. */
+"my music" = "my music";
+
+/* No comment provided by engineer. */
+"my photos" = "my photos";
+
+/* No comment provided by engineer. */
+"my recordings" = "my recordings";
+
+/* No comment provided by engineer. */
+"Never miss a episode of your favorite program with catchup! Watch your programs on the go!" = "Never miss a episode of your favorite program with catchup! Watch your programs on the go!";
+
+/* No comment provided by engineer. */
+"new recordings" = "new recordings";
+
+/* No comment provided by engineer. */
+"New version available" = "New version available";
+
+/* No comment provided by engineer. */
+"newest movies" = "newest movies";
+
+/* No comment provided by engineer. */
+"newest shows" = "newest shows";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"no %@ channels available" = "no %@ channels available";
+
+/* No comment provided by engineer. */
+"No boxes found available to watch on" = "No boxes found available to watch on";
+
+/* No comment provided by engineer. */
+"No boxes found in local network, or scanning has not finished yet. Please try again later." = "No boxes found in local network, or scanning has not finished yet. Please try again later.";
+
+/* No comment provided by engineer. */
+"no camera detected" = "no camera detected";
+
+/* No comment provided by engineer. */
+"no favorite TV channels available" = "no favorite TV channels available";
+
+/* No comment provided by engineer. */
+"no movies available" = "no movies available";
+
+/* No comment provided by engineer. */
+"no photos available" = "no photos available";
+
+/* No comment provided by engineer. */
+"No playback on this device" = "No playback on this device";
+
+/* No comment provided by engineer. */
+"No program information available" = "No program information available";
+
+/* No comment provided by engineer. */
+"no recordings available" = "no recordings available";
+
+/* No comment provided by engineer. */
+"no recordings planned" = "no recordings planned";
+
+/* No comment provided by engineer. */
+"No replay on this device" = "No replay on this device";
+
+/* No comment provided by engineer. */
+"no response from STB" = "no response from STB";
+
+/* No comment provided by engineer. */
+"No restart on this device" = "No restart on this device";
+
+/* No comment provided by engineer. */
+"no results for %@" = "no results for %@";
+
+/* No comment provided by engineer. */
+"no songs available" = "no songs available";
+
+/* No comment provided by engineer. */
+"no unwatched movies" = "no unwatched movies";
+
+/* No comment provided by engineer. */
+"not watched" = "not watched";
+
+/* No comment provided by engineer. */
+"Now" = "Now";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"onDemand" = "onDemand";
+
+/* No comment provided by engineer. */
+"Ongoing recording" = "Ongoing recording";
+
+/* pairer nav bar title */
+"Pairing" = "Pairing";
+
+/* No comment provided by engineer. */
+"Pairing..." = "Pairing...";
+
+/* No comment provided by engineer. */
+"paused" = "paused";
+
+/* No comment provided by engineer. */
+"Phone is not paired with a TV decoder" = "Phone is not paired with a TV decoder";
+
+/* No comment provided by engineer. */
+"planned" = "planned";
+
+/* No comment provided by engineer. */
+"planned recordings" = "planned recordings";
+
+/* No comment provided by engineer. */
+"Playback failed" = "Playback failed";
+
+/* No comment provided by engineer. */
+"Please update your TV Decoder" = "Please update your TV Decoder";
+
+/* No comment provided by engineer. */
+"Prime time" = "Prime time";
+
+/* No comment provided by engineer. */
+"Program your recordings remotely" = "Program your recordings remotely";
+
+/* No comment provided by engineer. */
+"Push message" = "Push message";
+
+/* No comment provided by engineer. */
+"Ready to cast videos from this app" = "Ready to cast videos from this app";
+
+/* No comment provided by engineer. */
+"Recommendations" = "Recommendations";
+
+/* No comment provided by engineer. */
+"record" = "record";
+
+/* No comment provided by engineer. */
+"recorder" = "recorder";
+
+/* No comment provided by engineer. */
+"Recording is being loaded" = "Recording is being loaded";
+
+/* No comment provided by engineer. */
+"Recording not deleted" = "Recording not deleted";
+
+/* No comment provided by engineer. */
+"recording not found" = "recording not found";
+
+/* No comment provided by engineer. */
+"Recording not set" = "Recording not set";
+
+/* nav bar's title */
+"recordings" = "recordings";
+
+/* No comment provided by engineer. */
+"remind" = "remind";
+
+/* No comment provided by engineer. */
+"reminder" = "reminder";
+
+/* No comment provided by engineer. */
+"Reminder in calendar set on %@" = "Reminder in calendar set on %@";
+
+/* nav bar's title */
+"reminders" = "reminders";
+
+/* nav bar's title */
+"remote" = "remote";
+
+/* No comment provided by engineer. */
+"remove" = "remove";
+
+/* No comment provided by engineer. */
+"Rent movie for €%1.2f" = "Rent movie for €%1.2f";
+
+/* No comment provided by engineer. */
+"Rent movie from €%1.2f" = "Rent movie from €%1.2f";
+
+/* nav bar's title */
+"rentals" = "rentals";
+
+/* nav bar's title */
+"replay" = "replay";
+
+/* No comment provided by engineer. */
+"Replay recommendations" = "Replay recommendations";
+
+/* No comment provided by engineer. */
+"restart" = "restart";
+
+/* No comment provided by engineer. */
+"s" = "s";
+
+/* No comment provided by engineer. */
+"scheduled recording" = "scheduled recording";
+
+/* nav bar's title */
+"search" = "search";
+
+/* No comment provided by engineer. */
+"Search for shows" = "Search for shows";
+
+/* episode overview */
+"season %@" = "season %@";
+
+/* episode details */
+"Season: %@" = "Season: %@";
+
+/* No comment provided by engineer. */
+"Select device to connect" = "Select device to connect";
+
+/* No comment provided by engineer. */
+"select photo" = "select photo";
+
+/* No comment provided by engineer. */
+"Select reminder type" = "Select reminder type";
+
+/* No comment provided by engineer. */
+"select tv decoder" = "select tv decoder";
+
+/* No comment provided by engineer. */
+"Select TV decoder to control:" = "Select TV decoder to control:";
+
+/* No comment provided by engineer. */
+"self care" = "self care";
+
+/* No comment provided by engineer. */
+"Send by mail" = "Send by mail";
+
+/* No comment provided by engineer. */
+"Send by Message" = "Send by Message";
+
+/* catchup */
+"series" = "series";
+
+/* No comment provided by engineer. */
+"Series" = "Series";
+
+/* No comment provided by engineer. */
+"set" = "set";
+
+/* No comment provided by engineer. */
+"Set a reminder" = "Set a reminder";
+
+/* No comment provided by engineer. */
+"Set a reminder for your favorite television show and never miss it again!" = "Set a reminder for your favorite television show and never miss it again!";
+
+/* No comment provided by engineer. */
+"Setting recording failed" = "Setting recording failed";
+
+/* nav bar's title */
+"settings" = "settings";
+
+/* No comment provided by engineer. */
+"share" = "share";
+
+/* No comment provided by engineer. */
+"Share by Facebook" = "Share by Facebook";
+
+/* No comment provided by engineer. */
+"Share by Twitter" = "Share by Twitter";
+
+/* No comment provided by engineer. */
+"sign in" = "sign in";
+
+/* No comment provided by engineer. */
+"Solocoo" = "Solocoo";
+
+/* No comment provided by engineer. */
+"Standby" = "Standby";
+
+/* No comment provided by engineer. */
+"STB disconnected" = "STB disconnected";
+
+/* No comment provided by engineer. */
+"STB stopped responding" = "STB stopped responding";
+
+/* No comment provided by engineer. */
+"stop" = "stop";
+
+/* No comment provided by engineer. */
+"The recording will play soon" = "The recording will play soon";
+
+/* No comment provided by engineer. */
+"The selected channel is not available on your current device" = "The selected channel is not available on your current device";
+
+/* No comment provided by engineer. */
+"The selected channel is not available via 3G. Please connect via a Wifi connection" = "The selected channel is not available via 3G. Please connect via a Wifi connection";
+
+/* No comment provided by engineer. */
+"The selected channel is not available via WiFi. Please connect via a 3G connection" = "The selected channel is not available via WiFi. Please connect via a 3G connection";
+
+/* No comment provided by engineer. */
+"The selected channel will be visible again from %@" = "The selected channel will be visible again from %@";
+
+/* No comment provided by engineer. */
+"This feature will be available soon" = "This feature will be available soon";
+
+/* No comment provided by engineer. */
+"This movie is still available for %d hours and %d minutes" = "This movie is still available for %1$d hours and %2$d minutes";
+
+/* No comment provided by engineer. */
+"This recording" = "This recording";
+
+/* No comment provided by engineer. */
+"This recording may overlap an ongoing one. Priority to" = "This recording may overlap an ongoing one. Priority to";
+
+/* No comment provided by engineer. */
+"This recording overlaps with existing ones. Do you want to remove old ones?" = "This recording overlaps with existing ones. Do you want to remove old ones?";
+
+/* No comment provided by engineer. */
+"today" = "today";
+
+/* No comment provided by engineer. */
+"trailer" = "trailer";
+
+/* No comment provided by engineer. */
+"TV" = "TV";
+
+/* No comment provided by engineer. */
+"tv" = "tv";
+
+/* No comment provided by engineer. */
+"TV decoder has invalid TV card" = "TV decoder has invalid TV card";
+
+/* No comment provided by engineer. */
+"TV decoder is busy" = "TV decoder is busy";
+
+/* No comment provided by engineer. */
+"TV Decoder not found in network" = "TV Decoder not found in network";
+
+/* nav bar's title */
+"TV guide" = "TV guide";
+
+/* No comment provided by engineer. */
+"TV recommendations" = "TV recommendations";
+
+/* No comment provided by engineer. */
+"Twitter sharing available from iOS 5.0. Upgrade your firmware." = "Twitter sharing available from iOS 5.0. Upgrade your firmware.";
+
+/* No comment provided by engineer. */
+"Unable to change the slideshow interval" = "Unable to change the slideshow interval";
+
+/* No comment provided by engineer. */
+"Unable to list albums (error %d)" = "Unable to list albums (error %d)";
+
+/* No comment provided by engineer. */
+"Unable to play selected photo" = "Unable to play selected photo";
+
+/* No comment provided by engineer. */
+"Unable to play selected song" = "Unable to play selected song";
+
+/* No comment provided by engineer. */
+"Unable to start the playlist" = "Unable to start the playlist";
+
+/* No comment provided by engineer. */
+"Unable to start the slideshow" = "Unable to start the slideshow";
+
+/* No comment provided by engineer. */
+"Unable to stop the slideshow" = "Unable to stop the slideshow";
+
+/* No comment provided by engineer. */
+"Unknown user" = "Unknown user";
+
+/* No comment provided by engineer. */
+"Unreachable Decoder. New recording not scheduled" = "Unreachable Decoder. New recording not scheduled";
+
+/* No comment provided by engineer. */
+"Video on demand" = "Video on demand";
+
+/* nav bar's title */
+"videos" = "videos";
+
+/* No comment provided by engineer. */
+"vod" = "vod";
+
+/* No comment provided by engineer. */
+"VOD %2$@ - “%1$@”" = "VOD %2$@ - “%1$@”";
+
+/* No comment provided by engineer. */
+"VOD recommendations" = "VOD recommendations";
+
+/* No comment provided by engineer. */
+"watch" = "watch";
+
+/* No comment provided by engineer. */
+"Watch %1$@ on %2$@ on %3$@ replay" = "Watch %1$@ on %2$@ on %3$@ replay";
+
+/* No comment provided by engineer. */
+"Watch movies with Video On Demand" = "Watch movies with Video On Demand";
+
+/* No comment provided by engineer. */
+"watch on TV" = "watch on TV";
+
+/* No comment provided by engineer. */
+"Watch your favorite programs when you want, program your recordings remotely!" = "Watch your favorite programs when you want, program your recordings remotely!";
+
+/* No comment provided by engineer. */
+"WiFi communication failed" = "WiFi communication failed";
+
+/* No comment provided by engineer. */
+"Would you like to update the app?" = "Would you like to update the app?";
+
+/* No comment provided by engineer. */
+"Wrong PIN code" = "Wrong PIN code";
+
+/* episode details */
+"Year: %d" = "Year: %d";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Yesterday";
+
+/* No comment provided by engineer. */
+"You are not allowed to record this channel" = "You are not allowed to record this channel";
+
+/* No comment provided by engineer. */
+"You can't watch this channel because you miss the %@." = "You can't watch this channel because you miss the %@.";
+
+/* No comment provided by engineer. */
+"You can't watch this program, because you miss the %@." = "You can't watch this program, because you miss the %@.";
+
+/* No comment provided by engineer. */
+"You can't watch this program, because you miss the needed offer." = "You can't watch this program, because you miss the needed offer.";
+
+/* No comment provided by engineer. */
+"You can't watch this program, because you miss the needed product." = "You can't watch this program, because you miss the needed product.";
+
+/* No comment provided by engineer. */
+"You can't watch this video, because you miss the %@." = "You can't watch this video, because you miss the %@.";
+
+/* No comment provided by engineer. */
+"You can't watch this video, because you miss the needed product." = "You can't watch this video, because you miss the needed product.";
+
+/* No comment provided by engineer. */
+"You don't have the correct offer to record, please call support %@" = "You don't have the correct offer to record, please call support %@";
+
+/* No comment provided by engineer. */
+"Your %1$@ needs to be connected via WiFi to the same access point as the %2$@ replay decoder." = "Your %1$@ needs to be connected via WiFi to the same access point as the %2$@ replay decoder.";
+
+/* No comment provided by engineer. */
+"Your %1$@ needs to be paired with an %2$@ replay decoder to use this feature." = "Your %1$@ needs to be paired with an %2$@ replay decoder to use this feature.";
+
+/* No comment provided by engineer. */
+"«%@» is playing this video." = "«%@» is playing this video.";
+
