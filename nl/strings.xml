@@ -381,4 +381,7 @@
 <string name="location_set_header">Bent u thuis</string>
     <string name="location_set_description">%1$s keer in een periode van %2$s dagen. Support telefoontjes %3$s</string>
     <string name="location_set_yes">Ja</string>
+    <string name="location_set_no">Nee</string>
+
+
     </resources>
