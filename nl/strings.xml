@@ -384,4 +384,6 @@
     <string name="location_set_no">Nee</string>
 
 
+    <string name="location_stored_header">Locatie opgeslagen</string>
+    <string name="location_stored_description">%1$s keer opgeslagen in een periode van %2$s dagen. %3$s support telefoontjes</string>
     </resources>
