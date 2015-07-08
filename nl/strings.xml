@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="settings_login_def">Inloggen</string>
     <string name="watch_tv">Kijk TV</string>
@@ -133,7 +133,7 @@
     <string name="related_episodes">Gerelateerde afleveringen</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
-    <string name="or">&#160;of&#160;</string>
+    <string name="or"> of </string>
     <string name="days_left">%1s dagen resterend</string>
     <string name="minutes">%1s minuten</string>
     <string name="min">minuten</string>
@@ -378,4 +378,7 @@
     <string name="wrong_parental_pin">Wrong parental PIN</string>
     <string name="to_enable_content_write_pin">Voordat deze content kan worden bekeken moet je de ouderlijk toezicht pincode invoeren.</string>
     <string name="enable_pg_description">You can be asked to enter you parental pincode according to guidance information of the content</string>
-</resources>
+<string name="location_set_header">Bent u thuis</string>
+    <string name="location_set_description">%1$s keer in een periode van %2$s dagen. Support telefoontjes %3$s</string>
+    <string name="location_set_yes">Ja</string>
+    </resources>
